@@ -28,8 +28,11 @@
       <a href="https://github.com/IronSummitMedia/startbootstrap/blob/gh-pages/LICENSE"> Apache 2.0</a>
    </li>
    <li>
-      <a href="http://flightphp.com/"> FlightPHP,
+      <a href="http://flightphp.com/"> FlightPHP</a>,
       <a href="http://flightphp.com/license"> MIT </a>
+   </li>
+   <li>
+      <a href="https://github.com/fablab-lannion/libre-en-fete-tregor"> Sources </a>
    </li>
 </ul>
 
