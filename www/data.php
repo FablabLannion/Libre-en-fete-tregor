@@ -26,21 +26,32 @@ $data_partenaires = array (
       "img/Logo-petitsdebrouillards.jpg",
       "http://www.lespetitsdebrouillardsbretagne.org/",
       "L’association « Les Petits Débrouillards » met en place des activités scientifiques et techniques pour les jeunes, afin de promouvoir la démarche expérimentale et l'esprit critique auprès du plus grand nombre."
-   ),  
+   ),
     array(
       "Lycée le Dantec",
       "img/LeDANTEC.png",
       "http://www.lycee-ledantec.ac-rennes.fr/",
       "Lycée public de Lannion, Félix le Dantec s'implique depuis plusieurs années dans le logiciel libre et depuis 3 ans organise chaque année une 'InstallParty & Initiation à GNU/Linux'.Nombre d'élèves (de STI et SSI) et étudiants (BTS/Licences Pro) ont été formé à l'usage et au développement sur le logiciel libre et l'openhardware."
-   ), 
+   ),
     array(
       "ENSSAT",
       "img/ENSSAT.png",
       "http://www.enssat.fr/",
       "L’Enssat (École Nationale Supérieure des Sciences Appliquées et de Technologie) est une école publique d’ingénieurs et un pôle de recherche dans le domaine des télécoms et des technologies émergentes. Grâce à ses équipes d’enseignement et de recherche en synergie avec le monde industriel, l’École dote ses élèves ingénieurs de compétences et de savoir-faire à la pointe des technologies pour un avenir assuré dans le développement de projets innovants."
-   ),       
+   ),
 );
 
 Flight::set('data_partenaires', $data_partenaires);
+
+$data_programme = array (
+   array(
+      "En cours de définition",
+      "img/notebook.png",
+      "https://openclipart.org/detail/223957/notebook-and-pencil",
+      "Revenez bientôt pour plus de détails."
+   ),
+);
+Flight::set('data_programme', $data_programme);
+
 
 ?>

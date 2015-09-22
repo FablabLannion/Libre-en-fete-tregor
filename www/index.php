@@ -5,7 +5,6 @@ require "data.php";
 
 /** definition des URLS */
 Flight::route('/',              'acceuil');
-// Flight::route('/',              'credits');
 Flight::route('/pratique',         'pratique');
 Flight::route('/programme',     'programme');
 Flight::route('/partenaires',   'partenaires');
