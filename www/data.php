@@ -50,6 +50,19 @@ $data_programme = array (
       "https://openclipart.org/detail/223957/notebook-and-pencil",
       "Revenez bientôt pour plus de détails."
    ),
+   array(
+      "Jouez librement et Retro gaming",
+      "img/jeux.jpg",
+      "",
+      "Le monde du libre propose aussi des jeux rivalisants avec les productions modernes. C'est aussi un réservoir de passionés qui vous permettront de jouer aux jeux de votre enfance. Venez découvrir et essayer ce grand écart sur les machines mises à votre disposition."
+   ),
+   array(
+      "Musique / Son libre",
+      "img/music.png",
+      "",
+      "description à détailler"
+   ),
+
 );
 Flight::set('data_programme', $data_programme);
 

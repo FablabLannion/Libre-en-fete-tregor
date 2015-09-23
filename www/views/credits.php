@@ -15,6 +15,10 @@
       <a href="https://www.flickr.com/photos/denisbourez/18781756013">Unconnected</a> Par Denis Bourez,
       <a href="https://creativecommons.org/licenses/by/2.0/">CC:BY</a>
    </li>
+   <li>
+      <a href="https://openclipart.org/detail/171472/musical-3">musical 3</a>,
+      Public Domain
+   </li>
 
 </ul>
 
