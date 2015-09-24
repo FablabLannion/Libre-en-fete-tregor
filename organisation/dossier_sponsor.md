@@ -137,7 +137,7 @@ Nous proposons plusieurs niveaux de sponsoring:
 - Logo sur les supports de com en petit format
 - Stand (4m linéaire) dans l'espace pro
 - 1/2 page dans la brochure d'information de la manifestation
-- 
+
 #### Espace dans l'espace Pro
 - Un stand d’une surface d’environ 9 m2. Equipement : cloisons et mobilier (1 table et 3 chaises), alimentation électrique (3 prises),connexion internet. Si besoins spécifiques > prévenir à l’inscription.
 - Un accès à un point café
