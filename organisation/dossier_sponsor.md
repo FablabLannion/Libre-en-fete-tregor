@@ -1,6 +1,7 @@
-
 Libre en fête en Trégor 2016
 ========================
+![Image Alt](https://github.com/fablab-lannion/libre-en-fete-tregor/blob/master/www/img/LeFeT_no_bg_small.png)
+
 26 Mars 2016 10h-18h
 -------------------------------
 
@@ -117,10 +118,11 @@ Partenaires
 
 Devenir sponsor 
 ---------------------
-Nous proposons 2 niveaux de sponsoring:
+Nous proposons plusieurs niveaux de sponsoring:
 
-- Platinium: 5K€ /  3 espaces 
-- Granit Rose: 1K€ / 10 espaces
+- Sponsor Platinium: à partir de 2K€ /  5 espaces 
+- Sponsor Granit Rose: 250€ / 20 espaces
+- Espace Pro: 150 €
 
 #### Sponsor Platinium
 - Logo sur tous les pages du site web
@@ -128,14 +130,26 @@ Nous proposons 2 niveaux de sponsoring:
 - Réseau d'affichage sur 30 panneaux 120x176 sur Lannion 
 - slot pour 1 conférence
 - Stand (pas de limitation d'espace dans la mesure du raisonable...) dans l'espace Pro
+- 1 page dans la brochure d'information de la manifestation
 
 #### Sponsor Granit Rose
 - Logo sur la page Partenaires du site web
 - Logo sur les supports de com en petit format
 - Stand (4m linéaire) dans l'espace pro
-
+- 1/2 page dans la brochure d'information de la manifestation
+- 
 #### Espace dans l'espace Pro
-- 100€ / m linéaire
+- Un stand d’une surface d’environ 9 m2. Equipement : cloisons et mobilier (1 table et 3 chaises), alimentation électrique (3 prises),connexion internet. Si besoins spécifiques > prévenir à l’inscription.
+- Un accès à un point café
+- Une présence dans le guide du visiteur et sur la page internet de l’événement
+
+#### Supports de com
+
+| Type | Nombre | Commentaires |
+| -----|--------|--------------|
+| 120x176 | 30 | réseaux d'affichage |
+| A3 | 50 | |
+| Flyers | 1000  | |
 
 
 > Written with [StackEdit](https://stackedit.io/).
