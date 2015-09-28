@@ -42,13 +42,13 @@ Programme
 
 | Horaire | Sujet | Présentateur |
 | --------|-------|--------------|
-| 11h00 | Petite histoire du logiciel libre | Fablab (Jérôme/Morgan) |
+| 11h00 | Petite histoire du logiciel libre | Fablab (Morgan) |
 | 11h30 | Cobalt un framework Open source made in Trégor | (@ code d'armor) |
 | 12h00 | OpenStreetMap | Eric Debeau |
 | 12h30 | La tête dans les étoile avec Stelarium | ???? | 
 | 13h30 | 20 minutes pour découvrir 5 logiciels | @Christian (Lycée) |
 | 14h00 | LoRa (l'IoT libre (ou presque) made in Trégor | (@code d'armor) |
-| 14h30 | Linux ou la petite histoire des grandes distributions | Fablab (Jérôme/Morgan)|
+| 14h30 | Eolienne auto-constuite PIGGOTT | Tripalium |
 | 15h00 | Logiciel libre et biens communs / creative commons | ???? |
 | 15h30 | La musique libre kezako | @christian |
 | 16h00 | LibreOffice | PATG? |
