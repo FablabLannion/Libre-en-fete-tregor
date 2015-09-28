@@ -45,7 +45,7 @@ Programme
 | 11h00 | Petite histoire du logiciel libre | Fablab (Morgan) |
 | 11h30 | Cobalt un framework Open source made in Trégor | (@ code d'armor) |
 | 12h00 | OpenStreetMap | Eric Debeau |
-| 12h30 | La tête dans les étoile avec Stelarium | ???? | 
+| 12h30 | La tête dans les étoiles avec Stelarium | ???? | 
 | 13h30 | 20 minutes pour découvrir 5 logiciels | @Christian (Lycée) |
 | 14h00 | LoRa (l'IoT libre (ou presque) made in Trégor | (@code d'armor) |
 | 14h30 | Eolienne auto-constuite PIGGOTT | Tripalium |
