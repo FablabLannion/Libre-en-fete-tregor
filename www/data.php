@@ -34,6 +34,12 @@ $data_partenaires = array (
       "Lycée public de Lannion, Félix le Dantec s'implique depuis plusieurs années dans le logiciel libre et depuis 3 ans organise chaque année une 'InstallParty & Initiation à GNU/Linux'.Nombre d'élèves (de STI et SSI) et étudiants (BTS/Licences Pro) ont été formé à l'usage et au développement sur le logiciel libre et l'openhardware."
    ),
    array(
+      "OSM France",
+      "img/OSM-FR-logo-web-avec-texte.png",
+      "http://openstreetmap.fr/asso",
+      "OpenStreetMap France est une association à but non lucratif régie par la loi de 1901 dont l'objectif est de promouvoir le projet OpenStreetMap et notamment la collecte, la diffusion et l'utilisation de données cartographiques sous licences libres."
+   ),
+   array(
       "PATG",
       "img/patg.png",
       "https://sites.google.com/site/patglannion2010/",
