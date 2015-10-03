@@ -63,16 +63,52 @@ $data_programme = array (
       "Revenez bientôt pour plus de détails."
    ),
    array(
-      "Jouez librement et Retro gaming",
+      "Espace A l'école du libre",
+      "img/espace-conf.jpg",
+      "",
+      "Des mini-conférences seront proposées tout au long de la journée."
+   ),
+   array(
+      "Espace Citoyen",
+      "img/espace-citoyen.jpg",
+      "",
+      "Cartographie participative, éoliennes auto-construites, apprentissage populaire"
+   ),
+   array(
+      "Espace Enfants",
+      "img/espace-enfants.jpg",
+      "",
+      "Initiation à la programmation, ateliers junior"
+   ),
+   array(
+      "Espace Fablab",
+      "img/espace-garage.jpg",
+      "",
+      "Imprimantes 3D, arduino, Rasberry: l'atelier des grands enfants"
+   ),
+   array(
+      "Espace Geek",
+      "img/espace-pro.jpg",
+      "",
+      "Initiation & Install Party, maquette avec système embarqué (RPI - MSP430 etc.)"
+   ),
+   array(
+      "Espace Jeux",
       "img/jeux.jpg",
       "",
       "Le monde du libre propose aussi des jeux rivalisants avec les productions modernes. C'est aussi un réservoir de passionés qui vous permettront de jouer aux jeux de votre enfance. Venez découvrir et essayer ce grand écart sur les machines mises à votre disposition."
    ),
    array(
-      "Musique / Son libre",
+      "Espace Multimedia",
       "img/music.png",
       "",
-      "description à détailler"
+      "Montage vidéo, stop motion, création musicale"
+   ),
+   array(
+      "Espace Pro",
+      "img/espace-pro.jpg",
+      "",
+      "Le libre se décline aussi dans les entreprises"
    ),
 
 );
