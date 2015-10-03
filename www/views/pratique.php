@@ -7,9 +7,10 @@
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Comment s'y rendre ?</h2>
                     <p  class="lead">
-                    Depuis la gare routière<br/>
-                    Depuis la gare SNCF<br/>
-                    Depuis l'aéroport<br>
+                    <a href="http://www.openstreetmap.org/directions?engine=osrm_car&route=48.72699%2C-3.45662%3B48.73128%2C-3.45346#map=17/48.72927/-3.45452&layers=T">Depuis la gare routière</a><br/>
+                    <a href="http://www.openstreetmap.org/directions?engine=osrm_car&route=48.72745%2C-3.46037%3B48.73128%2C-3.45346#map=17/48.72960/-3.45676&layers=T">Depuis la gare SNCF</a><br/>
+                    <a href="http://www.openstreetmap.org/directions?engine=osrm_car&route=48.7559%2C-3.4719%3B48.7313%2C-3.4535#map=14/48.7434/-3.4557&layers=T">Depuis l'aéroport</a><br>
+                    Plus d'information sur le <a href="http://www.ville-lannion.fr/page_decouvrirlannion_veniretsedepl_menu1.html">site de la ville de Lannion</a>
                     </p>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
