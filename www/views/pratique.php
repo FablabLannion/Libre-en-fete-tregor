@@ -14,10 +14,10 @@
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
                 carte interactive
-                    <iframe width="100%" height="300px" frameBorder="0" src="http://umap.openstreetmap.fr/en/map/untitled-map_54949?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined&captionBar=false">
+                    <iframe width="100%" height="300px" frameBorder="0" src="http://umap.openstreetmap.fr/en/map/untitled-map_54949?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined&captionBar=false#16/48.7313/-3.4547">
                     </iframe>
                     <p>
-                      <a href="http://umap.openstreetmap.fr/en/map/untitled-map_54949">See full screen</a>
+                      <a href="http://umap.openstreetmap.fr/en/map/untitled-map_54949">Carte en plein écran</a>
                     </p>
                 </div>
             </div>
