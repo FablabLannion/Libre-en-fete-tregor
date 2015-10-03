@@ -7,14 +7,18 @@
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Comment s'y rendre ?</h2>
                     <p  class="lead">
-                    Trajet en transport en commun <br/>
-                    adresse<br/>
-                    blablabla<br/>
+                    Depuis la gare routière<br/>
+                    Depuis la gare SNCF<br/>
+                    Depuis l'aéroport<br>
                     </p>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                carte OSM intégrée
-                    <img class="img-responsive" src="img/ursulines.jpg" alt="">
+                carte interactive
+                    <iframe width="100%" height="300px" frameBorder="0" src="http://umap.openstreetmap.fr/en/map/untitled-map_54949?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined&captionBar=false">
+                    </iframe>
+                    <p>
+                      <a href="http://umap.openstreetmap.fr/en/map/untitled-map_54949">See full screen</a>
+                    </p>
                 </div>
             </div>
 
