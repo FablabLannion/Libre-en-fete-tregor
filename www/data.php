@@ -88,7 +88,7 @@ $data_programme = array (
    ),
    array(
       "Espace Geek",
-      "img/espace-pro.jpg",
+      "img/espace-geek.jpg",
       "",
       "Initiation & Install Party, maquette avec système embarqué (RPI - MSP430 etc.)"
    ),
