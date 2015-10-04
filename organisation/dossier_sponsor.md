@@ -42,12 +42,12 @@ Programme
 
 | Horaire | Sujet | Présentateur |
 | --------|-------|--------------|
-| 11h00 | Petite histoire du logiciel libre | Fablab (Morgan) |
-| 11h30 | Open Source en entreprises | Kristal |
+| 11h00 | Petite histoire du logiciel libre | Fablab Lannion (Morgan Richomme) |
+| 11h30 | Open Source en entreprises | Kristal (Sébastien Vitard) |
 | 12h00 | OpenStreetMap | OSM France (Eric Debeau) |
 | 12h30 | La tête dans les étoiles avec Stelarium | ???? | 
 | 13h30 | 20 minutes pour découvrir 5 logiciels | @Christian (Lycée) |
-| 14h00 | LoRa (l'IoT libre (ou presque) made in Trégor | (@code d'armor) |
+| 14h00 | Internet des Objets: LoraWanisons le Trégor! | Cirrios (Thomas Leseney) |
 | 14h30 | Eolienne auto-constuite PIGGOTT | Tripalium |
 | 15h00 | Logiciel libre et biens communs / creative commons | ???? |
 | 15h30 | La musique libre kezako | @christian |
