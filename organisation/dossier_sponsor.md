@@ -71,7 +71,8 @@ Programme
 - Fablab Lannion, ateliers 3D, fraiseuses de tables / arduino (électronique)
 
 #### Espace Geek
-- Initiation & Install Party - maquette avec système embarqué (RPI - MSP430 etc.) (Lycée)
+- Initiation & Install Party - maquette avec système embarqué (RPI - MSP430 etc.) - Lycée Le Dantec
+- nstallation de Linux From Scratch (LFS) - ENSSAT
 - Hackathon (ENSSAT)?
 -  atelier "je créé mon site web avec word press"?
 - atelier github, LaTeX (ENSSAT)
