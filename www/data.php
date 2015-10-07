@@ -21,6 +21,17 @@ $data_partenaires = array (
       "http://fablab-lannion.org",
       "  Atelier participatif ouvert, le fablab de Lannion accueille petits et grands. Un objet à réparer, une idée à transformer, un besoin de support dans un domaine technique, le fablab de Lannion vous ouvre ses portes. Venez découvrir les imprimantes 3D, les logiciels Libres, les mini ordinateurs et autres robots."
    ),
+     array(
+      "IUT Lannion Infocom",
+      "img/logo_iut.png",
+      "http://www.iut-lannion.fr/lyceens-etudiants/choisir-un-dut/dut-infocom-optdeg-com",
+      "Le DUT InfoCom option information et communication des organisations prépare aux métiers tels que chargé(e) de communication, relation presse, graphiste, community manager, chef de projet, dans tout type d’organisation (entreprise, collectivité territoriale, agence de communication, association, etc.).
+       Enseignants-chercheurs, enseignants, et professionnels composent l'équipe pédagogique dans une quadruple logique:
+        - des enseignements exigeants en sciences humaines
+        - des diplômés opérationnels à court terme
+        - une forte responsabilisation des étudiants
+        - l'immersion dans des réseaux professionnels régionaux, grâce aux nombreux échanges avec le monde professionnel."
+   ),
     array(
       "Les petits débrouillards",
       "img/Logo-petitsdebrouillards.jpg",
