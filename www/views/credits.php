@@ -16,8 +16,34 @@
       <a href="https://creativecommons.org/licenses/by/2.0/">CC:BY</a>
    </li>
    <li>
+      <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Yalta_Conference_%28Churchill%2C_Roosevelt%2C_Stalin%29_%28B%26W%29.jpg/350px-Yalta_Conference_%28Churchill%2C_Roosevelt%2C_Stalin%29_%28B%26W%29.jpg"> Yalta conference</a>,
+      Public Domain,
+      Modification avec gimp par Morgan Richomme, <a href="https://creativecommons.org/licenses/by/2.0/">CC:BY</a>  
+   </li>
+   <li>
+	   <a href="https://en.wikipedia.org/wiki/Liberty_Leading_the_People#/media/File:Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg">La Liberté guidant le peule d'Eugène Delacoix</a>,
+	   Public Domain,
+	   Modification avec gimp par Morgan Richomme, <a href="https://creativecommons.org/licenses/by/2.0/">CC:BY</a>
+   </li>
+   <li>
+	   <a href="http://fr.freeimages.com/photo/kids-1491951">kids-1491951</a>,
+	   <a href="http://fr.freeimages.com/license">FreeImages.com/<a href="http://fr.freeimages.com/photographer/claudiad07-34094">Claudia Martinez</a></a>
+   </li>
+   <li>
+	   <a href="http://fr.freeimages.com/photo/robot-1169742">robot-1169742</a>,
+	   <a href="http://fr.freeimages.com/license">FreeImages.com/<a href="http://fr.freeimages.com/photographer/TheRivo-46167">Math TheRivo</a></a>
+   </li>
+   <li>
+	   <a href="http://fr.freeimages.com/photo/old-8-bit-computer-1542347">old-8-bit-computer-1542347</a>,
+	   <a href="http://fr.freeimages.com/license">FreeImages.com/<a href="http://fr.freeimages.com/photographer/stocker-34942">Kerem Yucel</a></a>
+   </li>
+   <li>
       <a href="https://openclipart.org/detail/171472/musical-3">musical 3</a>,
       Public Domain
+   </li>
+   <li>
+	   <a href="http://fr.freeimages.com/photo/businessmen-1170173">businessmen-1170173</a>,
+	   <a href="http://fr.freeimages.com/license">FreeImages.com/<a href="http://fr.freeimages.com/photographer/spekulator-53353">B S K</a></a>
    </li>
 
 </ul>
