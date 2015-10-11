@@ -9,7 +9,7 @@ Flight::route('/pratique',         'pratique');
 Flight::route('/programme',     'programme');
 Flight::route('/partenaires',   'partenaires');
 Flight::route('/credits',   'credits');
-
+Flight::route('/sponsors',   'sponsors');
 
 
 function acceuil() {
@@ -37,6 +37,10 @@ function credits() {
    Flight::render ('layout', array('title'=>"Crédits"));
 } // credits
 
+function sponsors() {
+   Flight::render ('sponsors', null, 'body' );
+   Flight::render ('layout', array('title'=>"Sponsors"));
+} // sponsors
 
 Flight::start();
 ?>
