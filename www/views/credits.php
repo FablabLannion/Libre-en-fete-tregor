@@ -42,10 +42,25 @@
       Public Domain
    </li>
    <li>
-	   <a href="http://fr.freeimages.com/photo/businessmen-1170173">businessmen-1170173</a>,
+	   <a href="https://openclipart.org/detail/226095/professional-people-silhouette"></a>,
 	   <a href="http://fr.freeimages.com/license">FreeImages.com/<a href="http://fr.freeimages.com/photographer/spekulator-53353">B S K</a></a>
    </li>
-
+   <li>
+	   <a href="https://openclipart.org/detail/226095/professional-people-silhouette">Professional People Silhouette by <a href="https://openclipart.org/user-detail/GDJ">GDJ</a></a>,
+	   Public Domain (OpenClipArt)
+   </li> 
+   <li>
+	   <a href="https://openclipart.org/detail/177797/badges">Badges by <a href="https://openclipart.org/user-detail/tatica">tatica</a></a>,
+	   Public Domain (OpenClipArt)
+   </li>    
+   <li>
+	   <a href="https://openclipart.org/detail/60109/award-symbol">award symbol by <a href="https://openclipart.org/user-detail/sheikh_tuhin"></a>Sheikh Tuhin</a>,
+	   Public Domain (OpenClipArt)
+   </li>    
+   <li>
+	   <a href="https://openclipart.org/detail/189359/penguins-just-love-openclipart">Penguins just love OpenClipart! by <a href="https://openclipart.org/user-detail/Moini"></a>Moini</a>,
+	   Public Domain (OpenClipArt)
+   </li>
 </ul>
 
 </div>

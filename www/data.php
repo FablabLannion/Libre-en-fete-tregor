@@ -125,5 +125,32 @@ $data_programme = array (
 );
 Flight::set('data_programme', $data_programme);
 
+$data_sponsors = array (
+   array(
+      "Devenir Sponsor",
+      "img/sponsor-badges-800px.png",
+      "",
+      "vous souhaitez associer votre entreprise à un événement grand public autour du numérique et du logiciel libre, contactez nous: contact@libre-en-fete-tregor.fr !"
+   ),
+   array(
+      "Platinium",
+      "img/award-800px.png",
+      "",
+      "Logo sur tous les pages du site web, Logo sur tous les supports de com (flyers, affiches 120x176, A4, A3) en grand format, Réseau d'affichage sur 30 panneaux 120x176 sur Lannion, slot pour 1 conférence, Stand (pas de limitation d'espace dans la mesure du raisonable...) dans l'espace Pro, 1 page dans la brochure d'information de la manifestation"
+   ),
+   array(
+      "Granit rose",
+      "img/penguins-like-ocal-800px.png",
+      "",
+      "Logo sur la page Sponsors du site web, Logo sur les supports de com en petit format, Stand dans l'espace pro, 1/2 page dans la brochure d'information de la manifestation"
+   ),   
+   array(
+      "Espace pro",
+      "img/Professional-People-Silhouette-800px.png",
+      "",
+      "Un stand d’une surface d’environ 9 m2. Equipement : cloisons et mobilier (1 table et 3 chaises), alimentation électrique (3 prises),connexion internet. Si besoins spécifiques > prévenir à l’inscription., Un accès à un point café, Une présence dans le guide du visiteur et sur la page internet de l’événement"
+   )      
+ );
+Flight::set('data_sponsors', $data_sponsors);  
 
 ?>
