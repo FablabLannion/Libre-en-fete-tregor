@@ -60,6 +60,9 @@
                     <li>
                         <a href="/partenaires">Partenaires</a>
                     </li>
+                    <li>
+                        <a href="/sponsors">Sponsors</a>
+                    </li>                    
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -93,6 +96,11 @@
                         <li class="footer-menu-divider">&sdot;</li>
                         <li>
                             <a href="/partenaires">Partenaires</a>
+                        </li>
+                        <li class="footer-menu-divider">&sdot;</li>
+                        <li>
+                        <li>
+                            <a href="/sponsors">Sponsors</a>
                         </li>
                         <li class="footer-menu-divider">&sdot;</li>
                         <li>
