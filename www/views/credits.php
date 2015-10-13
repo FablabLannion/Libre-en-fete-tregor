@@ -38,11 +38,11 @@
 	   <a href="http://fr.freeimages.com/license">FreeImages.com/<a href="http://fr.freeimages.com/photographer/stocker-34942">Kerem Yucel</a></a>
    </li>
    <li>
-      <a href="https://openclipart.org/detail/171472/musical-3">musical 3</a>,
+      <a href="https://openclipart.org/detail/171472/musical-3">musical 3 by <a href="https://openclipart.org/user-detail/andinuryadin">andinuryadin</a></a>
       Public Domain
    </li>
    <li>
-	   <a href="https://openclipart.org/detail/226095/professional-people-silhouette"></a>,
+	   <a href="https://openclipart.org/detail/226095/professional-people-silhouette">hommes d'affaire</a>,
 	   <a href="http://fr.freeimages.com/license">FreeImages.com/<a href="http://fr.freeimages.com/photographer/spekulator-53353">B S K</a></a>
    </li>
    <li>
