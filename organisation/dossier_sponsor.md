@@ -123,8 +123,8 @@ Devenir sponsor
 Nous proposons plusieurs niveaux de sponsoring:
 
 - Sponsor Platinium: à partir de 2K€ /  5 espaces 
-- Sponsor Granit Rose: 250€ / 20 espaces
-- Espace Pro: 150 €
+- Sponsor Granit Rose: 500€ / 10 espaces
+- Espace Pro: 100 €
 
 #### Sponsor Platinium
 - Logo sur tous les pages du site web
