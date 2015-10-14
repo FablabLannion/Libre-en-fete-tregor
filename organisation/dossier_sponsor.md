@@ -46,13 +46,14 @@ Programme
 | 11h30 | Open Source en entreprises | Kristal (Sébastien Vitard) |
 | 12h00 | OpenStreetMap | OSM France (Eric Debeau) |
 | 12h30 | La tête dans les étoiles avec Stelarium | ???? | 
-| 13h30 | 20 minutes pour découvrir 5 logiciels | @Christian (Lycée) |
+| 13h30 | Le libre au lycée | Lycée le Dantec |
 | 14h00 | Internet des Objets: LoraWanisons le Trégor! | Cirrios (Thomas Leseney) |
 | 14h30 | Eolienne auto-constuite PIGGOTT | Tripalium |
 | 15h00 | Logiciel libre et biens communs / creative commons | ???? |
 | 15h30 | La musique libre kezako | @christian |
 | 16h00 | LibreOffice | PATG? |
-| 16h30 | 20 minutes pour découvrir 5 logiciels | @Jonathan (ENSSAT) |
+| 16h30 | 20 minutes pour découvrir 5 logiciels | ENSSAT |
+| 17h00 | Remise des prix Hackathon ENSSAT | ENSSAT |
 
 
 #### Espace Citoyen
