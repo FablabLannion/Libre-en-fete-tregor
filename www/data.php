@@ -101,7 +101,7 @@ $data_programme = array (
       "Espace Geek",
       "img/espace-geek.jpg",
       "",
-      "Initiation & Install Party, maquette avec système embarqué (RPI - MSP430 etc.)"
+      "Initiation & Install Party, maquette avec système embarqué (RPI - MSP430 etc.), Linux From scratch (LFS)"
    ),
    array(
       "Espace Jeux",
