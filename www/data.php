@@ -4,10 +4,15 @@
 
 $data_partenaires = array (
    array(
+      "Astrotregor",
+      "img/LOGOCLUB2.JPG",
+      "http://www.astrosurf.com/astro-tregor/",
+      "Basé à Trébeurden, Le Club d'Astronomie du Trégor existe  depuis 1990 et réunit des passionnés où chacun apporte son savoir et ses expériences dans un but d'enrichissement commun. Au sein du club se succèdent des sorties nocturnes d'observation et des exposés traitant aussi bien d'une constellation que de cosmologie, d'astrophysique.  Le club a aussi  pour vocation de promouvoir l'astronomie auprès d'un large public, des plus jeunes aux plus sages."
+   ),   array(
       "Code d'Armor",
       "img/codedarmor.png",
       "http://www.codedarmor.fr/",
-      "  Code d'Armor a pour but de construire une communauté de développeurs sur la région de Lannion. Nous organisons des évènements autour du monde du développement informatique. Passionnés, Intéressés, Motivés, Interloqués, vous êtes tous les bienvenus !"
+      "Code d'Armor a pour but de construire une communauté de développeurs sur la région de Lannion. Nous organisons des évènements autour du monde du développement informatique. Passionnés, Intéressés, Motivés, Interloqués, vous êtes tous les bienvenus !"
    ),
     array(
       "ENSSAT",
