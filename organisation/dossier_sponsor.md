@@ -70,7 +70,7 @@ Programme
 - Initiation à la soudure (Fablab lannion)
 
 #### Espace Garage
-- Fablab Lannion, ateliers 3D, fraiseuses de tables / arduino (électronique)
+- Fablab Lannion, ateliers impression 3D, fraiseuses de tables / arduino (électronique)
 - Course de mini drône
 - Robots
 
