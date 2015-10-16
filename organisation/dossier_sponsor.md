@@ -45,48 +45,50 @@ Programme
 | 11h00 | Petite histoire du logiciel libre | Fablab Lannion (Morgan Richomme) |
 | 11h30 | Open Source en entreprises | Kristal (Sébastien Vitard) |
 | 12h00 | OpenStreetMap | OSM France (Eric Debeau) |
-| 12h30 | La tête dans les étoiles avec Stelarium | ???? | 
+| 12h30 | La tête dans les étoiles avec Stelarium | Astrotregor (Michel Maligot) | 
 | 13h30 | Le libre au lycée | Lycée le Dantec |
 | 14h00 | Internet des Objets: LoraWanisons le Trégor! | Cirrios (Thomas Leseney) |
 | 14h30 | Eolienne auto-constuite PIGGOTT | Tripalium |
-| 15h00 | Logiciel libre et biens communs / creative commons | ???? |
-| 15h30 | La musique libre kezako | @christian |
-| 16h00 | LibreOffice | PATG? |
-| 16h30 | 20 minutes pour découvrir 5 logiciels | ENSSAT |
+| 15h00 | Slot Sponsor | Sponsor |
+| 15h30 | 20 minutes pour découvrir 5 logiciels | ENSSAT |
+| 16h00 | Slot Sponsor | Sponsor  |
+| 16h30 | LibreOffice | PATG? |
 | 17h00 | Remise des prix Hackathon ENSSAT | ENSSAT |
 
 
 #### Espace Citoyen
-- stand cartographie / création de cartes personnalisées (OSM)
+- Stand cartographie / création de cartes personnalisées (OSM)
 - Apprendre les logiciels libres pour traitement de texte/PAO
 --- Libre Office  (PATG)
 --- PAO Scribus (Ro'spered)
 - Ville de Lannion?
-- visio avec Ouagalab? libristes du Sud (Benin, CI)?
+- Visio avec Ouagalab? libristes du Sud (Benin, CI)?
 
 #### Espace Enfants
-- atelier ouvert scratch / arduino (petits débrouillards)
+- Atelier électronique arduino (petits débrouillards)
 - Initiation à la programmation / scratch par Code d'Armor
+- Initiation à la soudure (Fablab lannion)
 
 #### Espace Garage
 - Fablab Lannion, ateliers 3D, fraiseuses de tables / arduino (électronique)
+- Course de mini drône
+- Robots
 
 #### Espace Geek
 - Initiation & Install Party - maquette avec système embarqué (RPI - MSP430 etc.) - Lycée Le Dantec
-- nstallation de Linux From Scratch (LFS) - ENSSAT
+- Installation de Linux From Scratch (LFS) - ENSSAT
 - Hackathon (ENSSAT)?
--  atelier "je créé mon site web avec word press"?
-- atelier github, LaTeX (ENSSAT)
-- résultats concours coder au féminin? (Lycée le Dantec)
+- Atelier github, LaTeX (ENSSAT)
+- Résultats concours coder au féminin? (Lycée le Dantec)
 
 #### Espace Jeux
-- le jeu libre (Fablab Lannion): concours FPS libre, Pang, frozen bubble ...
-- retro gaming (Fablab Lannion)
+- Le jeu libre (Fablab Lannion): xonotic (FPS), freeciv, frozen bubble ...
+- Retro gaming (Fablab Lannion)
 
 #### Espace Multi média
-- création de stop motions (Fablab)
-- montage vidéo (téléLannion?)
-- musique libre (@ Christian)
+- Création de stop motions (Fablab)
+- Montage vidéo (téléLannion?)
+- Musique libre (@ Christian)
 
 #### Espace Pro
 - West Tech?
@@ -99,24 +101,15 @@ Programme
 Partenaires
 ----------------
 #### les confirmés
+- Astrotregor
 - Code d'Armor
-- PATG
 - ENSSAT
 - Lycée le Dantec
 - Les petits débrouillards 
 - Fablab Lannion
--  Ro'spered
+- Ro'spered
 - IUT info com
 
-#### les à confirmer
-- Ville de Lannion
-- LTC
-- Anticipa
-- Infothema
-- les fablabs bretons ?
-- des entreprises?
-- CG22
-- des sponsors
 
 Devenir sponsor 
 ---------------------
@@ -149,9 +142,11 @@ Nous proposons plusieurs niveaux de sponsoring:
 
 | Type | Nombre | Commentaires |
 | -----|--------|--------------|
-| 120x176 | 30 | réseaux d'affichage |
-| A3 | 50 | |
-| Flyers | 1000  | |
+| 120x176 | 50 | réseaux d'affichage |
+| Flyers | 1000 | |
+| Programmes | 500 | |
+
+Plan média réalisé en mode projet par l'IUT Info Com
 
 
 > Written with [StackEdit](https://stackedit.io/).
