@@ -7,24 +7,24 @@ $data_partenaires = array (
       "Astrotregor",
       "img/LOGOCLUB2.JPG",
       "http://www.astrosurf.com/astro-tregor/",
-      "Basé à Trébeurden, Le Club d'Astronomie du Trégor existe  depuis 1990 et réunit des passionnés où chacun apporte son savoir et ses expériences dans un but d'enrichissement commun. Au sein du club se succèdent des sorties nocturnes d'observation et des exposés traitant aussi bien d'une constellation que de cosmologie, d'astrophysique.  Le club a aussi  pour vocation de promouvoir l'astronomie auprès d'un large public, des plus jeunes aux plus sages."
+      "Basé à Trébeurden, Le Club d'Astronomie du Trégor existe  depuis 1990 et réunit des passionnés où chacun apporte son savoir et ses expériences dans un but d'enrichissement commun. <br>Au sein du club se succèdent des sorties nocturnes d'observation et des exposés traitant aussi bien d'une constellation que de cosmologie, d'astrophysique.  Le club a aussi  pour vocation de promouvoir l'astronomie auprès d'un large public, des plus jeunes aux plus sages."
    ),   array(
       "Code d'Armor",
       "img/codedarmor.png",
       "http://www.codedarmor.fr/",
-      "Code d'Armor a pour but de construire une communauté de développeurs sur la région de Lannion. Nous organisons des évènements autour du monde du développement informatique. Passionnés, Intéressés, Motivés, Interloqués, vous êtes tous les bienvenus !"
+      "Code d'Armor a pour but de construire une communauté de développeurs sur la région de Lannion. Nous organisons des évènements autour du monde du développement informatique.<br> Passionnés, Intéressés, Motivés, Interloqués, vous êtes tous les bienvenus !"
    ),
     array(
       "ENSSAT",
       "img/ENSSAT.png",
       "http://www.enssat.fr/",
-      "L’Enssat (École Nationale Supérieure des Sciences Appliquées et de Technologie) est une école publique d’ingénieurs et un pôle de recherche dans le domaine des télécoms et des technologies émergentes. Grâce à ses équipes d’enseignement et de recherche en synergie avec le monde industriel, l’École dote ses élèves ingénieurs de compétences et de savoir-faire à la pointe des technologies pour un avenir assuré dans le développement de projets innovants."
+      "L’Enssat (École Nationale Supérieure des Sciences Appliquées et de Technologie) est une école publique d’ingénieurs et un pôle de recherche dans le domaine des télécoms et des technologies émergentes.<br>Grâce à ses équipes d’enseignement et de recherche en synergie avec le monde industriel, l’École dote ses élèves ingénieurs de compétences et de savoir-faire à la pointe des technologies pour un avenir assuré dans le développement de projets innovants."
    ),
    array(
       "Fablab Lannion",
       "img/fablab.jpg",
       "http://fablab-lannion.org",
-      "  Atelier participatif ouvert, le fablab de Lannion accueille petits et grands. Un objet à réparer, une idée à transformer, un besoin de support dans un domaine technique, le fablab de Lannion vous ouvre ses portes. Venez découvrir les imprimantes 3D, les logiciels Libres, les mini ordinateurs et autres robots."
+      "Atelier participatif ouvert, le fablab de Lannion accueille petits et grands. Un objet à réparer, une idée à transformer, un besoin de support dans un domaine technique, le fablab de Lannion vous ouvre ses portes. Venez découvrir les imprimantes 3D, les logiciels Libres, les mini ordinateurs et autres robots."
    ),
      array(
       "IUT Lannion Infocom",
@@ -32,10 +32,7 @@ $data_partenaires = array (
       "http://www.iut-lannion.fr/lyceens-etudiants/choisir-un-dut/dut-infocom-optdeg-com",
       "Le DUT InfoCom option information et communication des organisations prépare aux métiers tels que chargé(e) de communication, relation presse, graphiste, community manager, chef de projet, dans tout type d’organisation (entreprise, collectivité territoriale, agence de communication, association, etc.).
        Enseignants-chercheurs, enseignants, et professionnels composent l'équipe pédagogique dans une quadruple logique:
-        - des enseignements exigeants en sciences humaines
-        - des diplômés opérationnels à court terme
-        - une forte responsabilisation des étudiants
-        - l'immersion dans des réseaux professionnels régionaux, grâce aux nombreux échanges avec le monde professionnel."
+       <ul><li>des enseignements exigeants en sciences humaines</li><li>des diplômés opérationnels à court terme</li><li>une forte responsabilisation des étudiants</li><li>l'immersion dans des réseaux professionnels régionaux, grâce aux nombreux échanges avec le monde professionnel.</li></ul>"
    ),
     array(
       "Les petits débrouillards",
@@ -65,7 +62,7 @@ $data_partenaires = array (
       "Tripalium",
       "img/tripalium.jpeg",
       "http://www.tripalium.org/",
-      "Impulsée en 2007 par la volonté de développer les stages d’auto-construction, l’association Tripalium s’est transformée en un réseau d’acteur-rices. Sans salarié ni subvention, sa vitalité repose sur la dynamique des stages : les anciens stagiaires sont invités à devenir formateurs, puis à organiser des stages...Tripalium échange également à l’international avec des organisations similaires."
+      "Impulsée en 2007 par la volonté de développer les stages d’auto-construction, l’association Tripalium s’est transformée en un réseau d’acteur-rices. <br>Sans salarié ni subvention, sa vitalité repose sur la dynamique des stages : les anciens stagiaires sont invités à devenir formateurs, puis à organiser des stages...Tripalium échange également à l’international avec des organisations similaires."
    ),   
 );
 
@@ -82,43 +79,105 @@ $data_programme = array (
       "Espace A l'école du libre",
       "img/espace-conf.jpg",
       "",
-      "Des mini-conférences seront proposées tout au long de la journée."
+      "Des mini-conférences seront proposées tout au long de la journée. <table>
+  <tr>
+    <th>Horaire/th>
+    <th>Sujet</th>
+    <th>Présentateur</th>
+  </tr>
+  <tr>
+    <td>11H00</td>
+    <td>Petite histoire du logiciel libre</td>
+    <td>M.Richomme (Fablab Lannion)</td>
+  </tr>
+    <tr>
+    <td>11H30</td>
+    <td>Open Souce en Entreprise</td>
+    <td>S.Vitard (Krystal)</td>
+  </tr>
+  <tr>
+    <td>12H00</td>
+    <td>OpenStreetMap</td>
+    <td>E.Debeau (OSM France)</td>
+  </tr>
+  <tr>
+    <td>13H00</td>
+    <td>Le logiciel libre au lycée</td>
+    <td>Lycée le Dantec</td>
+  </tr>
+  <tr>
+    <td>13H30</td>
+    <td>La tête dans les étoiles avec Stelarium</td>
+    <td>M.Maligot (Astrotregor)</td>
+  </tr>
+  <tr>
+    <td>14H00</td>
+    <td>Eoliene auto-construite Piggott</td>
+    <td>L.Aubertin (Tripalium)</td>
+  </tr>
+  <tr>
+    <td>14H30</td>
+    <td>Slot Sponsor I</td>
+    <td>Sponsor</td>
+  </tr>
+  <tr>
+    <td>15H00</td>
+    <td>Le logiciel libre à l'ENSSAT</td>
+    <td>ENSSAT</td>
+  </tr>
+  <tr>
+    <td>15H30</td>
+    <td>Slot Sponsor II</td>
+    <td>Sponsor</td>
+  </tr>
+  <tr>
+    <td>16H30</td>
+    <td>Remise des prix \"coder au féminin\"</td>
+    <td>Lycée le Dantec</td>
+  </tr>
+  <tr>
+    <td>17H00</td>
+    <td>Remise des prix \"Hackathon ENSSAT\"</td>
+    <td>ENSSAT</td>
+  </tr>
+
+</table> "
    ),
    array(
       "Espace Citoyen",
       "img/espace-citoyen.jpg",
       "",
-      "Cartographie participative, éoliennes auto-construites, apprentissage populaire"
+      "<ul><li>Cartographie participative,</li> <li>éoliennes auto-construites,</li> <li>apprentissage populaire</li><li>PAO Scribus par l'association Ro\'sperred</li></ul>"
    ),
    array(
       "Espace Enfants",
       "img/espace-enfants.jpg",
       "",
-      "Initiation à la programmation, ateliers junior"
+      "<ul><il>Initiation à la programmation avec sratch,</il> <il>ateliers électronique junior</il><il>initiation à la soudure</il></ul>"
    ),
    array(
       "Espace Fablab",
       "img/espace-garage.jpg",
       "",
-      "Imprimantes 3D, arduino, Rasberry: l'atelier des grands enfants"
+      "l'atelier des grands enfants:<br><ul><li>espace impression 3D,</li> <li>initiation à arduino,</li><li>course de mini drônes</li><li>espace robotique</li> </ul>"
    ),
    array(
       "Espace Geek",
       "img/espace-geek.jpg",
       "",
-      "Initiation & Install Party, maquette avec système embarqué (RPI - MSP430 etc.), Linux From scratch (LFS)"
+      "<ul><li>Initiation & Install Party,</li> <li>Hackathon</li><li>Coder au féminin</li><li>atelier LaTex</li><li>maquette avec système embarqué (RPI - MSP430 etc.),</li> <li>Linux From scratch (LFS)</li></ul>"
    ),
    array(
       "Espace Jeux",
       "img/jeux.jpg",
       "",
-      "Le monde du libre propose aussi des jeux rivalisants avec les productions modernes. C'est aussi un réservoir de passionés qui vous permettront de jouer aux jeux de votre enfance. Venez découvrir et essayer ce grand écart sur les machines mises à votre disposition."
+      "Le monde du libre propose aussi des jeux rivalisants avec les productions modernes.<br> C'est aussi un réservoir de passionés qui vous permettront de jouer aux jeux de votre enfance. <br>Venez découvrir et essayer ce grand écart sur les machines mises à votre disposition."
    ),
    array(
       "Espace Multimedia",
       "img/music.png",
       "",
-      "Montage vidéo, stop motion, création musicale"
+      "<ul><li>Montage vidéo,</li> <li>stop motion,</li> <li>création musicale</li></ul>"
    ),
    array(
       "Espace Pro",
@@ -135,25 +194,25 @@ $data_sponsors = array (
       "Devenir Sponsor",
       "img/sponsor-badges-800px.png",
       "",
-      "vous souhaitez associer votre entreprise à un événement grand public autour du numérique et du logiciel libre, contactez nous: contact@libre-en-fete-tregor.fr !"
+      "vous souhaitez associer votre entreprise à un événement grand public autour du numérique et du logiciel libre, contactez nous: <a href="mailto:contact@libre-en-fete-tregor.fr">contact@libre-en-fete-tregor.fr</a> !"
    ),
    array(
       "Platinium",
       "img/award-800px.png",
       "",
-      "<ul><li>Logo sur tous les pages du site web,</li> <li>Logo sur tous les supports de com (flyers, affiches 120x176, A4, A3) en grand format,</li><li>Réseau d'affichage sur 30 panneaux 120x176 sur Lannion,</li> <li>slot pour 1 conférence, </li><li><Stand (pas de limitation d'espace dans la mesure du raisonable...) dans l'espace Pro,/li> <li>1 page dans la brochure d'information de la manifestation</li></ul>"
+      "<ul><li>Logo sur tous les pages du site web,</li> <li>Logo sur tous les supports de com (flyers, affiches 120x176, A4, A3) en grand format,</li><li>Réseau d'affichage sur 30 panneaux 120x176 sur Lannion,</li> <li>slot pour 1 conférence, </li><li>Stand (pas de limitation d'espace dans la mesure du raisonable...) dans l'espace Pro,</li> <li>1 page dans la brochure d'information de la manifestation</li></ul>"
    ),
    array(
       "Granit rose",
       "img/penguins-like-ocal-800px.png",
       "",
-      "Logo sur la page Sponsors du site web, Logo sur les supports de com en petit format, Stand dans l'espace pro, 1/2 page dans la brochure d'information de la manifestation"
+      "<ul><li>Logo sur la page Sponsors du site web,</li> <li>Logo sur les supports de com en petit format,</li> <li>Stand dans l'espace pro,</li> <li>1/2 page dans la brochure d'information de la manifestation</li></ul>"
    ),   
    array(
       "Espace pro",
       "img/Professional-People-Silhouette-800px.png",
       "",
-      "Un stand d’une surface d’environ 9 m2. Equipement : cloisons et mobilier (1 table et 3 chaises), alimentation électrique (3 prises),connexion internet. Si besoins spécifiques > prévenir à l’inscription., Un accès à un point café, Une présence dans le guide du visiteur et sur la page internet de l’événement"
+      "<ul><li>Un stand d’une surface d’environ 9 m2. Equipement : cloisons et mobilier (1 table et 3 chaises), alimentation électrique (3 prises),connexion internet.Si besoins spécifiques, prévenir à l’inscription.,</li> <li>Repas du midi, un accès à un point café, </li><li>Une présence dans le guide du visiteur et sur la page internet de l’événement</li></ul>"
    )      
  );
 Flight::set('data_sponsors', $data_sponsors);  
