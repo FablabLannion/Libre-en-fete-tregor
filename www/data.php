@@ -141,7 +141,7 @@ $data_sponsors = array (
       "Platinium",
       "img/award-800px.png",
       "",
-      "Logo sur tous les pages du site web,\n Logo sur tous les supports de com (flyers,\n affiches 120x176, A4, A3) en grand format,\n Réseau d'affichage sur 30 panneaux 120x176 sur Lannion,\n slot pour 1 conférence, \nStand (pas de limitation d'espace dans la mesure du raisonable...) dans l'espace Pro,\n 1 page dans la brochure d'information de la manifestation"
+      "<ul><li>Logo sur tous les pages du site web,</li> <li>Logo sur tous les supports de com (flyers, affiches 120x176, A4, A3) en grand format,</li><li>Réseau d'affichage sur 30 panneaux 120x176 sur Lannion,</li> <li>slot pour 1 conférence, </li><li><Stand (pas de limitation d'espace dans la mesure du raisonable...) dans l'espace Pro,/li> <li>1 page dans la brochure d'information de la manifestation</li></ul>"
    ),
    array(
       "Granit rose",
