@@ -81,7 +81,7 @@ $data_programme = array (
       "",
       "Des mini-conférences seront proposées tout au long de la journée. <table>
   <tr>
-    <th>Horaire/th>
+    <th>Horaire</th>
     <th>Sujet</th>
     <th>Présentateur</th>
   </tr>
@@ -147,25 +147,25 @@ $data_programme = array (
       "Espace Citoyen",
       "img/espace-citoyen.jpg",
       "",
-      "<ul><li>Cartographie participative,</li> <li>éoliennes auto-construites,</li> <li>apprentissage populaire</li><li>PAO Scribus par l'association Ro\'sperred</li></ul>"
+      "<ul><li>Cartographie participative,</li> <li>Eoliennes auto-construites,</li> <li>Apprentissage populaire</li><li>PAO Scribus par l'association Ro\'sperred</li></ul>"
    ),
    array(
       "Espace Enfants",
       "img/espace-enfants.jpg",
       "",
-      "<ul><il>Initiation à la programmation avec sratch,</il> <il>ateliers électronique junior</il><il>initiation à la soudure</il></ul>"
+      "<ul><li>Initiation à la programmation avec sratch,</li> <li>Ateliers électronique junior</li><li>Initiation à la soudure</li></ul>"
    ),
    array(
       "Espace Fablab",
       "img/espace-garage.jpg",
       "",
-      "l'atelier des grands enfants:<br><ul><li>espace impression 3D,</li> <li>initiation à arduino,</li><li>course de mini drônes</li><li>espace robotique</li> </ul>"
+      "l'atelier des grands enfants:<br><ul><li>Espace impression 3D,</li> <li>Initiation à arduino,</li><li>Course de mini drônes</li><li>Espace robotique</li> </ul>"
    ),
    array(
       "Espace Geek",
       "img/espace-geek.jpg",
       "",
-      "<ul><li>Initiation & Install Party,</li> <li>Hackathon</li><li>Coder au féminin</li><li>atelier LaTex</li><li>maquette avec système embarqué (RPI - MSP430 etc.),</li> <li>Linux From scratch (LFS)</li></ul>"
+      "<ul><li>Initiation & Install Party,</li> <li>Hackathon</li><li>Coder au féminin</li><li>Atelier LaTex</li><li>Maquette avec système embarqué (RPI - MSP430 etc.),</li> <li>Linux From scratch (LFS)</li></ul>"
    ),
    array(
       "Espace Jeux",
@@ -177,7 +177,7 @@ $data_programme = array (
       "Espace Multimedia",
       "img/music.png",
       "",
-      "<ul><li>Montage vidéo,</li> <li>stop motion,</li> <li>création musicale</li></ul>"
+      "<ul><li>Montage vidéo,</li> <li>Stop motion,</li> <li>Création musicale</li></ul>"
    ),
    array(
       "Espace Pro",
