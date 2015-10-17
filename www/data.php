@@ -194,7 +194,7 @@ $data_sponsors = array (
       "Devenir Sponsor",
       "img/sponsor-badges-800px.png",
       "",
-      "vous souhaitez associer votre entreprise à un événement grand public autour du numérique et du logiciel libre, contactez nous: <a href="mailto:contact@libre-en-fete-tregor.fr">contact@libre-en-fete-tregor.fr</a> !"
+      "vous souhaitez associer votre entreprise à un événement grand public autour du numérique et du logiciel libre, contactez nous: <a href=\"mailto:contact@libre-en-fete-tregor.fr\">contact@libre-en-fete-tregor.fr</a> !"
    ),
    array(
       "Platinium",
