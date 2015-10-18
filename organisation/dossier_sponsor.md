@@ -45,13 +45,12 @@ Programme
 | 11h00 | Petite histoire du logiciel libre | Fablab Lannion (Morgan Richomme) |
 | 11h30 | Open Source en entreprises | Kristal (Sébastien Vitard) |
 | 12h00 | OpenStreetMap | OSM France (Eric Debeau) |
-| 12h30 | La tête dans les étoiles avec Stelarium | Astrotregor (Michel Maligot) | 
-| 13h30 | Le libre au lycée | Lycée le Dantec |
-| 14h00 | Internet des Objets: LoraWanisons le Trégor! | Cirrios (Thomas Leseney) |
-| 14h30 | Eolienne auto-constuite PIGGOTT | Tripalium |
-| 15h00 | Slot Sponsor | Sponsor |
-| 15h30 | 20 minutes pour découvrir 5 logiciels | ENSSAT |
-| 16h00 | Slot Sponsor | Sponsor  |
+| 13h00 | Le libre au lycée | Lycée le Dantec |
+| 13h30 | La tête dans les étoiles avec Stelarium | Astrotregor (Michel Maligot) | 
+| 14h00 | Eolienne auto-constuite PIGGOTT | Tripalium |
+| 14h30 | Slot Sponsor | Sponsor |
+| 15h00 | Le logiciel libre à l'ENSSAT | ENSSAT |
+| 15h30 | Slot Sponsor | Sponsor  |
 | 16h30 | Remise des prix coder au féminin | Lycée le Dantec |
 | 17h00 | Remise des prix Hackathon ENSSAT | ENSSAT |
 
