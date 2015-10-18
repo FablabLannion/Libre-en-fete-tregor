@@ -52,7 +52,7 @@ Programme
 | 15h00 | Slot Sponsor | Sponsor |
 | 15h30 | 20 minutes pour découvrir 5 logiciels | ENSSAT |
 | 16h00 | Slot Sponsor | Sponsor  |
-| 16h30 | LibreOffice | PATG? |
+| 16h30 | Remise des prix coder au féminin | Lycée le Dantec |
 | 17h00 | Remise des prix Hackathon ENSSAT | ENSSAT |
 
 
