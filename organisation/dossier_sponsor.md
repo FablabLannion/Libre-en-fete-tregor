@@ -12,7 +12,7 @@ Libre en fête en Trégor 2016
 
 Présentation
 ------------------
-**Libre en Fête** est une journée autour du **logiciel libre** à Lannion. Animations, conférences, ateliers, Install Party, démo, le **samedi 26 Mars 2016 de 14h à 18h dans la grande salle des Ursulines à Lannion**.
+**Libre en Fête** est une journée autour du **logiciel libre** à Lannion. Animations, conférences, ateliers, Install Party, démo, le **samedi 26 Mars 2016 de 10h à 18h dans la grande salle des Ursulines à Lannion**.
 
  Initiée et coordonnée par l'April, l'initiative Libre en Fête célébrera son 16ème anniversaire en 2016. Des événements de découverte des Logiciels Libres et du Libre en général sont proposés partout en France, dans une dynamique conviviale et festive.
 
