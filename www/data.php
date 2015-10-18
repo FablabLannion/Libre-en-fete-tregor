@@ -26,7 +26,13 @@ $data_partenaires = array (
       "http://fablab-lannion.org",
       "Atelier participatif ouvert, le fablab de Lannion accueille petits et grands. Un objet à réparer, une idée à transformer, un besoin de support dans un domaine technique, le fablab de Lannion vous ouvre ses portes. Venez découvrir les imprimantes 3D, les logiciels Libres, les mini ordinateurs et autres robots."
    ),
-     array(
+   array(
+      "Infothema",
+      "img/infothema.png",
+      "http://www.infothema.fr/",
+      "L'association infothema a pour vocation la promotion des Logiciels Libres sur le département des Côtes d'Armor (Bretagne)"
+   ),
+   array(
       "IUT Lannion Infocom",
       "img/logo_iut.png",
       "http://www.iut-lannion.fr/lyceens-etudiants/choisir-un-dut/dut-infocom-optdeg-com",
@@ -58,6 +64,12 @@ $data_partenaires = array (
       "https://sites.google.com/site/patglannion2010/",
       "Promouvoir et Agir en Trégor Goélo (PATG) est une association axée sur l'aide aux particuliers et aux très petites entreprises du Trégor Goélo. PATG tente de réduire la fracture sociale et la fracture technique en visant la reprise des relations humaines et la réinsertion sociale. L'informatique est utilisée comme support parce que c'est un élément qui permet facilement les rapprochements humains, et apporte un complément de connaissances utile pour l'emploi et la vie courante"
    ),
+ array(
+      "Ro'spered",
+      "img/rospered.png",
+      "https://sites.google.com/site/rospered/",
+      "Ro’spered Patrimoine : tel est le nom d'un petit groupe (8 personnes) d'amateurs d'histoire locale à Rospez, partie prenante de l'association culturelle Ro'spered (\"donne de l'esprit\" en breton).<br>Son but : collecter, mettre en forme et, à plus long terme,synthétiser des documents concernant l’histoire et le patrimoine de la commune. <br>L’association utilise pleinement la cartographie numérique à partir de logiciels libres, notamment OpenStreetMap, pour la représentation des données spatiales recueillies dans les différentes sources d’archive."
+   ),  
     array(
       "Tripalium",
       "img/tripalium.jpeg",
