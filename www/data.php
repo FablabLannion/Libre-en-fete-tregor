@@ -85,7 +85,7 @@ $data_programme = array (
       "En cours de définition",
       "img/notebook.png",
       "https://openclipart.org/detail/223957/notebook-and-pencil",
-      "Revenez bientôt pour plus de détails."
+      "La journée prévoit d'être riche avec des mini-conférences, des ateliers, des concours."
    ),
    array(
       "Espace A l'école du libre",
@@ -159,25 +159,25 @@ $data_programme = array (
       "Espace Citoyen",
       "img/espace-citoyen.jpg",
       "",
-      "<ul><li>Cartographie participative,</li> <li>Eoliennes auto-construites,</li> <li>Apprentissage populaire</li><li>PAO Scribus par l'association Ro\'sperred</li></ul>"
+      "<ul><li>Cartographie participative avec <a href=\"https://openstreetmap.fr/\">OpenStreetMap</a>,</li> <li>Eoliennes auto-construites <a href=\"http://www.tripalium.org/eolienne-piggott\">Piggott</a>,</li> <li>Apprentissage populaire</li><li>PAO <a hef=\"http://www.scribus.net/\">Scribus</a> par l'association Ro'spered</li></ul>"
    ),
    array(
       "Espace Enfants",
       "img/espace-enfants.jpg",
       "",
-      "<ul><li>Initiation à la programmation avec sratch,</li> <li>Ateliers électronique junior</li><li>Initiation à la soudure</li></ul>"
+      "<ul><li>Initiation à la programmation avec <a href=\"https://scratch.mit.edu/\">Scratch</a>,</li> <li>Ateliers électronique junior</li><li>Initiation à la soudure</li></ul>"
    ),
    array(
       "Espace Fablab",
       "img/espace-garage.jpg",
       "",
-      "l'atelier des grands enfants:<br><ul><li>Espace impression 3D,</li> <li>Initiation à arduino,</li><li>Course de mini drônes</li><li>Espace robotique</li> </ul>"
+      "l'atelier des grands enfants:<br><ul><li>Espace impression 3D,</li> <li>Initiation à <a href=\"https://www.arduino.cc/\">arduino</a>,</li><li>Course de mini drônes</li><li>Espace robotique</li> </ul>"
    ),
    array(
       "Espace Geek",
       "img/espace-geek.jpg",
       "",
-      "<ul><li>Initiation & Install Party,</li> <li>Hackathon</li><li>Coder au féminin</li><li>Atelier LaTex</li><li>Maquette avec système embarqué (RPI - MSP430 etc.),</li> <li>Linux From scratch (LFS)</li></ul>"
+      "<ul><li>Initiation & Install Party,</li> <li>Hackathon</li><li>Coder au féminin</li><li>Atelier <a href=\"http://www.latex-project.org/\">LaTex</a></li><li>Maquette avec système embarqué (RPI - MSP430 etc.),</li> <li><a href=\"http://www.fr.linuxfromscratch.org/\">Linux From scratch (LFS)</a></li></ul>"
    ),
    array(
       "Espace Jeux",
@@ -189,7 +189,7 @@ $data_programme = array (
       "Espace Multimedia",
       "img/music.png",
       "",
-      "<ul><li>Montage vidéo,</li> <li>Stop motion,</li> <li>Création musicale</li></ul>"
+      "<ul><li>Montage vidéo avec <a href=\"http://openshot.org/\">OpenShot</a>, a href=\"https://kdenlive.org/\">Kdenlive</a> ou <a href=\"http://cinelerra.org/2015/\">Cinelerra</a>,</li> <li><a href=\"http://www.linuxstopmotion.org/\"Stop motion</a>,</li> <li>Création musicale</li></ul>"
    ),
    array(
       "Espace Pro",
