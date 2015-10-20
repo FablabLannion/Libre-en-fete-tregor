@@ -4,11 +4,18 @@
 
 $data_partenaires = array (
    array(
+      "Kristal",
+      "img/kristal.png",
+      "http://kristal.io/fr/",
+      "Lancée en février 2015, Kristal propose, avec son Framework Open Source Cobalt, un nouvel outil pour développer des applications mobiles, utilisant le Web afin de réduire les coûts tout en gardant des performances élevées. Cobalt, c'est aussi une association, les 'Cobaltians', qui a pour objet de faire connaître, promouvoir et améliorer le framework."
+   ),
+   array(
       "Astrotregor",
       "img/LOGOCLUB2.JPG",
       "http://www.astrosurf.com/astro-tregor/",
       "Basé à Trébeurden, Le Club d'Astronomie du Trégor existe  depuis 1990 et réunit des passionnés où chacun apporte son savoir et ses expériences dans un but d'enrichissement commun. <br>Au sein du club se succèdent des sorties nocturnes d'observation et des exposés traitant aussi bien d'une constellation que de cosmologie, d'astrophysique.  Le club a aussi  pour vocation de promouvoir l'astronomie auprès d'un large public, des plus jeunes aux plus sages."
-   ),   array(
+   ),
+   array(
       "Code d'Armor",
       "img/codedarmor.png",
       "http://www.codedarmor.fr/",
