@@ -4,12 +4,6 @@
 
 $data_partenaires = array (
    array(
-      "Kristal",
-      "img/kristal.png",
-      "http://kristal.io/fr/",
-      "Lancée en février 2015, Kristal propose, avec son Framework Open Source Cobalt, un nouvel outil pour développer des applications mobiles, utilisant le Web afin de réduire les coûts tout en gardant des performances élevées. Cobalt, c'est aussi une association, les 'Cobaltians', qui a pour objet de faire connaître, promouvoir et améliorer le framework."
-   ),
-   array(
       "Astrotregor",
       "img/LOGOCLUB2.JPG",
       "http://www.astrosurf.com/astro-tregor/",
@@ -48,6 +42,12 @@ $data_partenaires = array (
        <ul><li>des enseignements exigeants en sciences humaines</li><li>des diplômés opérationnels à court terme</li><li>une forte responsabilisation des étudiants</li><li>l'immersion dans des réseaux professionnels régionaux, grâce aux nombreux échanges avec le monde professionnel.</li></ul>"
    ),
     array(
+      "Kristal",
+      "img/kristal.png",
+      "http://kristal.io/fr/",
+      "Lancée en février 2015, Kristal propose, avec son Framework Open Source Cobalt, un nouvel outil pour développer des applications mobiles, utilisant le Web afin de réduire les coûts tout en gardant des performances élevées. Cobalt, c'est aussi une association, les 'Cobaltians', qui a pour objet de faire connaître, promouvoir et améliorer le framework."
+   ),  
+    array(
       "Les petits débrouillards",
       "img/Logo-petitsdebrouillards.jpg",
       "http://www.lespetitsdebrouillardsbretagne.org/",
@@ -65,13 +65,13 @@ $data_partenaires = array (
       "http://openstreetmap.fr/asso",
       "OpenStreetMap France est une association à but non lucratif régie par la loi de 1901 dont l'objectif est de promouvoir le projet OpenStreetMap et notamment la collecte, la diffusion et l'utilisation de données cartographiques sous licences libres."
    ),
-   array(
+/*  array(
       "PATG",
       "img/patg.png",
       "https://sites.google.com/site/patglannion2010/",
       "Promouvoir et Agir en Trégor Goélo (PATG) est une association axée sur l'aide aux particuliers et aux très petites entreprises du Trégor Goélo. PATG tente de réduire la fracture sociale et la fracture technique en visant la reprise des relations humaines et la réinsertion sociale. L'informatique est utilisée comme support parce que c'est un élément qui permet facilement les rapprochements humains, et apporte un complément de connaissances utile pour l'emploi et la vie courante"
    ),
- array(
+*/ array(
       "Ro'spered",
       "img/rospered.png",
       "https://sites.google.com/site/rospered/",
