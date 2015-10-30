@@ -171,7 +171,7 @@ $data_programme = array (
       "Espace Citoyen",
       "img/espace-citoyen.jpg",
       "",
-      "<ul><li>Cartographie participative avec <a href=\"https://openstreetmap.fr/\">OpenStreetMap</a>,</li> <li>Eoliennes auto-construites <a href=\"http://www.tripalium.org/eolienne-piggott\">Piggott</a>,</li> <li>Apprentissage populaire</li><li>PAO <a hef=\"http://www.scribus.net/\">Scribus</a> par l'association Ro'spered</li><li>F.Youzan <a href="http://www.fyouzan.ci/">une regard d'africain sur le libre</a></li></ul>"
+      "<ul><li>Cartographie participative avec <a href=\"https://openstreetmap.fr/\">OpenStreetMap</a>,</li> <li>Eoliennes auto-construites <a href=\"http://www.tripalium.org/eolienne-piggott\">Piggott</a>,</li> <li>Apprentissage populaire</li><li>PAO <a hef=\"http://www.scribus.net/\">Scribus</a> par l'association Ro'spered</li><li>F.Youzan <a href=\"http://www.fyouzan.ci/\">une regard d'africain sur le libre</a></li></ul>"
    ),
    array(
       "Espace Enfants",
