@@ -120,6 +120,11 @@ $data_programme = array (
     <td>E.Debeau (OSM France)</td>
   </tr>
   <tr>
+    <td>12H30</td>
+    <td>Le logiciel libre, un atout pour le développemen en Afrique</td>
+    <td>F.Youzan</td>
+  </tr>
+  <tr>
     <td>13H00</td>
     <td>Le logiciel libre au lycée</td>
     <td>Lycée le Dantec</td>
@@ -166,7 +171,7 @@ $data_programme = array (
       "Espace Citoyen",
       "img/espace-citoyen.jpg",
       "",
-      "<ul><li>Cartographie participative avec <a href=\"https://openstreetmap.fr/\">OpenStreetMap</a>,</li> <li>Eoliennes auto-construites <a href=\"http://www.tripalium.org/eolienne-piggott\">Piggott</a>,</li> <li>Apprentissage populaire</li><li>PAO <a hef=\"http://www.scribus.net/\">Scribus</a> par l'association Ro'spered</li></ul>"
+      "<ul><li>Cartographie participative avec <a href=\"https://openstreetmap.fr/\">OpenStreetMap</a>,</li> <li>Eoliennes auto-construites <a href=\"http://www.tripalium.org/eolienne-piggott\">Piggott</a>,</li> <li>Apprentissage populaire</li><li>PAO <a hef=\"http://www.scribus.net/\">Scribus</a> par l'association Ro'spered</li><li>F.Youzan <a href="http://www.fyouzan.ci/">une regard d'africain sur le libre</a></li></ul>"
    ),
    array(
       "Espace Enfants",
