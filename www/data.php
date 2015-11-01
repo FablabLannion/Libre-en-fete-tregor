@@ -111,7 +111,7 @@ $data_programme = array (
   </tr>
     <tr>
     <td>11H30</td>
-    <td>Open Souce en Entreprise</td>
+    <td>Open Source en Entreprise</td>
     <td>S.Vitard (Krystal)</td>
   </tr>
   <tr>
@@ -121,7 +121,7 @@ $data_programme = array (
   </tr>
   <tr>
     <td>12H30</td>
-    <td>Le logiciel libre, un atout pour le développemen en Afrique</td>
+    <td>Le logiciel libre, un atout pour le développement en Afrique</td>
     <td>F.Youzan</td>
   </tr>
   <tr>
