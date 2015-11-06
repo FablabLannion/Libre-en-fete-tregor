@@ -4,6 +4,15 @@
 
 $data_partenaires = array (
    array(
+      "Anticipa",
+      "img/logo-anticipa.jpg",
+      "http://technopole-anticipa.com/",
+      "<h1>ANTICIPA</h1> <h2>UN TRIO GAGNANT AU SERVICE DE VOS PROJETS D’ENTREPRISE</h2><p>
+      Depuis 25 ans, Anticipa <b></b>développe l’économie, encourage l’innovation </b> et <b>stimule l’esprit d’entreprendre </b> sur le territoire du Trégor-Goëlo. Anticipa, c’est UNE technopole, UNE agence de développement et UNE plate-forme d’initiative locale (Trégor Initiative) au cœur d’un réseau  composé d’industriels, de porteurs de projets, de chercheurs, d’enseignants, d’étudiants et d’institutionnels.<br>
+      Anticipa concentre ses actions autour de <b>6 filières d’excellence </b>: numérique, photonique, cosmétique - biotech, alimentation-nutrition, naval-Nautisme  et industrie. Elle <b>accompagne et soutient les projets </b> (individuels ou collaboratifs) issus de ces filières quelque soit leur nature (création, implantation, développement, internationalisation…) et <b> anime </b> les filières par l’organisation de divers événements dédiés (colloque, rencontres, focus, formation…).<br> 
+      La technopole Anticipa est à l’écoute de tous et propose un accompagnement sur mesure à tous les projets d’entreprise.</p>"
+   ),
+   array(
       "Astrotregor",
       "img/LOGOCLUB2.JPG",
       "http://www.astrosurf.com/astro-tregor/",
