@@ -75,15 +75,30 @@ environnement sain pour tous.</p>
 <blockquote>
 <p>Nos informations de contact sont disponibles dans les emails que nous avons
 envoyés. En cas de doute, vous pouvez nous joindre à
-<a href="mailto:contact@libre-en-fete-tregor.fr ">contact@libre-en-fete-tregor.fr </a>, n&#39;hésitez pas !</p>
+<a href="mailto:contact@libre-en-fete-tregor.fr ">contact[at]libre-en-fete-tregor.fr </a>, n&#39;hésitez pas !</p>
 </blockquote>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                  <p>Nos conférences se veulent une expérience sans harcèlement, quelque soit votre sexe, votre orientation sexuelle, votre handicap, votre apparence physique, votre corpulence, votre origine ou votre religion. Pour rappel, c&#39;est bien l&#39;une des valeurs de notre <a href="/">manifesto</a>, fondement de notre collectif.</p>
-                  <p>Nous ne tolérons donc aucun harcèlement des participants à nos conférences, quelqu&#39;en soit sa forme. Les expressions et les images à connotation sexuelle ne sont pas appropriées lors des événements. Ceci inclut les conférences, les ateliers, les soirées, Twitter et les autres médias en ligne. Les participants aux conférences qui ne respectent pas ces règles peuvent être sanctionnés, voire exclus des conférences (sans remboursement cas écheant), à notre discrétion.</p>
-                  <p>Nous attendons des participants qu&#39;ils suivent ces règles dans le bâtiment des conférences et des ateliers, ainsi que pendant les événements sociaux relatifs à la conférence.</p>
+                  <h2>La version courte</h2><p>Nos conférences et ateliers se veulent une expérience agréable et conviviale, ouverts à tous quelque soit le sexe, l’orientation sexuelle, l’handicap, l’apparence physique, la corpulence, la coiffe, la race ou la religion des participants. </p>
+                  <p>Nous ne tolèrerons aucune forme d’attaque personnelle quelle qu’elle soit. Les participants à l’événement qui violeraient ces principes pourront être sanctionnés et expulsés à la discrétion des organisateurs.</p>
                   <p><em>L&#39;équipe de Libre en fête en Trégor.</em></p>
                   <hr>
+                  <h2>La version longue</h2><p>Le harcèlement inclut les injures et remarques offensives relatives au genre, à l’orientation sexuelle, aux handicaps, à l’apparence physique, à la taille, la race ou la religion, ainsi que la diffusion d’images sexuelles dans les espaces publics, l’intimidation délibérée, le fait de suivre quelqu’un de façon persistante, de prendre des photos ou enregistrements contre la préférence des personnes concernées, l’interruption abusive de conversations, sessions ou autres événements, les contacts physiques inappropriés, ou encore toute attention sexuelle non souhaitée. Cette liste ne doit pas être considérée comme exhaustive.</p>
+
+<p>Tout participant auquel on demande de cesser un comportement de harcèlement doit obtempérer immédiatement.</p>
+
+<p>Si un participant se rend coupable de harcèlement, les organisateurs sont en droit de prendre toute mesure qu’ils estimeraient appropriée à son encontre, du simple avertissement à l’expulsion pure et simple de l’événement.</p>
+
+<p>Si vous êtes harcelé-e (ou remarquez quelqu’un qui semble l’être) ou que vous avez la moindre question ou remarque relative à ce code de conduite, informez-en immédiatement un membre de l'organisation. Nous indiquerons également le nom des personnes responsables de cet aspect au début de l’événement : n’hésitez pas à les contacter directement.</p>
+
+<p>Nous sommes à la disposition des participants pour faire intervenir l’équipe de sécurité du lieu de l’événement ou les forces de l’ordre locales et de façon générale assister ceux qui sont en situation de harcèlement afin de leur permettre de se sentir en sécurité. Il est important pour nous que tous les participants prennent part à l’événement en toute sérénité.</p>
+
+<p>Ces règles sont applicables pendant toute al durée de l'événement.
+Ce Code de Conduite est adapté du <a href="http://2014.jsconf.eu/code-of-conduct.html">JS Conf.eu Code of Conduct</a>.</p>
+
+                  <h2>Pour en savoir plus</h2>
+                  <p>Pour en savoir plus, nous vous conseillons la lecture de <a href="http://www.ashedryden.com/blog/codes-of-conduct-101-faq">Codes of Conduct 101 + FAQ</a> (en anglais).</p>
+
                 </div>
             </div>
 
