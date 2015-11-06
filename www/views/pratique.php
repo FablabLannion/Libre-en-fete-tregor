@@ -55,3 +55,40 @@
 
     </div>
     <!-- /.content-section-b -->
+    
+    
+      <div class="content-section-a">
+
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5 col-sm-6">
+                  <h1>Code de Conduite</h1>
+
+        <p>Tous les participants, conférenciers, sponsors et volontaires pour nos
+conférences doivent accepter le code de conduite qui suit. Libre en fête en Trégor
+s&#39;attachera à faire respecter ce code durant ses événements et attend de la
+part de chaque participant une entière coopération pour assurer un
+environnement sain pour tous.</p>
+
+<p><strong>En bref, ne soyez pas un imbécile.</strong></p>
+
+<blockquote>
+<p>Nos informations de contact sont disponibles dans les emails que nous avons
+envoyés. En cas de doute, vous pouvez nous joindre à
+<a href="mailto:contact@libre-en-fete-tregor.fr ">contact@libre-en-fete-tregor.fr </a>, n&#39;hésitez pas !</p>
+</blockquote>
+                </div>
+                <div class="col-lg-5 col-lg-offset-2 col-sm-6">
+                  <p>Nos conférences se veulent une expérience sans harcèlement, quelque soit votre sexe, votre orientation sexuelle, votre handicap, votre apparence physique, votre corpulence, votre origine ou votre religion. Pour rappel, c&#39;est bien l&#39;une des valeurs de notre <a href="/">manifesto</a>, fondement de notre association.</p>
+                  <p>Nous ne tolérons donc aucun harcèlement des participants à nos conférences, sont pas appropriées lors des événements. Ceci inclut les conférences, les ateliers, les soirées, Twitter et les autres médias en ligne. Les participants aux conférences qui ne respectent pas ces règles peuvent être sanctionnés, voire exclus des conférences (sans remboursement cas écheant), à notre discrétion.</p>
+                  <p>Nous attendons des participants qu&#39;ils suivent ces règles dans le bâtiment des conférences et des ateliers, ainsi que pendant les événements sociaux relatifs à la conférence.</p>
+                  <p><em>L&#39;équipe de Libre en fête en Trégor.</em></p>
+                  <hr>
+                </div>
+            </div>
+
+        </div>
+        <!-- /.container -->
+    </div>
+    <!-- /.content-section-a -->
+    
