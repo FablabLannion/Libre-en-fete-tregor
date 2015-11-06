@@ -79,8 +79,8 @@ envoyés. En cas de doute, vous pouvez nous joindre à
 </blockquote>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                  <p>Nos conférences se veulent une expérience sans harcèlement, quelque soit votre sexe, votre orientation sexuelle, votre handicap, votre apparence physique, votre corpulence, votre origine ou votre religion. Pour rappel, c&#39;est bien l&#39;une des valeurs de notre <a href="/">manifesto</a>, fondement de notre association.</p>
-                  <p>Nous ne tolérons donc aucun harcèlement des participants à nos conférences, sont pas appropriées lors des événements. Ceci inclut les conférences, les ateliers, les soirées, Twitter et les autres médias en ligne. Les participants aux conférences qui ne respectent pas ces règles peuvent être sanctionnés, voire exclus des conférences (sans remboursement cas écheant), à notre discrétion.</p>
+                  <p>Nos conférences se veulent une expérience sans harcèlement, quelque soit votre sexe, votre orientation sexuelle, votre handicap, votre apparence physique, votre corpulence, votre origine ou votre religion. Pour rappel, c&#39;est bien l&#39;une des valeurs de notre <a href="/">manifesto</a>, fondement de notre collectif.</p>
+                  <p>Nous ne tolérons donc aucun harcèlement des participants à nos conférences, quelqu&#39;en soit sa forme. Les expressions et les images à connotation sexuelle ne sont pas appropriées lors des événements. Ceci inclut les conférences, les ateliers, les soirées, Twitter et les autres médias en ligne. Les participants aux conférences qui ne respectent pas ces règles peuvent être sanctionnés, voire exclus des conférences (sans remboursement cas écheant), à notre discrétion.</p>
                   <p>Nous attendons des participants qu&#39;ils suivent ces règles dans le bâtiment des conférences et des ateliers, ainsi que pendant les événements sociaux relatifs à la conférence.</p>
                   <p><em>L&#39;équipe de Libre en fête en Trégor.</em></p>
                   <hr>
