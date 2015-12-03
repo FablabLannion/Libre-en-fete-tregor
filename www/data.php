@@ -135,8 +135,8 @@ $data_programme = array (
   </tr>
   <tr>
     <td>13H00</td>
-    <td>Le logiciel libre au lycée</td>
-    <td>Lycée le Dantec</td>
+    <td>Patrimoine humain numérique</td>
+    <td>Yvon Rastetter</td>
   </tr>
   <tr>
     <td>13H30</td>
@@ -155,11 +155,16 @@ $data_programme = array (
   </tr>
   <tr>
     <td>15H00</td>
-    <td>Le logiciel libre à l'ENSSAT</td>
-    <td>ENSSAT</td>
+    <td>Dégooglisons Internet, petit retour sur l'initiative Framasoft</td>
+    <td>B.Bailleux</td>
   </tr>
   <tr>
     <td>15H30</td>
+    <td>Kinto, une base de données pour le web made in Roazhon</td>
+    <td>R.Hubscher (Mozilla)</td>
+  </tr>
+    <tr>
+    <td>16H00</td>
     <td>Slot Sponsor II</td>
     <td>Sponsor</td>
   </tr>
