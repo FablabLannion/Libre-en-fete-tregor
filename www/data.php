@@ -215,7 +215,7 @@ $data_programme = array (
       "Espace Multimedia",
       "img/music.png",
       "",
-      "<ul><li>Montage vidéo avec <a href=\"http://openshot.org/\">OpenShot</a>, <a href=\"https://kdenlive.org/\">Kdenlive</a> ou <a href=\"http://cinelerra.org/2015/\">Cinelerra</a>,</li> <li><a href=\"http://www.linuxstopmotion.org/\">Stop motion</a>,</li> <li>Création musicale</li></ul><br><a href="morgan@libre-en-fete-tregor.fr">Contact</a>"
+      "<ul><li>Montage vidéo avec <a href=\"http://openshot.org/\">OpenShot</a>, <a href=\"https://kdenlive.org/\">Kdenlive</a> ou <a href=\"http://cinelerra.org/2015/\">Cinelerra</a>,</li> <li><a href=\"http://www.linuxstopmotion.org/\">Stop motion</a>,</li> <li>Création musicale</li></ul><br><a href=\"morgan@libre-en-fete-tregor.fr\">Contact</a>"
    ),
    array(
       "Espace Pro",
