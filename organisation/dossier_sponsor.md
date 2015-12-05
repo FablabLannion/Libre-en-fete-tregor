@@ -166,14 +166,16 @@ Communication & contacts
 
 #### Supports de com
 
-| Type | Nombre | Commentaires |
-| -----|--------|--------------|
-| 120x176 | 50 | réseaux d'affichage |
-| A0 | 20 | |
-| A2 | 70 | |
-| A4 | 150 | |
-| Flyers | 1000 | |
-| Programmes | 500 | |
+| Type | Nombre |
+| -----|--------|
+| 120x176* | 50 |
+| A0 | 20 |
+| A2 | 70 |
+| A4 | 150 |
+| Flyers | 1000 |
+| Programmes | 500 |
+
+*: réseau d'affichage de la ville de Lannion (Abribus)
 
 Plan média réalisé en mode projet par l'IUT Info Com, couvrant média traditionnels et réseaux sociaux
 
@@ -181,8 +183,8 @@ Plan média réalisé en mode projet par l'IUT Info Com, couvrant média traditi
 
 - Site web: http://libre-en-fete-tregor.fr
 - Contact mail: contact@libre-en-fete-tregor.fr
-- Twitter: @librenfetetrgor
 - Facebook: https://www.facebook.com/libreenfetetregor/
+- Twitter: @librenfetetrgor
 
 - Site April: http://www.april.org/
 - Site libre ne fête 2015 (national): http://www.libre-en-fete.net/
