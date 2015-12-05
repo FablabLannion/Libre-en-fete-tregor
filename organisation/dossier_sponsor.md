@@ -1,8 +1,10 @@
 Libre en fête en Trégor 2016
 ========================
 ![Image Alt](https://github.com/fablab-lannion/libre-en-fete-tregor/blob/master/www/img/LeFeT_no_bg_small.png)
+Grande fête du numérique, du logiciel libre et de ses usages 
 
 26 Mars 2016 10h-18h
+Salle des Ursulines, Lannion
 -------------------------------
 
 ----------
@@ -12,15 +14,15 @@ Libre en fête en Trégor 2016
 
 Présentation
 ------------------
-**Libre en Fête** est une journée autour du **logiciel libre** à Lannion. Animations, conférences, ateliers, Install Party, démo, le **samedi 26 Mars 2016 de 10h à 18h dans la grande salle des Ursulines à Lannion**.
+**Libre en Fête en Trégor** est une journée autour du numérique et du logiciel libre. Plus d'une dizaine d'associations, des acteurs académiques, institionnels et économiques du territoire se sont donnés rendez-vous pour offrir un programme riche et varié : animations, démonstrations, conférences, ateliers et Install Party.
+Un grand rendez-vous familiale autour de 7 thématiques et d'un espace conférence pour apprendre, découvrir ou redécouvrir tout ce qui fait notre quotidien numérique.
 
- Initiée et coordonnée par l'April, l'initiative Libre en Fête célébrera son 16ème anniversaire en 2016. Des événements de découverte des Logiciels Libres et du Libre en général sont proposés partout en France, dans une dynamique conviviale et festive.
+Initiée et coordonnée par l'April, l'initiative Libre en Fête célébrera son 16ème anniversaire en 2016. Des événements de découverte des Logiciels Libres et du Libre en général sont proposés partout en France, dans une dynamique conviviale et festive.
 
 Il peut sembler étonnant d'associer l'adjectif libre au mot logiciel et pourtant le logiciel libre , par opposition au logiciel propriétaire est désormais partout. Il est sur votre portable, sans lui point d'Internet, il permet de redonner une seconde jeunesse à des ordinateurs, il propose des alternatives efficaces pour monter des films, créer des documents ou gérer des photos.
 
 Libre par nature, il ne bénéficie pas de campagnes marketing et demeure méconnu. **Le logiciel libre, porteur de valeurs d'entraide et de coopération, est un bien commun accessible à tous favorisant le partage des connaissances. Patrimoine immatériel façonnant le quotidien numérique de chacun**. A travers des animations gratuites, les Trégorrois pourront découvrir ou redécouvrir la richesse du logiciel libre.
 
- Plusieurs associations du Trégor proposeront des animations, conférences, ateliers tout au long de la journée.
  Divers espaces permettront d'aborder les multiples facettes du logiciel libre:
  
  - Espace Citoyen
@@ -31,7 +33,7 @@ Libre par nature, il ne bénéficie pas de campagnes marketing et demeure mécon
  - Espace multimédia
  - Espace Pro
 
-Tout ce que vous avez toujours savoir sur le libre sans jamais oser le demander...
+Tout ce que vous avez toujours savoir sur le numérique et le logiciel libre sans jamais oser le demander...
 
 
 Programme
@@ -42,43 +44,49 @@ Programme
 
 | Horaire | Sujet | Présentateur |
 | --------|-------|--------------|
-| 11h00 | Petite histoire du logiciel libre | Fablab Lannion (Morgan Richomme) |
-| 11h30 | Open Source en entreprises | Kristal (Sébastien Vitard) |
-| 12h00 | OpenStreetMap | OSM France (Eric Debeau) |
-| 13h00 | Le libre au lycée | Lycée le Dantec |
-| 13h30 | La tête dans les étoiles avec Stelarium | Astrotregor (Michel Maligot) | 
-| 14h00 | Eolienne auto-constuite PIGGOTT | Tripalium |
-| 14h30 | Slot Sponsor | Sponsor |
-| 15h00 | Le logiciel libre à l'ENSSAT | ENSSAT |
-| 15h30 | Slot Sponsor | Sponsor  |
-| 16h30 | Remise des prix coder au féminin | Lycée le Dantec |
+| 11h00 | Petite histoire du logiciel libre | Morgan Richomme(Fablab Lannion ) |
+| 11h30 | Open Source en entreprises | Sébastien Vitard (Kristal) |
+| 12h00 | OpenStreetMap | Eric Debeau (OSM France) |
+| 12h30 | Le logiciel libre, un atout pour le développement en Afrique | F.Youzan - en visio d'Abidjan |
+| 13h00 | Patrimoine humain numérique | Yvon Rastetter |
+| 13h30 | La tête dans les étoiles avec Stelarium | Michel Maligot (Astrotregor) | 
+| 14h00 | Eolienne auto-constuite PIGGOTT | Laurent Aubertin (Tripalium) |
+| 14h30 | Slot Sponsor I | Sponsor |
+| 15h00 | Dégooglisons Internet, petit retour sur l'initiative Framasoft | B.Bailleux |
+| 15H30 | Kinto, une base de données pour le web made in Roazhon | R.Hubscher (Mozilla) |
+| 15h30 | Slot Sponsor II | Sponsor  |
+| 16h30 | Remise des prix Ada Lovelace | Lycée le Dantec |
 | 17h00 | Remise des prix Hackathon ENSSAT | ENSSAT |
 
 
 #### Espace Citoyen
 - Stand cartographie / création de cartes personnalisées (OSM)
 - Apprendre les logiciels libres pour traitement de texte/PAO
---- Libre Office  (PATG)
+--- Libre Office
 --- PAO Scribus (Ro'spered)
-- Ville de Lannion?
-- Visio avec Ouagalab? libristes du Sud (Benin, CI)?
+- Cartographie et accessibilité par Ville de Lannion et LTC
+- Ubuntu, Emmabuntûs, un système d'exploitation conçu pour faciliter le reconditionnement des ordinateurs donnés aux associations humanitaires (Infothema)
+- Découverte de Linux(Tytux)
 
 #### Espace Enfants
 - Atelier électronique arduino (petits débrouillards)
-- Initiation à la programmation / scratch par Code d'Armor
+- Initiation à la programmation / scratch (Code d'Armor)
 - Initiation à la soudure (Fablab lannion)
 
-#### Espace Garage
-- Fablab Lannion, ateliers impression 3D, fraiseuses de tables / arduino (électronique)
-- Course de mini drône
+#### Espace Garage (Fablab Lannion)
+- Ateliers impression 3D, fraiseuses de tables
+- Initiation à arduino (électronique)
+- Initiation à la soudure
+- Mini drônes
 - Robots
+- Fablabs bretons
 
 #### Espace Geek
-- Initiation & Install Party - maquette avec système embarqué (RPI - MSP430 etc.) - Lycée Le Dantec
-- Installation de Linux From Scratch (LFS) - ENSSAT
-- Hackathon (ENSSAT)?
+- Initiation & Install Party - maquette avec système embarqué (RPI - MSP430 etc.) (Lycée Le Dantec)
+- Installation de Linux From Scratch (LFS) (ENSSAT)
+- Hackathon (ENSSAT)
 - Atelier github, LaTeX (ENSSAT)
-- Résultats concours coder au féminin? (Lycée le Dantec)
+- Résultats concours Ada Lovelace (Lycée le Dantec)
 
 #### Espace Jeux
 - Le jeu libre (Fablab Lannion): xonotic (FPS), freeciv, frozen bubble ...
@@ -86,36 +94,44 @@ Programme
 
 #### Espace Multi média
 - Création de stop motions (Fablab)
-- Montage vidéo (téléLannion?)
-- Musique libre (@ Christian)
+- Montage vidéo (OpenShot, Kdenlive, Cinnarella)
+- Dessiner avec Gimp, Inkscape
+- Musique libre (Ardour, Jack, Rosegarden, MUbuntu, Tango, ..) et creative commons
 
 #### Espace Pro
-- West Tech?
-- Espace LoRa?
-- Anticipa? 
-- Boosteur/Incubateur?
-- sponsors
-
+- l'espace ds acteurs économiques numériques du territoire
 
 Partenaires
 ----------------
 #### les confirmés
+- Anticipa
 - Astrotregor
 - Code d'Armor
 - ENSSAT
-- Lycée le Dantec
-- Les petits débrouillards 
 - Fablab Lannion
+- Infothéma
+- IUT Info Com Lannion
+- Kristal
+- Lannion Trégor Communauté
+- Lycée le Dantec
+- Les petits débrouillards
+- OpenStreetMap France
 - Ro'spered
-- IUT info com
+- Tripalium
+- Ville de Lannion
 
 
 Devenir sponsor 
 ---------------------
+Soutenez Libre en Fête en Trégor en devenant Sponsor. 
+Vous bénéficierez d'un accès privilégié au riche ecosystème numérique du territoire, mêlant grands groupes (Orange, ALU, Ericsson, ..), startups dynamiques et innovantes (Optronique, Internet des objets, big data, ...) acteurs académiques et institutionnels et associations originales.
+On espère ~500 personnes sur la journée.
+Vous aurez également accès à un réseau d'affichages couvrant l'intégralité du territoire.
+
 Nous proposons plusieurs niveaux de sponsoring:
 
-- Sponsor Platinium: à partir de 2K€ /  5 espaces 
-- Sponsor Granit Rose: 500€ / 10 espaces
+- Sponsor Platinium: à partir de 2K€ /  5 espaces max 
+- Sponsor Granit Rose: 500€ / 7 espaces max
 - Espace Pro: 100 €
 
 #### Sponsor Platinium
@@ -142,10 +158,13 @@ Nous proposons plusieurs niveaux de sponsoring:
 | Type | Nombre | Commentaires |
 | -----|--------|--------------|
 | 120x176 | 50 | réseaux d'affichage |
+| A0 | 20 | |
+| A2 | 70 | |
+| A4 | 150 | |
 | Flyers | 1000 | |
 | Programmes | 500 | |
 
-Plan média réalisé en mode projet par l'IUT Info Com
+Plan média réalisé en mode projet par l'IUT Info Com, couvrant média traditionnels et réseaux sociaux
 
 
 > Written with [StackEdit](https://stackedit.io/).
