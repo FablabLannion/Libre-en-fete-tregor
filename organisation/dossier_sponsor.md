@@ -35,16 +35,15 @@ Libre par nature, il ne bénéficie pas de campagnes marketing et demeure mécon
 
 Tout ce que vous avez toujours savoir sur le numérique et le logiciel libre sans jamais oser le demander...
 
-
 Programme
 ----------------
-#### Espace A l'école du libre
+#### Espace "à l'école du libre"
 
 ##### Programme des mini-conférences
 
 | Horaire | Sujet | Présentateur |
 | --------|-------|--------------|
-| 11h00 | Petite histoire du logiciel libre | Morgan Richomme(Fablab Lannion ) |
+| 11h00 | Petite histoire du logiciel libre | Morgan Richomme (Fablab Lannion) |
 | 11h30 | Open Source en entreprises | Sébastien Vitard (Kristal) |
 | 12h00 | OpenStreetMap | Eric Debeau (OSM France) |
 | 12h30 | Le logiciel libre, un atout pour le développement en Afrique | F.Youzan - en visio d'Abidjan |
@@ -60,6 +59,8 @@ Programme
 
 
 #### Espace Citoyen
+contact: eric@libre-en-fete-tregor.fr
+
 - Stand cartographie / création de cartes personnalisées (OSM)
 - Apprendre les logiciels libres pour traitement de texte/PAO
 --- Libre Office
@@ -69,11 +70,13 @@ Programme
 - Découverte de Linux(Tytux)
 
 #### Espace Enfants
+contact: linda@libre-en-fete-tregor.fr
 - Atelier électronique arduino (petits débrouillards)
 - Initiation à la programmation / scratch (Code d'Armor)
 - Initiation à la soudure (Fablab lannion)
 
 #### Espace Garage (Fablab Lannion)
+contact: tangi@libre-en-fete-tregor.fr
 - Ateliers impression 3D, fraiseuses de tables
 - Initiation à arduino (électronique)
 - Initiation à la soudure
@@ -82,6 +85,7 @@ Programme
 - Fablabs bretons
 
 #### Espace Geek
+contacts: christian@libre-en-fete-tregor.fr, jonathan@libre-en-fete-tregor.fr
 - Initiation & Install Party - maquette avec système embarqué (RPI - MSP430 etc.) (Lycée Le Dantec)
 - Installation de Linux From Scratch (LFS) (ENSSAT)
 - Hackathon (ENSSAT)
@@ -89,21 +93,22 @@ Programme
 - Résultats concours Ada Lovelace (Lycée le Dantec)
 
 #### Espace Jeux
+contact: jerome@libre-en-fete-tregor.fr
 - Le jeu libre (Fablab Lannion): xonotic (FPS), freeciv, frozen bubble ...
 - Retro gaming (Fablab Lannion)
 
 #### Espace Multi média
+contact: morgan@libre-en-fete-tregor.fr
 - Création de stop motions (Fablab)
 - Montage vidéo (OpenShot, Kdenlive, Cinnarella)
 - Dessiner avec Gimp, Inkscape
 - Musique libre (Ardour, Jack, Rosegarden, MUbuntu, Tango, ..) et creative commons
 
 #### Espace Pro
-- l'espace ds acteurs économiques numériques du territoire
+- l'espace des acteurs économiques numériques du territoire
 
 Partenaires
 ----------------
-#### les confirmés
 - Anticipa
 - Astrotregor
 - Code d'Armor
@@ -119,12 +124,14 @@ Partenaires
 - Ro'spered
 - Tripalium
 - Ville de Lannion
+ 
+Plus de détails sur http://libre-en-fete-tregor.fr/partenaires
 
 
 Devenir sponsor 
----------------------
-Soutenez Libre en Fête en Trégor en devenant Sponsor. 
-Vous bénéficierez d'un accès privilégié au riche ecosystème numérique du territoire, mêlant grands groupes (Orange, ALU, Ericsson, ..), startups dynamiques et innovantes (Optronique, Internet des objets, big data, ...) acteurs académiques et institutionnels et associations originales.
+---------------
+Soutenez Libre en Fête en Trégor en devenant Sponsor! 
+Vous bénéficierez d'un accès privilégié au riche ecosystème numérique du territoire, mêlant grands groupes (Orange, ALU, Ericsson, ..), startups dynamiques et innovantes (Optronique, Internet des objets, big data, ...), associations diverses (éducation populaire, codeurs, enfants, culture...), acteurs académiques et institutionnels.
 On espère ~500 personnes sur la journée.
 Vous aurez également accès à un réseau d'affichages couvrant l'intégralité du territoire.
 
@@ -138,7 +145,7 @@ Nous proposons plusieurs niveaux de sponsoring:
 - Logo sur tous les pages du site web
 - Logo sur tous les supports de com (flyers, affiches 120x176), A3) en grand format
 - Réseau d'affichage sur 30 panneaux 120x176 sur Lannion 
-- slot pour 1 conférence
+- Slot pour 1 conférence
 - Stand (pas de limitation d'espace dans la mesure du raisonable...) dans l'espace Pro
 - 1 page dans la brochure d'information de la manifestation
 
@@ -153,6 +160,10 @@ Nous proposons plusieurs niveaux de sponsoring:
 - Un accès à un point café
 - Une présence dans le guide du visiteur et sur la page internet de l’événement
 
+
+Communication & contacts
+------------------------
+
 #### Supports de com
 
 | Type | Nombre | Commentaires |
@@ -165,6 +176,31 @@ Nous proposons plusieurs niveaux de sponsoring:
 | Programmes | 500 | |
 
 Plan média réalisé en mode projet par l'IUT Info Com, couvrant média traditionnels et réseaux sociaux
+
+#### Références
+
+- Site web: http://libre-en-fete-tregor.fr
+- Contact mail: contact@libre-en-fete-tregor.fr
+- Twitter: @librenfetetrgor
+- Facebook: https://www.facebook.com/libreenfetetregor/
+
+- Site April: http://www.april.org/
+- Site libre ne fête 2015 (national): http://www.libre-en-fete.net/
+
+ Contact dossier: morgan@libre-en-fete-tregor.fr, +33 637 753 326
+
+#### Revue de presse 2015
+
+- Dossier de presse: http://www.lycee-ledantec.ac-rennes.fr/libreenfete/fichiers/dossierPresse.pdf
+- Ouest France: http://www.ouest-france.fr/bretagne/lannion-22300/libre-en-fete-en-tregor-un-atelier-aujourdhui-3287470
+- Le Télégramme: http://www.letelegramme.fr/cotes-darmor/rospez/libre-en-fete-en-tregor-une-carto-partie-bien-suivie-26-03-2015-10571750.php
+- Le Trégor: http://www.letregor.fr/breves/le-logiciel-libre-en-fete-dans-le-tregor_10410/
+- Agenda du libre http://www.agendadulibre.org/events/9343
+- Blog ENSSAT: http://blog.enssat.fr/2015/03/logiciel-libre-en-fete-en-tregor.html
+- Article fablab:http://fablab-lannion.org/2015/03/libre-en-fete-au-2eme-tour/
+- linuxfr.org http://linuxfr.org/news/libre-en-fete-en-tregor-du-21-au-28-mars-2015
+
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
