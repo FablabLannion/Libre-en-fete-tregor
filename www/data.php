@@ -98,10 +98,10 @@ Flight::set('data_partenaires', $data_partenaires);
 
 $data_programme = array (
    array(
-      "En cours de définition",
+      "Numérique, logiciel libre et usages collaboratifs",
       "img/notebook.png",
       "https://openclipart.org/detail/223957/notebook-and-pencil",
-      "La journée prévoit d'être riche avec des mini-conférences, des ateliers, des concours."
+      "La journée prévoit d'être riche avec des mini-conférences, des ateliers, des démos, des concours. Demandez le programme..."
    ),
    array(
       "Espace A l'école du libre",
@@ -185,37 +185,37 @@ $data_programme = array (
       "Espace Citoyen",
       "img/espace-citoyen.jpg",
       "",
-      "<ul><li>Cartographie participative avec <a href=\"https://openstreetmap.fr/\">OpenStreetMap</a>,</li> <li>Eoliennes auto-construites <a href=\"http://www.tripalium.org/eolienne-piggott\">Piggott</a>,</li> <li>Apprentissage populaire</li><li>PAO <a hef=\"http://www.scribus.net/\">Scribus</a> par l'association Ro'spered</li><li>F.Youzan <a href=\"http://www.fyouzan.ci/\">un regard d'africain sur le libre</a></li></ul>"
+      "<ul><li>Cartographie participative avec <a href=\"https://openstreetmap.fr/\">OpenStreetMap</a>,</li> <li>Eoliennes auto-construites <a href=\"http://www.tripalium.org/eolienne-piggott\">Piggott</a>,</li> <li>Apprentissage populaire</li><li>PAO <a hef=\"http://www.scribus.net/\">Scribus</a> par l'association Ro'spered</li><li>F.Youzan <a href=\"http://www.fyouzan.ci/\">un regard d'africain sur le libre</a></li></ul><a href=\"mailto:eric@libre-en-fete-tregor.fr\">Contact: Eric</a>"
    ),
    array(
       "Espace Enfants",
       "img/espace-enfants.jpg",
       "",
-      "<ul><li>Initiation à la programmation avec <a href=\"https://scratch.mit.edu/\">Scratch</a>,</li> <li>Ateliers électronique junior</li><li>Initiation à la soudure</li></ul>"
+      "<ul><li>Initiation à la programmation avec <a href=\"https://scratch.mit.edu/\">Scratch</a>,</li> <li>Ateliers électronique junior</li><li>Initiation à la soudure</li></ul><a href=\"mailto:linda@libre-en-fete-tregor.fr\">Contact: Linda</a>"
    ),
    array(
       "Espace Fablab",
       "img/espace-garage.jpg",
       "",
-      "l'atelier des grands enfants:<br><ul><li>Espace impression 3D,</li> <li>Initiation à <a href=\"https://www.arduino.cc/\">arduino</a>,</li><li>Course de mini drônes</li><li>Espace robotique</li> </ul>"
+      "l'atelier des grands enfants:<br><ul><li>Espace impression 3D,</li> <li>Initiation à <a href=\"https://www.arduino.cc/\">arduino</a>,</li><li>Course de mini drônes</li><li>Espace robotique</li> </ul><a href=\"mailto:tangi@libre-en-fete-tregor.fr\">Contact: Tangi</a>"
    ),
    array(
       "Espace Geek",
       "img/espace-geek.jpg",
       "",
-      "<ul><li>Initiation & Install Party,</li> <li>Hackathon</li><li>Coder au féminin</li><li>Atelier <a href=\"http://www.latex-project.org/\">LaTex</a></li><li>Maquette avec système embarqué (RPI - MSP430 etc.),</li> <li><a href=\"http://www.fr.linuxfromscratch.org/\">Linux From scratch (LFS)</a></li></ul>"
+      "<ul><li>Initiation & Install Party,</li> <li>Hackathon</li><li>Concours Ada Lovelace</li><li>Atelier <a href=\"http://www.latex-project.org/\">LaTex</a></li><li>Maquette avec système embarqué (RPI - MSP430 etc.),</li> <li><a href=\"http://www.fr.linuxfromscratch.org/\">Linux From scratch (LFS)</a></li></ul><a href=\"mailto:jonathan@libre-en-fete-tregor.fr\">Contact: Jonathan</a> et\/ou <a href=\"mailto:christian@libre-en-fete-tregor.fr\">Christian</a>"
    ),
    array(
       "Espace Jeux",
       "img/jeux.jpg",
       "",
-      "Le monde du libre propose aussi des jeux rivalisants avec les productions modernes.<br> C'est aussi un réservoir de passionés qui vous permettront de jouer aux jeux de votre enfance. <br>Venez découvrir et essayer ce grand écart sur les machines mises à votre disposition."
+      "Le monde du libre propose aussi des jeux rivalisants avec les productions modernes.<br> C'est aussi un réservoir de passionés qui vous permettront de jouer aux jeux de votre enfance. <br>Venez découvrir et essayer ce grand écart sur les machines mises à votre disposition.<a href=\"mailto:jerome@libre-en-fete-tregor.fr\">Contact: (C++) Jérôme</a>"
    ),
    array(
       "Espace Multimedia",
       "img/music.png",
       "",
-      "<ul><li>Montage vidéo avec <a href=\"http://openshot.org/\">OpenShot</a>, <a href=\"https://kdenlive.org/\">Kdenlive</a> ou <a href=\"http://cinelerra.org/2015/\">Cinelerra</a>,</li> <li><a href=\"http://www.linuxstopmotion.org/\">Stop motion</a>,</li> <li>Création musicale</li></ul><br><a href=\"mailto:morgan@libre-en-fete-tregor.fr\">Contact</a>"
+      "<ul><li>Montage vidéo avec <a href=\"http://openshot.org/\">OpenShot</a>, <a href=\"https://kdenlive.org/\">Kdenlive</a> ou <a href=\"http://cinelerra.org/2015/\">Cinelerra</a>,</li> <li><a href=\"http://www.linuxstopmotion.org/\">Stop motion</a>,</li> <li>Création musicale</li></ul><br><a href=\"mailto:morgan@libre-en-fete-tregor.fr\">Contact: Morgan</a>"
    ),
    array(
       "Espace Pro",
