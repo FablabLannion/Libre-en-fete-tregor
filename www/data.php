@@ -203,13 +203,13 @@ $data_programme = array (
       "Espace Geek",
       "img/espace-geek.jpg",
       "",
-      "<ul><li>Initiation & Install Party,</li> <li>Hackathon</li><li>Concours Ada Lovelace</li><li>Atelier <a href=\"http://www.latex-project.org/\">LaTex</a></li><li>Maquette avec système embarqué (RPI - MSP430 etc.),</li> <li><a href=\"http://www.fr.linuxfromscratch.org/\">Linux From scratch (LFS)</a></li></ul><a href=\"mailto:jonathan@libre-en-fete-tregor.fr\">Contact: Jonathan</a> et\/ou <a href=\"mailto:christian@libre-en-fete-tregor.fr\">Christian</a>"
+      "<ul><li>Initiation & Install Party,</li> <li>Hackathon</li><li>Concours Ada Lovelace</li><li>Atelier <a href=\"http://www.latex-project.org/\">LaTex</a></li><li>Maquette avec système embarqué (RPI - MSP430 etc.),</li> <li><a href=\"http://www.fr.linuxfromscratch.org/\">Linux From scratch (LFS)</a></li></ul><a href=\"mailto:jonathan@libre-en-fete-tregor.fr\">Contact: Jonathan</a> , <a href=\"mailto:christian@libre-en-fete-tregor.fr\">Christian</a>"
    ),
    array(
       "Espace Jeux",
       "img/jeux.jpg",
       "",
-      "Le monde du libre propose aussi des jeux rivalisants avec les productions modernes.<br> C'est aussi un réservoir de passionés qui vous permettront de jouer aux jeux de votre enfance. <br>Venez découvrir et essayer ce grand écart sur les machines mises à votre disposition.<a href=\"mailto:jerome@libre-en-fete-tregor.fr\">Contact: (C++) Jérôme</a>"
+      "Le monde du libre propose aussi des jeux rivalisants avec les productions modernes.<br> C'est aussi un réservoir de passionés qui vous permettront de jouer aux jeux de votre enfance. <br>Venez découvrir et essayer ce grand écart sur les machines mises à votre disposition.<br><a href=\"mailto:jerome@libre-en-fete-tregor.fr\">Contact: (C++) Jérôme</a>"
    ),
    array(
       "Espace Multimedia",
