@@ -14,10 +14,10 @@ Salle des Ursulines, Lannion
 
 Présentation
 ------------------
-**Libre en Fête en Trégor** est une journée autour du numérique et du logiciel libre. Plus d'une dizaine d'associations, des acteurs académiques, institionnels et économiques du territoire se sont donnés rendez-vous pour offrir un programme riche et varié : animations, démonstrations, conférences, ateliers et Install Party.
-Un grand rendez-vous familiale autour de 7 thématiques et d'un espace conférence pour apprendre, découvrir ou redécouvrir tout ce qui fait notre quotidien numérique.
+**Libre en Fête en Trégor** est une journée autour du numérique et du logiciel libre. Plus d'une dizaine d'associations, des acteurs académiques, institutionnels et économiques du territoire se sont donnés rendez-vous pour offrir un programme riche et varié : animations, démonstrations, conférences, ateliers et Install Party.
+Un grand rendez-vous familial autour de 7 thématiques et d'un espace conférence pour apprendre, découvrir ou redécouvrir tout ce qui fait notre quotidien numérique.
 
-Initiée et coordonnée par l'April, l'initiative Libre en Fête célébrera son 16ème anniversaire en 2016. Des événements de découverte des Logiciels Libres et du Libre en général sont proposés partout en France, dans une dynamique conviviale et festive.
+Initiée et coordonnée par l'April, l'initiative Libre en Fête célébrera son 16ème anniversaire en 2016. Des événements conviviaux et festifs de découverte des Logiciels Libres et du Libre en général sont proposés partout en France..
 
 Il peut sembler étonnant d'associer l'adjectif libre au mot logiciel et pourtant le logiciel libre , par opposition au logiciel propriétaire est désormais partout. Il est sur votre portable, sans lui point d'Internet, il permet de redonner une seconde jeunesse à des ordinateurs, il propose des alternatives efficaces pour monter des films, créer des documents ou gérer des photos.
 
@@ -30,10 +30,10 @@ Libre par nature, il ne bénéficie pas de campagnes marketing et demeure mécon
  - Espace Garage
  - Espace Geek
  - Espace Jeux
- - Espace multimédia
+ - Espace Multimédia
  - Espace Pro
 
-Tout ce que vous avez toujours savoir sur le numérique et le logiciel libre sans jamais oser le demander...
+Tout ce que vous avez toujours voulu savoir sur le numérique et le logiciel libre sans jamais oser le demander...
 
 Programme
 ----------------
@@ -44,15 +44,15 @@ Programme
 | Horaire | Sujet | Présentateur |
 | --------|-------|--------------|
 | 11h00 | Petite histoire du logiciel libre | Morgan Richomme (Fablab Lannion) |
-| 11h30 | Open Source en entreprises | Sébastien Vitard (Kristal) |
+| 11h30 | Open Source en entreprise | Sébastien Vitard (Kristal) |
 | 12h00 | OpenStreetMap | Eric Debeau (OSM France) |
 | 12h30 | Le logiciel libre, un atout pour le développement en Afrique | F.Youzan - en visio d'Abidjan |
 | 13h00 | Patrimoine humain numérique | Yvon Rastetter |
 | 13h30 | La tête dans les étoiles avec Stelarium | Michel Maligot (Astrotregor) | 
 | 14h00 | Eolienne auto-constuite PIGGOTT | Laurent Aubertin (Tripalium) |
 | 14h30 | Slot Sponsor I | Sponsor |
-| 15h00 | Dégooglisons Internet, petit retour sur l'initiative Framasoft | B.Bailleux |
-| 15H30 | Kinto, une base de données pour le web made in Roazhon | R.Hubscher (Mozilla) |
+| 15h00 | Dégooglisons Internet, petit retour sur l'initiative Framasoft | Benoit Bailleux |
+| 15H30 | Kinto, une base de données pour le web made in Roazhon | Rémy Hubscher (Mozilla) |
 | 15h30 | Slot Sponsor II | Sponsor  |
 | 16h30 | Remise des prix Ada Lovelace | Lycée le Dantec |
 | 17h00 | Remise des prix Hackathon ENSSAT | ENSSAT |
@@ -66,7 +66,7 @@ contact: eric@libre-en-fete-tregor.fr
 --- Libre Office
 --- PAO Scribus (Ro'spered)
 - Cartographie et accessibilité par Ville de Lannion et LTC
-- Ubuntu, Emmabuntûs, un système d'exploitation conçu pour faciliter le reconditionnement des ordinateurs donnés aux associations humanitaires (Infothema)
+- Ubuntu, Emmabuntüs, un système d'exploitation conçu pour faciliter le reconditionnement des ordinateurs donnés aux associations humanitaires (Infothema)
 - Découverte de Linux(Tytux)
 
 #### Espace Enfants
@@ -80,7 +80,7 @@ contact: tangi@libre-en-fete-tregor.fr
 - Ateliers impression 3D, fraiseuses de tables
 - Initiation à arduino (électronique)
 - Initiation à la soudure
-- Mini drônes
+- Mini drones
 - Robots
 - Fablabs bretons
 
@@ -100,7 +100,7 @@ contact: jerome@libre-en-fete-tregor.fr
 #### Espace Multi média
 contact: morgan@libre-en-fete-tregor.fr
 - Création de stop motions (Fablab)
-- Montage vidéo (OpenShot, Kdenlive, Cinnarella)
+- Montage vidéo (OpenShot, Kdenlive, Cinelerra)
 - Dessiner avec Gimp, Inkscape
 - Musique libre (Ardour, Jack, Rosegarden, MUbuntu, Tango, ..) et creative commons
 
@@ -142,7 +142,7 @@ Nous proposons plusieurs niveaux de sponsoring:
 - Espace Pro: 100 €
 
 #### Sponsor Platinium
-- Logo sur tous les pages du site web
+- Logo sur toutes les pages du site web
 - Logo sur tous les supports de com (flyers, affiches 120x176), A3) en grand format
 - Réseau d'affichage sur 30 panneaux 120x176 sur Lannion 
 - Slot pour 1 conférence
