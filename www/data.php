@@ -92,6 +92,12 @@ $data_partenaires = array (
       "http://www.tripalium.org/",
       "Impulsée en 2007 par la volonté de développer les stages d’auto-construction, l’association Tripalium s’est transformée en un réseau d’acteur-rices. <br>Sans salarié ni subvention, sa vitalité repose sur la dynamique des stages : les anciens stagiaires sont invités à devenir formateurs, puis à organiser des stages...Tripalium échange également à l’international avec des organisations similaires."
    ),   
+    array(
+      "Ville de Lannion",
+      "img/logo_517.gif",
+      "http://www.ville-lannion.fr/",
+      "Lannion, deuxième ville du département et ville-centre de l’agglomération, est une ville jeune et attractive.<br>La ville, capitale des télécommunications, constitue un pôle d’excellence technologique avec un éco-système unique mêlant grands groupes et PME innovantes.<br>Des équipements de qualité, dignes d’une ville de 40 000 habitants, sont proposés et les activités culturelles et sportives ne manquent pas à Lannion !<br>La ville et ses quartiers bougent au rythme des saisons avec ses 350 associations, tous domaines confondus."
+   ),     
 );
 
 Flight::set('data_partenaires', $data_partenaires);
