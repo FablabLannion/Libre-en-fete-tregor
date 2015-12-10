@@ -94,7 +94,7 @@ $data_partenaires = array (
    ),   
     array(
       "Ville de Lannion",
-      "img/logo_517.gif",
+      "img/Logo_mairie_Lannion.jpg",
       "http://www.ville-lannion.fr/",
       "Lannion, deuxième ville du département et ville-centre de l’agglomération, est une ville jeune et attractive.<br>La ville, capitale des télécommunications, constitue un pôle d’excellence technologique avec un éco-système unique mêlant grands groupes et PME innovantes.<br>Des équipements de qualité, dignes d’une ville de 40 000 habitants, sont proposés et les activités culturelles et sportives ne manquent pas à Lannion !<br>La ville et ses quartiers bougent au rythme des saisons avec ses 350 associations, tous domaines confondus."
    ),     
