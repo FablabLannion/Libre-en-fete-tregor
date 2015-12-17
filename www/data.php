@@ -19,6 +19,11 @@ $data_partenaires = array (
       "Basé à Trébeurden, Le Club d'Astronomie du Trégor existe  depuis 1990 et réunit des passionnés où chacun apporte son savoir et ses expériences dans un but d'enrichissement commun. <br>Au sein du club se succèdent des sorties nocturnes d'observation et des exposés traitant aussi bien d'une constellation que de cosmologie, d'astrophysique.  Le club a aussi  pour vocation de promouvoir l'astronomie auprès d'un large public, des plus jeunes aux plus sages."
    ),
    array(
+      "Cité des Télécoms",
+      "img/logo_Cité.jpg",
+      "http://www.cite-telecoms.com/",
+      "Construite sur le lieu de naissance des premières transmissions internationales, la Cité des télécoms est le plus grand centre européen de culture et de loisirs dédiée à l’univers des télécommunications et du numérique.<br>Forte de son passé historique, avec le Radôme, cette énorme sphère de 50 m de haut, labellisé « Patrimoine du XXème siècle », et un centre de 3000 m² d’exposition, la Cité des télécoms propose une balade insolite au cœur d’un site unique, lieu d’histoire et vitrine interactive du futur, pour mieux comprendre le monde dans lequel nous vivons. <br><br>Véritable outil ludique et pédagogique, elle offre à ses visiteurs, enfants ou adultes, des parcours adaptés, avec des jeux, des animations, des expositions, le Jardin des sciences pour les 6 – 12 ans et un spectacle sous le Radôme pour y découvrir son histoire."
+   ),   array(
       "Code d'Armor",
       "img/codedarmor.png",
       "http://www.codedarmor.fr/",
