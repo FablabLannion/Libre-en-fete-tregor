@@ -90,7 +90,13 @@ $data_partenaires = array (
       "img/rospered.png",
       "https://sites.google.com/site/rospered/",
       "Ro’spered Patrimoine : tel est le nom d'un petit groupe (8 personnes) d'amateurs d'histoire locale à Rospez, partie prenante de l'association culturelle Ro'spered (\"donne de l'esprit\" en breton).<br>Son but : collecter, mettre en forme et, à plus long terme,synthétiser des documents concernant l’histoire et le patrimoine de la commune. <br>L’association utilise pleinement la cartographie numérique à partir de logiciels libres, notamment OpenStreetMap, pour la représentation des données spatiales recueillies dans les différentes sources d’archive."
-   ),  
+   ),
+array(
+      "Titux",
+      "img/logo-700x700-Titux.org.png",
+      "https://www.titux.org/asso/doku.php",
+      "L'association a pour but de favoriser et développer l'intérêt, la pratique et la connaissance des usages du numérique, la promotion des logiciels et systèmes d'exploitation libres, ainsi que la mutualisation de moyens informatiques. Nos actions sont sur la région lannionaise."
+   ),     
     array(
       "Tripalium",
       "img/tripalium.jpeg",
