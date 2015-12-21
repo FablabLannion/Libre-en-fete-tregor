@@ -79,13 +79,13 @@ $data_partenaires = array (
       "http://openstreetmap.fr/asso",
       "OpenStreetMap France est une association à but non lucratif régie par la loi de 1901 dont l'objectif est de promouvoir le projet OpenStreetMap et notamment la collecte, la diffusion et l'utilisation de données cartographiques sous licences libres."
    ),
-/*  array(
+  array(
       "PATG",
       "img/patg.png",
       "https://sites.google.com/site/patglannion2010/",
       "Promouvoir et Agir en Trégor Goélo (PATG) est une association axée sur l'aide aux particuliers et aux très petites entreprises du Trégor Goélo. PATG tente de réduire la fracture sociale et la fracture technique en visant la reprise des relations humaines et la réinsertion sociale. L'informatique est utilisée comme support parce que c'est un élément qui permet facilement les rapprochements humains, et apporte un complément de connaissances utile pour l'emploi et la vie courante"
    ),
-*/ array(
+  array(
       "Ro'spered",
       "img/rospered.png",
       "https://sites.google.com/site/rospered/",
