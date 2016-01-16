@@ -9,7 +9,7 @@ $data_partenaires = array (
       "http://technopole-anticipa.com/",
       "<h3>UN TRIO GAGNANT AU SERVICE DE VOS PROJETS D’ENTREPRISE</h3><p>
       Depuis 25 ans, Anticipa <b></b>développe l’économie, encourage l’innovation </b> et <b>stimule l’esprit d’entreprendre </b> sur le territoire du Trégor-Goëlo. Anticipa, c’est UNE technopole, UNE agence de développement et UNE plate-forme d’initiative locale (Trégor Initiative) au cœur d’un réseau  composé d’industriels, de porteurs de projets, de chercheurs, d’enseignants, d’étudiants et d’institutionnels.<br>
-      Anticipa concentre ses actions autour de <b>6 filières d’excellence </b>: numérique, photonique, cosmétique - biotech, alimentation-nutrition, naval-Nautisme  et industrie. Elle <b>accompagne et soutient les projets </b> (individuels ou collaboratifs) issus de ces filières quelque soit leur nature (création, implantation, développement, internationalisation…) et <b> anime </b> les filières par l’organisation de divers événements dédiés (colloque, rencontres, focus, formation…).<br> 
+      Anticipa concentre ses actions autour de <b>6 filières d’excellence </b>: numérique, photonique, cosmétique - biotech, alimentation-nutrition, naval-Nautisme  et industrie. Elle <b>accompagne et soutient les projets </b> (individuels ou collaboratifs) issus de ces filières quelque soit leur nature (création, implantation, développement, internationalisation…) et <b> anime </b> les filières par l’organisation de divers événements dédiés (colloque, rencontres, focus, formation…).<br>
       La technopole Anticipa est à l’écoute de tous et propose un accompagnement sur mesure à tous les projets d’entreprise.</p>"
    ),
    array(
@@ -60,7 +60,7 @@ $data_partenaires = array (
       "img/kristal.png",
       "http://kristal.io/fr/",
       "Lancée en février 2015, Kristal propose, avec son Framework Open Source Cobalt, un nouvel outil pour développer des applications mobiles, utilisant le Web afin de réduire les coûts tout en gardant des performances élevées. Cobalt, c'est aussi une association, les 'Cobaltians', qui a pour objet de faire connaître, promouvoir et améliorer le framework."
-   ), 
+   ),
     array(
       "Lannion Trégor Communauté",
       "img/LOGO_LTC_GeneriqueFR.jpg",
@@ -102,19 +102,19 @@ array(
       "img/logo-700x700-Titux.org.png",
       "https://www.titux.org/asso/doku.php",
       "L'association a pour but de favoriser et développer l'intérêt, la pratique et la connaissance des usages du numérique, la promotion des logiciels et systèmes d'exploitation libres, ainsi que la mutualisation de moyens informatiques. Nos actions sont sur la région lannionaise."
-   ),     
+   ),
     array(
       "Tripalium",
       "img/tripalium.jpeg",
       "http://www.tripalium.org/",
       "Impulsée en 2007 par la volonté de développer les stages d’auto-construction, l’association Tripalium s’est transformée en un réseau d’acteur-rices. <br>Sans salarié ni subvention, sa vitalité repose sur la dynamique des stages : les anciens stagiaires sont invités à devenir formateurs, puis à organiser des stages...Tripalium échange également à l’international avec des organisations similaires."
-   ),   
+   ),
     array(
       "Ville de Lannion",
       "img/Logo_mairie_Lannion.jpg",
       "http://www.ville-lannion.fr/",
       "Lannion, deuxième ville du département et ville-centre de l’agglomération, est une ville jeune et attractive.<br>La ville, capitale des télécommunications, constitue un pôle d’excellence technologique avec un éco-système unique mêlant grands groupes et PME innovantes.<br>Des équipements de qualité, dignes d’une ville de 40 000 habitants, sont proposés et les activités culturelles et sportives ne manquent pas à Lannion !<br>La ville et ses quartiers bougent au rythme des saisons avec ses 350 associations, tous domaines confondus."
-   ),     
+   ),
 );
 
 Flight::set('data_partenaires', $data_partenaires);
@@ -214,7 +214,7 @@ $data_programme = array (
       "Espace Enfants",
       "img/espace-enfants.jpg",
       "",
-      "<ul><li>Initiation à la programmation avec <a href=\"https://scratch.mit.edu/\">Scratch</a>,</li> <li>Ateliers électronique junior</li><li>Initiation à la soudure</li></ul><a href=\"mailto:leny@libre-en-fete-tregor.fr\">Contact: Linda</a>"
+      "<ul><li>Initiation à la programmation avec <a href=\"https://scratch.mit.edu/\">Scratch</a>,</li> <li>Ateliers électronique junior</li><li>Initiation à la soudure</li></ul><a href=\"mailto:leny@libre-en-fete-tregor.fr\">Contact: Leny</a>"
    ),
    array(
       "Espace Fablab",
@@ -238,7 +238,7 @@ $data_programme = array (
       "Espace Multimedia",
       "img/music.png",
       "",
-      "<ul><li>Montage vidéo avec <a href=\"http://openshot.org/\">OpenShot</a>, <a href=\"https://kdenlive.org/\">Kdenlive</a> ou <a href=\"http://cinelerra.org/2015/\">Cinelerra</a>,</li> <li><a href=\"http://www.linuxstopmotion.org/\">Stop motion</a>,</li> <li>Création musicale</li></ul><br><a href=\"mailto:morgan@libre-en-fete-tregor.fr\">Contact: Morgan</a>"
+      "<ul><li>Montage vidéo avec <a href=\"http://openshot.org/\">OpenShot</a>, <a href=\"https://kdenlive.org/\">Kdenlive</a> ou <a href=\"http://cinelerra.org/2015/\">Cinelerra</a>,</li> <li><a href=\"http://www.linuxstopmotion.org/\">Stop motion</a>,</li> <li>Création musicale</li></ul><br><a href=\"mailto:morgan@libre-en-fete-tregor.fr\">Contact: (Président) Morgan</a>"
    ),
    array(
       "Espace Pro",
@@ -268,14 +268,14 @@ $data_sponsors = array (
       "img/penguins-like-ocal-800px.png",
       "",
       "<ul><li>Logo sur la page Sponsors du site web,</li> <li>Logo sur les supports de com en petit format,</li> <li>Stand dans l'espace pro,</li> <li>1/2 page dans la brochure d'information de la manifestation</li></ul>"
-   ),   
+   ),
    array(
       "Espace pro",
       "img/Professional-People-Silhouette-800px.png",
       "",
       "<ul><li>Un stand d’une surface d’environ 9 m2. Equipement : cloisons et mobilier (1 table et 3 chaises), alimentation électrique (3 prises),connexion internet.Si besoins spécifiques, prévenir à l’inscription.,</li> <li>Repas du midi, un accès à un point café, </li><li>Une présence dans le guide du visiteur et sur la page internet de l’événement</li></ul>"
-   )      
+   )
  );
-Flight::set('data_sponsors', $data_sponsors);  
+Flight::set('data_sponsors', $data_sponsors);
 
 ?>
