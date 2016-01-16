@@ -60,7 +60,13 @@ $data_partenaires = array (
       "img/kristal.png",
       "http://kristal.io/fr/",
       "Lancée en février 2015, Kristal propose, avec son Framework Open Source Cobalt, un nouvel outil pour développer des applications mobiles, utilisant le Web afin de réduire les coûts tout en gardant des performances élevées. Cobalt, c'est aussi une association, les 'Cobaltians', qui a pour objet de faire connaître, promouvoir et améliorer le framework."
-   ),  
+   ), 
+    array(
+      "Lannion Trégor COmmunauté",
+      "img/LOGO_LTC_GeneriqueFR.jpg",
+      "http://www.lannion-tregor.com/",
+      "La communauté d'agglomération est un établissement public de coopération intercommunale (EPCI) .  Elle rassemble depuis le 1er janvier 2015, 38 communes pour 90 000 habitants.<br>Ces communes se sont unies sur le principe de solidarité, l'objectif étant de faire ensemble ce qu'une commune seule ne pourrait faire. "
+   ),
     array(
       "Les petits débrouillards",
       "img/Logo-petitsdebrouillards.jpg",
