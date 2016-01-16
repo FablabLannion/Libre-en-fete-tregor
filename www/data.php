@@ -157,7 +157,7 @@ $data_programme = array (
   </tr>
   <tr>
     <td>13H30</td>
-    <td>La tête dans les étoiles avec Stelarium</td>
+    <td>La tête dans les étoiles avec Stellarium</td>
     <td>M.Maligot (Astrotregor)</td>
   </tr>
   <tr>
