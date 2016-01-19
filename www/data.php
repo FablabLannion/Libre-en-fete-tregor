@@ -204,7 +204,7 @@ $data_programme = array (
   </tr>
   <tr>
     <td>16H30</td>
-    <td>Remise des prix \"coder au féminin\"</td>
+    <td>Remise des prix du concours \"Ada Lovelace\"</td>
     <td>Lycée le Dantec</td>
   </tr>
   <tr>
