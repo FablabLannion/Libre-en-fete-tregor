@@ -3,6 +3,12 @@
 /* data */
 
 $data_partenaires = array (
+  array(
+      "An Drouizig",
+      "img/mw_drouizig.png",
+      "http://technopole-anticipa.com/",
+      "An Drouizig est une association de promotion de la langue bretonne sur les nouvelles technologies, notamment par la traduction de logiciels et par la réalisation de correcteurs orthographiques<br>Ur gevredigezh a gas war-raok ar brezhoneg war ar c'halverezhioù nevez eo An Drouizig. He obererezhioù pennañ a zo troidigezh meziantoù ha diorroadur un difazier reizhskrivadur."
+   ),
    array(
       "Anticipa",
       "img/logo-anticipa.jpg",
@@ -137,9 +143,14 @@ $data_programme = array (
     <th>Présentateur</th>
   </tr>
   <tr>
-    <td>11H00</td>
+    <td>10H30</td>
     <td>Petite histoire du logiciel libre</td>
     <td>M.Richomme (Fablab Lannion)</td>
+  </tr>
+  <tr>
+    <td>11H00</td>
+    <td>Mon ordinateur en Breton, option logiciels libres/Un urzhiataer e brezhoneg gant meziantoù frank</td>
+    <td>Gwenn @Tornoz(An Drouizig)</td>
   </tr>
     <tr>
     <td>11H30</td>
@@ -208,7 +219,7 @@ $data_programme = array (
       "Espace Citoyen",
       "img/espace-citoyen.jpg",
       "",
-      "<ul><li>Cartographie participative avec <a href=\"https://openstreetmap.fr/\">OpenStreetMap</a>,</li> <li>Eoliennes auto-construites <a href=\"http://www.tripalium.org/eolienne-piggott\">Piggott</a>,</li> <li>Apprentissage populaire</li><li>PAO <a hef=\"http://www.scribus.net/\">Scribus</a> par l'association Ro'spered</li><li>F.Youzan <a href=\"http://www.fyouzan.ci/\">un regard d'africain sur le libre</a></li></ul><a href=\"mailto:eric@libre-en-fete-tregor.fr\">Contact: Eric</a>"
+      "<ul><li>Cartographie participative avec <a href=\"https://openstreetmap.fr/\">OpenStreetMap</a>,</li> <li>Eoliennes auto-construites <a href=\"http://www.tripalium.org/eolienne-piggott\">Piggott</a>,</li> <li>Apprentissage populaire</li><li>PAO <a hef=\"http://www.scribus.net/\">Scribus</a> par l'association Ro'spered</li><li>F.Youzan <a href=\"http://www.fyouzan.ci/\">un regard d'africain sur le libre</a></li><li>Mon ordinateur en Breton par <a href=\"http://drouizig.org/index.php/fr/\">An Drouizig</a></li></ul><a href=\"mailto:eric@libre-en-fete-tregor.fr\">Contact: Eric</a>"
    ),
    array(
       "Espace Enfants",
