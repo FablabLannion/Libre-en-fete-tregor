@@ -14,7 +14,7 @@ Flight::route('/sponsors',   'sponsors');
 
 function acceuil() {
    Flight::render ('acceuil', null, 'body' );
-   Flight::render ('layout', array('title'=>"Acceuil"));
+   Flight::render ('layout', array('title'=>"Accueil"));
 } // acceuil
 
 function pratique() {
