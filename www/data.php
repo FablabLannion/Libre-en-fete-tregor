@@ -29,7 +29,18 @@ $data_partenaires = array (
       "img/logo_Cité.jpg",
       "http://www.cite-telecoms.com/",
       "Construite sur le lieu de naissance des premières transmissions internationales, la Cité des télécoms est le plus grand centre européen de culture et de loisirs dédiée à l’univers des télécommunications et du numérique.<br>Forte de son passé historique, avec le Radôme, cette énorme sphère de 50 m de haut, labellisé « Patrimoine du XXème siècle », et un centre de 3000 m² d’exposition, la Cité des télécoms propose une balade insolite au cœur d’un site unique, lieu d’histoire et vitrine interactive du futur, pour mieux comprendre le monde dans lequel nous vivons. <br><br>Véritable outil ludique et pédagogique, elle offre à ses visiteurs, enfants ou adultes, des parcours adaptés, avec des jeux, des animations, des expositions, le Jardin des sciences pour les 6 – 12 ans et un spectacle sous le Radôme pour y découvrir son histoire."
-   ),   array(
+   ),   
+   array(
+      "Conseil Départemental",
+      "img/Bloc_cg22_2013_quadri.jpg",
+      "http://cotesdarmor.fr/",
+      "Le Conseil Départemental et ses partenaires libèrent leurs données ! Accompagnant le grand mouvement Open Data en France et dans le monde entier, le portail DAT'ARMOR est né.<br>
+       <b>L'open data, c'est quoi ?</b>
+       L’open data (\"Données ouvertes\") désigne un mouvement visant à rendre accessibles via Internet les données numériques que les collectivités et les administrations produisent ou reçoivent dans leurs activités quotidiennes. Les données libérées sur le portail DAT'ARMOR touchent des domaines aussi variés que le transport, le social, le tourisme, l'éducation, la culture, le sport ou l'urbanisme. Ces données dites ouvertes sont accessibles librement et gratuitement et peuvent être réutilisées par tout un chacun. Plus précisément, l’open data a pour principe de fournir des données brutes pour en faciliter la réutilisation.<br>
+       <b>L'Open Data, pour qui ?</b>
+       Pour tout le monde ! A titre d'exemple, les entreprises peuvent y trouver matière à proposer de nouvelles applications et des services innovants dédiés aux smartphones et aux tablettes; le grand public peut y trouver des informations propres à enrichir sa culture générale; les journalistes peuvent y dénicher des informations destinées à leurs articles; les chercheurs des éléments susceptibles d'alimenter leurs études ou leurs travaux."
+   ),   
+   array(
       "Code d'Armor",
       "img/codedarmor.png",
       "http://www.codedarmor.fr/",
@@ -213,7 +224,8 @@ $data_programme = array (
     <td>ENSSAT</td>
   </tr>
 
-</table> "
+</table> 
+<br><a href=\"mailto:presse@libre-en-fete-tregor.fr\">Contact: Camille, Claire, Lise, Katell et Stan</a>"
    ),
    array(
       "Espace Citoyen",
@@ -249,13 +261,13 @@ $data_programme = array (
       "Espace Multimedia",
       "img/music.png",
       "",
-      "<ul><li>Montage vidéo avec <a href=\"http://openshot.org/\">OpenShot</a>, <a href=\"https://kdenlive.org/\">Kdenlive</a> ou <a href=\"http://cinelerra.org/2015/\">Cinelerra</a>,</li> <li><a href=\"http://www.linuxstopmotion.org/\">Stop motion</a>,</li> <li>Création musicale</li></ul><br><a href=\"mailto:morgan@libre-en-fete-tregor.fr\">Contact: (Président) Morgan</a>"
+      "<ul><li>Montage vidéo avec <a href=\"http://openshot.org/\">OpenShot</a>, <a href=\"https://kdenlive.org/\">Kdenlive</a> ou <a href=\"http://cinelerra.org/2015/\">Cinelerra</a>,</li> <li><a href=\"http://www.linuxstopmotion.org/\">Stop motion</a>,</li> <li>Création musicale</li></ul><br><a href=\"mailto:morgan@libre-en-fete-tregor.fr\">Contact: Morgan</a>"
    ),
    array(
       "Espace Pro",
       "img/espace-pro.jpg",
       "",
-      "Le libre se décline aussi dans les entreprises"
+      "Le libre se décline aussi dans les entreprises.L'espace accueillera sponsors et exposants.<br><a href=\"mailto:agnes@libre-en-fete-tregor.fr\">Contact: Agnes</a>"
    ),
 
 );
