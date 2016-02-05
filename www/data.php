@@ -249,7 +249,7 @@ $data_programme = array (
       "Espace Geek",
       "img/espace-geek.jpg",
       "",
-      "<ul><li>Initiation & Install Party,</li> <li>Hackathon</li><li>Concours Ada Lovelace</li><li>Atelier <a href=\"http://www.latex-project.org/\">LaTex</a></li><li>Maquette avec système embarqué (RPI - MSP430 etc.),</li> <li><a href=\"http://www.fr.linuxfromscratch.org/\">Linux From scratch (LFS)</a></li></ul><a href=\"mailto:jonathan@libre-en-fete-tregor.fr\">Contact: Jonathan</a> , <a href=\"mailto:christian@libre-en-fete-tregor.fr\">Christian</a>"
+      "<ul><li>Initiation & Install Party,</li> <li><a href=\"http://hackathon.management.enssat.fr/\">Hackathon</a></li><li>Concours Ada Lovelace</li><li>Atelier <a href=\"http://www.latex-project.org/\">LaTex</a></li><li>Maquette avec système embarqué (RPI - MSP430 etc.),</li> <li><a href=\"http://www.fr.linuxfromscratch.org/\">Linux From scratch (LFS)</a></li></ul><a href=\"mailto:jonathan@libre-en-fete-tregor.fr\">Contact: Jonathan</a> , <a href=\"mailto:christian@libre-en-fete-tregor.fr\">Christian</a>"
    ),
    array(
       "Espace Jeux",
