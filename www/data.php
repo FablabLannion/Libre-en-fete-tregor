@@ -24,6 +24,20 @@ $data_partenaires = array (
       "http://www.astrosurf.com/astro-tregor/",
       "Basé à Trébeurden, Le Club d'Astronomie du Trégor existe  depuis 1990 et réunit des passionnés où chacun apporte son savoir et ses expériences dans un but d'enrichissement commun. <br>Au sein du club se succèdent des sorties nocturnes d'observation et des exposés traitant aussi bien d'une constellation que de cosmologie, d'astrophysique.  Le club a aussi  pour vocation de promouvoir l'astronomie auprès d'un large public, des plus jeunes aux plus sages."
    ),
+    array(
+      "BrestTech+",
+      "img/brestTech2015.png",
+      "http://www.bresttechplus.fr/",
+      "Le pôle constitué de Brest, Lannion, Quimper et Morlaix au sein de la Brest Tech + vient de décrocher le label Métropole French Tech. Une très bonne nouvelle pour l’écosystème numérique de l’Ouest breton mobilisé ensemble au service du développement de l’économie numérique, de la création et de l’accompagnement des startups.<br>
+      <b>Les + de l’Ouest breton</b><br>
+      <ul>
+      <li>un écosystème numérique dynamique avec des entreprises numériques innovantes</li>
+      <li>une recherche reconnue pour son excellence, avec le pôle de compétitivité Images et réseaux, l’institut de recherche technologique B.Com, et un réseau dense de formations de premier plan autour de Telecom Bretagne à Brest, de l’Enssat à Lannion…</li>
+      <li>une stratégie de développement de cet écosystème pour d’ici dix ans : créer 9 000 emplois dans le numérique, 1 500 entreprises nouvelles et développer les startups en visant 200 entreprises et 200 millions d’euros levés</li>
+      <li>dès maintenant des programmes au service de la croissance et de la visibilité des startups : le programme d’accompagnement Brest Startups, l’accélérateur Passion by Anticipa, l’animation d’Ateliers numériques par les startups, le West Web Festival, une offre novatrice de formation dans la perspective de la Grande école du numérique</li>
+      <li>des lieux d’innovations : le site des Capucins à Brest qui abritera la plateforme d’initiatives et de projets Brest Tech +, le parc d’activités Pégase à Lannion et Photonics Park, les technopôles de Brest, Quimper et Lannion et le pôle d’innovations de Morlaix.</li>
+      </ul>"      
+   ),  
    array(
       "Cité des Télécoms",
       "img/logo_Cité.jpg",
