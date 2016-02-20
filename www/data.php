@@ -317,7 +317,7 @@ $data_sponsors = array (
   "img/granitrose.jpg",
   "",
   "<ul>
-  <li><img src=\"663px-Oracle_logo.svg.png\" alt=\"Oracle\"></li>
+  <li><img src=\"img/663px-Oracle_logo.svg.png\" alt=\"Oracle\"></li>
   <li></li>
   </ul>")
  );
