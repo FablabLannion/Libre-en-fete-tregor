@@ -314,7 +314,7 @@ $data_sponsors = array (
    ),
   array(
   "Sponsors \"Granit Rose\"",
-  "img/2016-02-20 18.27.27.jpg",
+  "img/granitrose.jpg",
   "",
   "<ul>
   <li><img src=\"663px-Oracle_logo.svg.png\" alt=\"Oracle\"></li>
