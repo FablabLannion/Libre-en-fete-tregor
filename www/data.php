@@ -314,10 +314,10 @@ $data_sponsors = array (
    ),
   array(
   "Sponsors \"Granit Rose\"",
-  "img/",
+  "img/2016-02-20 18.27.27.jpg",
   "",
   "<ul>
-  <li><img src=\"Oracle 663px-Oracle_logo.svg.png\" alt=\"Oracle\"></li>
+  <li><img src=\"663px-Oracle_logo.svg.png\" alt=\"Oracle\"></li>
   <li></li>
   </ul>")
  );
