@@ -289,29 +289,37 @@ Flight::set('data_programme', $data_programme);
 
 $data_sponsors = array (
    array(
-      "Devenir Sponsor",
-      "img/sponsor-badges-800px.png",
-      "",
-      "vous souhaitez associer votre entreprise à un événement grand public autour du numérique et du logiciel libre, contactez nous: <a href=\"mailto:contact@libre-en-fete-tregor.fr\">contact@libre-en-fete-tregor.fr</a> !"
+      "Huawei",
+      "img/logo-Huawei.jpeg",
+      "http://www.huawei.com/fr/",
+      ""
    ),
    array(
-      "Platinium",
-      "img/award-800px.png",
-      "",
-      "<ul><li>Logo sur tous les pages du site web,</li> <li>Logo sur tous les supports de com (flyers, affiches 120x176, A4, A3) en grand format,</li><li>Réseau d'affichage sur 30 panneaux 120x176 sur Lannion,</li> <li>slot pour 1 conférence, </li><li>Stand (pas de limitation d'espace dans la mesure du raisonable...) dans l'espace Pro,</li> <li>1 page dans la brochure d'information de la manifestation</li></ul>"
+      "Nokia",
+      "img/Nokia_wordmark.svg.png",
+      "http://www.nokia.com/fr_int",
+      ""
    ),
    array(
-      "Granit rose",
-      "img/penguins-like-ocal-800px.png",
-      "",
-      "<ul><li>Logo sur la page Sponsors du site web,</li> <li>Logo sur les supports de com en petit format,</li> <li>Stand dans l'espace pro,</li> <li>1/2 page dans la brochure d'information de la manifestation</li></ul>"
+      "RedHat",
+      "img/Red_hat_logo.png",
+      "http://www.redhat.com/fr",
+      ""
    ),
    array(
-      "Espace pro",
-      "img/Professional-People-Silhouette-800px.png",
+      "Lannion Tregor Communauté",
+      "img/LOGO_LTC_GeneriqueFR.jpg",
       "",
-      "<ul><li>Un stand d’une surface d’environ 9 m2. Equipement : cloisons et mobilier (1 table et 3 chaises), alimentation électrique (3 prises),connexion internet.Si besoins spécifiques, prévenir à l’inscription.,</li> <li>Repas du midi, un accès à un point café, </li><li>Une présence dans le guide du visiteur et sur la page internet de l’événement</li></ul>"
-   )
+      ""
+   ),
+  array(
+  "Sponsors \"Granit Rose\"",
+  "img/",
+  "",
+  "<ul>
+  <li><img src=\"Oracle 663px-Oracle_logo.svg.png\" alt=\"Oracle\"></li>
+  <li></li>
+  </ul>")
  );
 Flight::set('data_sponsors', $data_sponsors);
 
