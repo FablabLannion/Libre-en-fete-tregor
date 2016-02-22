@@ -298,7 +298,8 @@ $data_sponsors = array (
       "Nokia",
       "img/Nokia_wordmark.svg.png",
       "http://www.nokia.com/fr_int",
-      ""
+      "Nokia est un leader mondial dans les technologies permettant de connecter les personnes et les objets.<br>Stimulée par l'innovation de Bell Labs et Nokia Technologies, la société est en première ligne dans la création et l'octroi de licences de technologies qui occupent une place de plus en plus importante dans nos vies connectées.
+      <br>Avec des logiciels, des matériels et des services de pointe pour tous types de réseaux, Nokia bénéficie d'un positionnement unique pour aider les fournisseurs de services de communication, les gouvernements et les entreprises d'envergure à concrétiser leurs promesses de 5G, le Cloud et l'Internet des objets. <a href=\"http://www.nokia.com\">nokia.com</a> "
    ),
    array(
       "RedHat",
