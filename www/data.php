@@ -321,7 +321,7 @@ $data_sponsors = array (
   "img/granitrose.jpg",
   "",
   "<a href=\"https://www.nexcom.fr/\"><img src=\"img/logo_nexcomsystems.png\" height=\"50\" alt=\"Nexcom Systems\"></a></li>
-  <a href=\"https://oss.oracle.com/\"><img src=\"img/663px-Oracle_logo.svg.png\" height=\"50\" alt=\"Oracle\"></a></li>
+  <a href=\"https://oss.oracle.com/\"><img src=\"img/663px-Oracle_logo.svg.png\" height=\"40\" alt=\"Oracle\"></a></li>
   ")
  );
 Flight::set('data_sponsors', $data_sponsors);
