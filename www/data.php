@@ -305,7 +305,10 @@ $data_sponsors = array (
       "RedHat",
       "img/Red_hat_logo.png",
       "http://www.redhat.com/fr",
-      ""
+      "Red Hat est le premier fournisseur mondial de solutions logicielles open source d'entreprise, avec une approche communautaire pour fournir des solutions Linux, Cloud, Middleware, Stockage et Virtualisation fiables, certifiées et performantes. 
+      <br>Red Hat propose également des services de formation et de consulting reconnus. 
+      <br>En tant que vecteur de mise en relation au sein d’un réseau mondial d'entreprises, de partenaires et de communautés open source, Red Hat contribue à créer des technologies innovantes et pertinentes qui préparent les client à faire face à l'avenir de l'informatique.
+      <br>Pour en savoir plus: <a href=\"http://www.redhat.com\">http://www.redhat.com</a>"
    ),
    array(
       "Lannion Tregor Communauté",
@@ -317,10 +320,9 @@ $data_sponsors = array (
   "Sponsors \"Granit Rose\"",
   "img/granitrose.jpg",
   "",
-  "<ul>
-  <li><a href=\"https://oss.oracle.com/\"><img src=\"img/663px-Oracle_logo.svg.png\" height=\"50\" alt=\"Oracle\"></a></li>
-  <li></li>
-  </ul>")
+  "<a href=\"https://www.nexcom.fr/\"><img src=\"img/logo_nexcomsystems.png\" height=\"50\" alt=\"Nexcom Systems\"></a></li>
+  <a href=\"https://oss.oracle.com/\"><img src=\"img/663px-Oracle_logo.svg.png\" height=\"50\" alt=\"Oracle\"></a></li>
+  ")
  );
 Flight::set('data_sponsors', $data_sponsors);
 
