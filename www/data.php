@@ -36,14 +36,14 @@ $data_partenaires = array (
       <li>une stratégie de développement de cet écosystème pour d’ici dix ans : créer 9 000 emplois dans le numérique, 1 500 entreprises nouvelles et développer les startups en visant 200 entreprises et 200 millions d’euros levés</li>
       <li>dès maintenant des programmes au service de la croissance et de la visibilité des startups : le programme d’accompagnement Brest Startups, l’accélérateur Passion by Anticipa, l’animation d’Ateliers numériques par les startups, le West Web Festival, une offre novatrice de formation dans la perspective de la Grande école du numérique</li>
       <li>des lieux d’innovations : le site des Capucins à Brest qui abritera la plateforme d’initiatives et de projets Brest Tech +, le parc d’activités Pégase à Lannion et Photonics Park, les technopôles de Brest, Quimper et Lannion et le pôle d’innovations de Morlaix.</li>
-      </ul>"      
-   ),  
+      </ul>"
+   ),
    array(
       "Cité des Télécoms",
       "img/logo_Cité.jpg",
       "http://www.cite-telecoms.com/",
       "Construite sur le lieu de naissance des premières transmissions internationales, la Cité des télécoms est le plus grand centre européen de culture et de loisirs dédiée à l’univers des télécommunications et du numérique.<br>Forte de son passé historique, avec le Radôme, cette énorme sphère de 50 m de haut, labellisé « Patrimoine du XXème siècle », et un centre de 3000 m² d’exposition, la Cité des télécoms propose une balade insolite au cœur d’un site unique, lieu d’histoire et vitrine interactive du futur, pour mieux comprendre le monde dans lequel nous vivons. <br><br>Véritable outil ludique et pédagogique, elle offre à ses visiteurs, enfants ou adultes, des parcours adaptés, avec des jeux, des animations, des expositions, le Jardin des sciences pour les 6 – 12 ans et un spectacle sous le Radôme pour y découvrir son histoire."
-   ),   
+   ),
    array(
       "Conseil Départemental",
       "img/Bloc_cg22_2013_quadri.jpg",
@@ -53,7 +53,7 @@ $data_partenaires = array (
        L’open data (\"Données ouvertes\") désigne un mouvement visant à rendre accessibles via Internet les données numériques que les collectivités et les administrations produisent ou reçoivent dans leurs activités quotidiennes. Les données libérées sur le portail DAT'ARMOR touchent des domaines aussi variés que le transport, le social, le tourisme, l'éducation, la culture, le sport ou l'urbanisme. Ces données dites ouvertes sont accessibles librement et gratuitement et peuvent être réutilisées par tout un chacun. Plus précisément, l’open data a pour principe de fournir des données brutes pour en faciliter la réutilisation.<br>
        <b>L'Open Data, pour qui ?</b>
        Pour tout le monde ! A titre d'exemple, les entreprises peuvent y trouver matière à proposer de nouvelles applications et des services innovants dédiés aux smartphones et aux tablettes; le grand public peut y trouver des informations propres à enrichir sa culture générale; les journalistes peuvent y dénicher des informations destinées à leurs articles; les chercheurs des éléments susceptibles d'alimenter leurs études ou leurs travaux."
-   ),   
+   ),
    array(
       "Code d'Armor",
       "img/codedarmor.png",
@@ -97,6 +97,12 @@ $data_partenaires = array (
       "img/LOGO_LTC_GeneriqueFR.jpg",
       "http://www.lannion-tregor.com/",
       "La communauté d'agglomération est un établissement public de coopération intercommunale (EPCI) .  Elle rassemble depuis le 1er janvier 2015, 38 communes pour 90 000 habitants.<br>Ces communes se sont unies sur le principe de solidarité, l'objectif étant de faire ensemble ce qu'une commune seule ne pourrait faire. "
+   ),
+   array(
+        "LanPower",
+        "img/logo-lanpower.jpg",
+        "http://asso.lanpower.free.fr/",
+        "L'association LanPower de Rennes spécialisée sur les jeux video sous licences libres depuis 10 ans, participera au stand jeux libres tous publics et représentera le site <a href='http://jeuxlibres.net'>jeuxlibres.net</a>. Des jeux pour petits et grands ainsi que des jeux en réseau seront présentés."
    ),
     array(
       "Les petits débrouillards",
@@ -238,7 +244,7 @@ $data_programme = array (
     <td>ENSSAT</td>
   </tr>
 
-</table> 
+</table>
 <br><a href=\"mailto:presse@libre-en-fete-tregor.fr\">Contact: Camille, Claire, Lise, Katell et Stan</a>"
    ),
    array(
@@ -305,8 +311,8 @@ $data_sponsors = array (
       "RedHat",
       "img/Red_hat_logo.png",
       "http://www.redhat.com/fr",
-      "Red Hat est le premier fournisseur mondial de solutions logicielles open source d'entreprise, avec une approche communautaire pour fournir des solutions Linux, Cloud, Middleware, Stockage et Virtualisation fiables, certifiées et performantes. 
-      <br>Red Hat propose également des services de formation et de consulting reconnus. 
+      "Red Hat est le premier fournisseur mondial de solutions logicielles open source d'entreprise, avec une approche communautaire pour fournir des solutions Linux, Cloud, Middleware, Stockage et Virtualisation fiables, certifiées et performantes.
+      <br>Red Hat propose également des services de formation et de consulting reconnus.
       <br>En tant que vecteur de mise en relation au sein d’un réseau mondial d'entreprises, de partenaires et de communautés open source, Red Hat contribue à créer des technologies innovantes et pertinentes qui préparent les client à faire face à l'avenir de l'informatique.
       <br>Pour en savoir plus: <a href=\"http://www.redhat.com\">http://www.redhat.com</a>"
    ),
