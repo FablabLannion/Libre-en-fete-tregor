@@ -215,8 +215,8 @@ $data_programme = array (
   </tr>
   <tr>
     <td>14H30</td>
-    <td>Slot Sponsor I</td>
-    <td>Sponsor</td>
+    <td>Red Hat: un modèle économique autour de l'opensource</td>
+    <td>Red Hat</td>
   </tr>
   <tr>
     <td>15H00</td>
@@ -235,11 +235,16 @@ $data_programme = array (
   </tr>
   <tr>
     <td>16H30</td>
+    <td>Slot Sponsor III</td>
+    <td>Sponsor</td>
+  </tr>
+  <tr>
+    <td>17H00</td>
     <td>Remise des prix du concours \"Ada Lovelace\"</td>
     <td>Lycée le Dantec</td>
   </tr>
   <tr>
-    <td>17H00</td>
+    <td>17H30</td>
     <td>Remise des prix \"Hackathon ENSSAT\"</td>
     <td>ENSSAT</td>
   </tr>
