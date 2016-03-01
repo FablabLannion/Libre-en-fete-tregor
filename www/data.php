@@ -143,7 +143,7 @@ array(
        <b>COMMENT?</b> Nous sollicitons tous les organismes privés et publics ainsi que les particuliers à participer à ce projet social, solidaire et environnemental par le don de matériel en fin de vie. Nous les reconditionnons et les mettons à disposition moyennant une participation forfaitaire le plus bas possible.<br>
        <b>AVEC QUI?</b>Toutes structures luttant contre la précarité, l’isolement, aidant à la réinsertion, à l’E-inclusion mais aussi les associations à faible budget, les particuliers en situation difficiles, étudiants... Notre action se veut non restrictive.<br>
        <b>LA TRANSPARENCE !</b>Les fonds récoltés par THOT (c.i.s.) servent à financer le reconditionnement et les frais engendrés pour le bon fonctionnement de l’association. Nous tiendrons à disposition, pour tous nos partenaires (donateurs et bénéficiaires), le bilan financier approuvé par le conseil d’administration et le commissaire aux comptes"
-   ),   
+   ),
 array(
       "Titux.org",
       "img/logo-700x700-Titux.org.png",
@@ -290,7 +290,7 @@ $data_programme = array (
       "Espace Jeux",
       "img/jeux.jpg",
       "",
-      "Le monde du libre propose aussi des jeux rivalisants avec les productions modernes.<br> C'est aussi un réservoir de passionés qui vous permettront de jouer aux jeux de votre enfance. <br>Venez découvrir et essayer ce grand écart sur les machines mises à votre disposition.<br><a href=\"mailto:jerome@libre-en-fete-tregor.fr\">Contact: (C++) Jérôme</a>"
+      "Le monde du libre propose aussi des jeux rivalisants avec les productions modernes.<br> C'est aussi un réservoir de passionnés qui vous permettront de jouer aux jeux de votre enfance. <br>Venez découvrir et essayer ce grand écart sur les machines mises à votre disposition.<br><a href=\"mailto:jerome@libre-en-fete-tregor.fr\">Contact: (C++) Jérôme</a>"
    ),
    array(
       "Espace Multimedia",
