@@ -135,6 +135,16 @@ $data_partenaires = array (
       "Ro’spered Patrimoine : tel est le nom d'un petit groupe (8 personnes) d'amateurs d'histoire locale à Rospez, partie prenante de l'association culturelle Ro'spered (\"donne de l'esprit\" en breton).<br>Son but : collecter, mettre en forme et, à plus long terme,synthétiser des documents concernant l’histoire et le patrimoine de la commune. <br>L’association utilise pleinement la cartographie numérique à partir de logiciels libres, notamment OpenStreetMap, pour la représentation des données spatiales recueillies dans les différentes sources d’archive."
    ),
 array(
+      "THOT (c.i.s)",
+      "img/thot.jpg",
+      "http://thot-c-i-s.asso-web.com/",
+      "COMMUNICATION, INFORMATION, SAVOIR.<br>Ces trois mots nous les connaissons, nous les utilisons dans nos discussions mais sommes-nous tous égaux pour y accéder.<br>
+       En créant THOT (c.i.s.), nous voulons permettre, aux personnes ayant peu de moyens financiers, la possibilité de posséder du matériel informatique.<br>
+       <b>COMMENT?</b> Nous sollicitons tous les organismes privés et publics ainsi que les particuliers à participer à ce projet social, solidaire et environnemental par le don de matériel en fin de vie. Nous les reconditionnons et les mettons à disposition moyennant une participation forfaitaire le plus bas possible.<br>
+       <b>AVEC QUI?</b>Toutes structures luttant contre la précarité, l’isolement, aidant à la réinsertion, à l’E-inclusion mais aussi les associations à faible budget, les particuliers en situation difficiles, étudiants... Notre action se veut non restrictive.<br>
+       <b>LA TRANSPARENCE !</b>Les fonds récoltés par THOT (c.i.s.) servent à financer le reconditionnement et les frais engendrés pour le bon fonctionnement de l’association. Nous tiendrons à disposition, pour tous nos partenaires (donateurs et bénéficiaires), le bilan financier approuvé par le conseil d’administration et le commissaire aux comptes"
+   ),   
+array(
       "Titux.org",
       "img/logo-700x700-Titux.org.png",
       "https://www.titux.org/asso/doku.php",
