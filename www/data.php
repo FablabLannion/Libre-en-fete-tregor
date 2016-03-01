@@ -4,11 +4,17 @@
 
 $data_partenaires = array (
   array(
+      "Aleccor",
+      "img/logo_aleccor.jpg",
+      "http://www.aleccor.infini.fr",
+      "Les exOOOs d'Aleccor<br>Exercices éducatifs libres et gratuits programmés sous OpenOffice<br>Les exOOOs d'Aleccor sont des exercices éducatifs libres et gratuits, programmés sous OpenOffice et sous VoxOoFox (synthèse vocale). Ces exercices sont auto-correctifs.<br>Le but est de proposer des ressources éducatives pour les écoles, pour les enfants (en soutien) en eur permettant de travailler en autonomie (pas de note mais une valorisation du travail), mais aussi pour les personnes en difficulté (illettrisme) ou pour qui le français est une langue étrangère.<br>Plus de 1 000 exercices sont actuellement disponibles dans de nombreuses matières.(Français, Calcul, Histoire, Géographie, Sciences, Anglais, Éducation civique,...)"
+   ),
+  array(
       "An Drouizig",
       "img/mw_drouizig.png",
       "http://technopole-anticipa.com/",
       "An Drouizig est une association de promotion de la langue bretonne sur les nouvelles technologies, notamment par la traduction de logiciels et par la réalisation de correcteurs orthographiques<br>Ur gevredigezh a gas war-raok ar brezhoneg war ar c'halverezhioù nevez eo An Drouizig. He obererezhioù pennañ a zo troidigezh meziantoù ha diorroadur un difazier reizhskrivadur."
-   ),
+   ),   
    array(
       "Anticipa",
       "img/logo-anticipa.jpg",
