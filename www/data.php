@@ -251,8 +251,8 @@ $data_programme = array (
   </tr>
   <tr>
     <td>16H30</td>
-    <td>Slot Sponsor III</td>
-    <td>Sponsor</td>
+    <td>Libre penseur – Libre maker</td>
+    <td> C.Wolski-Duval (Nokia)</td>
   </tr>
   <tr>
     <td>17H00</td>
