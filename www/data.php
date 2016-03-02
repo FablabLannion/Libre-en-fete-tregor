@@ -272,7 +272,13 @@ $data_programme = array (
       "Espace Citoyen",
       "img/espace-citoyen.jpg",
       "",
-      "<ul><li>Cartographie participative avec <a href=\"https://openstreetmap.fr/\">OpenStreetMap</a>,</li> <li>Eoliennes auto-construites <a href=\"http://www.tripalium.org/eolienne-piggott\">Piggott</a>,</li> <li>Apprentissage populaire par PATG</li><li>PAO <a hef=\"http://www.scribus.net/\">Scribus</a> par l'association Ro'spered</li><li>Mon ordinateur en Breton par <a href=\"http://drouizig.org/index.php/fr/\">An Drouizig</a></li><li>Initiation à Linux par Infothema et Titux.org</li></ul><a href=\"mailto:eric@libre-en-fete-tregor.fr\">Contact: Eric</a>"
+      "<ul>
+      <li>Cartographie participative avec <a href=\"https://openstreetmap.fr/\">OpenStreetMap</a>,</li>
+      <li>Eoliennes auto-construites <a href=\"http://www.tripalium.org/eolienne-piggott\">Piggott</a>,</li>
+      <li>Apprentissage populaire par PATG</li><li>PAO <a hef=\"http://www.scribus.net/\">Scribus</a> par l'association Ro'spered</li>
+      <li>Mon ordinateur en Breton par <a href=\"http://drouizig.org/index.php/fr/\">An Drouizig</a></li>
+      
+      <a href=\"mailto:eric@libre-en-fete-tregor.fr\">Contact: Eric</a>"
    ),
    array(
       "Espace Enfants",
@@ -284,7 +290,15 @@ $data_programme = array (
       "Espace Fablab",
       "img/espace-garage.jpg",
       "",
-      "l'atelier des grands enfants:<br><ul><li>Espace impression 3D,</li> <li>Initiation à <a href=\"https://www.arduino.cc/\">arduino</a>,</li><li>Course de mini drônes</li><li>Espace robotique</li> </ul><a href=\"mailto:tangi@libre-en-fete-tregor.fr\">Contact: Tangi</a>"
+      "l'atelier des grands enfants:<br>
+      <ul>
+      <li>Espace impression 3D,</li>
+      <li>Initiation à <a href=\"https://www.arduino.cc/\">arduino</a>,</li>
+      <li>Course de mini drônes</li>
+      <li>Espace robotique</li>
+      <li>Reconditionnement informatique avec THOT (c.i.s)</li>
+      
+      </ul><a href=\"mailto:tangi@libre-en-fete-tregor.fr\">Contact: Tangi</a>"
    ),
    array(
       "Espace Geek",
@@ -302,7 +316,14 @@ $data_programme = array (
       "Espace Multimedia",
       "img/music.png",
       "",
-      "<ul><li>Montage vidéo avec <a href=\"http://openshot.org/\">OpenShot</a>, <a href=\"https://kdenlive.org/\">Kdenlive</a> ou <a href=\"http://cinelerra.org/2015/\">Cinelerra</a>,</li> <li><a href=\"http://www.linuxstopmotion.org/\">Stop motion</a>,</li> <li>Création musicale</li></ul><br><a href=\"mailto:morgan@libre-en-fete-tregor.fr\">Contact: Morgan</a>"
+      "<ul>
+      <li>Montage vidéo avec <a href=\"http://openshot.org/\">OpenShot</a>, <a href=\"https://kdenlive.org/\">Kdenlive</a> ou <a href=\"http://cinelerra.org/2015/\">Cinelerra</a>,</li>
+      <li><a href=\"http://www.linuxstopmotion.org/\">Stop motion</a>,</li>
+      <li>Création musicale</li>
+      <li>Initiation à l'nformatique PATG</li>
+      <li>Initiation à Linux par Infothema et Titux.org</li>
+      <li>m-education: les exOOOs d'Alecoor</li></ul>
+     <br><a href=\"mailto:morgan@libre-en-fete-tregor.fr\">Contact: Morgan</a>"
    ),
    array(
       "Espace Pro",
