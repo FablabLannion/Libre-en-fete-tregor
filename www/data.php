@@ -294,9 +294,10 @@ $data_programme = array (
       <ul>
       <li>Espace impression 3D,</li>
       <li>Initiation à <a href=\"https://www.arduino.cc/\">arduino</a>,</li>
-      <li>Course de mini drônes</li>
+      <li>Démonstration de mini drônes</li>
       <li>Espace robotique</li>
       <li>Reconditionnement informatique avec THOT (c.i.s)</li>
+      <li>Animation & démonstration de Mini Z (Voiture radiocommandée électrique sur piste) par ATM22 (Section modélisme de l'ASAC)</li>
       
       </ul><a href=\"mailto:tangi@libre-en-fete-tregor.fr\">Contact: Tangi</a>"
    ),
