@@ -289,7 +289,7 @@ $data_programme = array (
       </ul>
       <p><strong>Démonstrations</strong></p>
       <ul>
-        <li>Les données libres de <a href=\"http://www.ville-lannion.fr/\"> Lannion</a>, <a href=\"http://www.lannion-tregor.com/\"> LTC/a> et du <a href=\"http://cotesdarmor.fr/\">Conseil Général des Côtes d'Armor</a></li>
+        <li>Les données libres de <a href=\"http://www.ville-lannion.fr/\"> Lannion</a>, <a href=\"http://www.lannion-tregor.com/\"> LTC</a> et du <a href=\"http://cotesdarmor.fr/\">Conseil Général des Côtes d'Armor</a></li>
         <li>Utilisation des outils de Systèmes d'Information Géographique libres par la ville de Lannion et LTC (OSM, QGIS, Leaflet...)
         <li>PAO <a hef=\"http://www.scribus.net/\">Scribus</a> et cartes sophistiquées par l'association <a href=\"https://sites.google.com/site/rospered/\">Ro'spered</a></li>
         <li>Eoliennes auto-construites <a href=\"http://www.tripalium.org/eolienne-piggott\">Piggott</a>,</li>
