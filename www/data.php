@@ -12,9 +12,9 @@ $data_partenaires = array (
   array(
       "An Drouizig",
       "img/mw_drouizig.png",
-      "http://technopole-anticipa.com/",
+      "http://www.drouizig.org/",
       "An Drouizig est une association de promotion de la langue bretonne sur les nouvelles technologies, notamment par la traduction de logiciels et par la réalisation de correcteurs orthographiques<br>Ur gevredigezh a gas war-raok ar brezhoneg war ar c'halverezhioù nevez eo An Drouizig. He obererezhioù pennañ a zo troidigezh meziantoù ha diorroadur un difazier reizhskrivadur."
-   ),   
+   ),
    array(
       "Anticipa",
       "img/logo-anticipa.jpg",
@@ -295,7 +295,7 @@ $data_programme = array (
         <li>Eoliennes auto-construites <a href=\"http://www.tripalium.org/eolienne-piggott\">Piggott</a>,</li>
         <li>Mon ordinateur en Breton par <a href=\"http://drouizig.org/index.php/fr/\">An Drouizig</a></li>
         <li> Le numérique pour l'apprentissage pour les enfants et l'aide aux personnes par <a href=\"http://orangesolidarite.com/fr/accueil\">Orange Solidarité</a></li>
-      </ul> 
+      </ul>
      <p><strong>Parcours</strong></p>
      <ul>
        <li>Je prépare ma carte pour une impression 3D</li>
@@ -321,7 +321,7 @@ $data_programme = array (
       <li>Espace robotique</li>
       <li>Reconditionnement informatique avec THOT (c.i.s)</li>
       <li>Animation & démonstration de Mini Z (Voiture radiocommandée électrique sur piste) par ATM22 (Section modélisme de l'ASAC)</li>
-      
+
       </ul><a href=\"mailto:tangi@libre-en-fete-tregor.fr\">Contact: Tangi</a>"
    ),
    array(
@@ -364,7 +364,7 @@ $data_sponsors = array (
       "Huawei",
       "img/logo-Huawei.jpeg",
       "http://www.huawei.com/fr/",
-     "Huawei est un leader de solutions dans les domaines des TIC. Innovant en permanence pour répondre aux besoins des clients, Huawei fournit des équipements pour les réseaux télecoms, et des terminaux qui sont utlisés par plus de 170 pays." 
+     "Huawei est un leader de solutions dans les domaines des TIC. Innovant en permanence pour répondre aux besoins des clients, Huawei fournit des équipements pour les réseaux télecoms, et des terminaux qui sont utlisés par plus de 170 pays."
    ),
    array(
       "Nokia",
