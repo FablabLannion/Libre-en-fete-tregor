@@ -122,6 +122,14 @@ $data_partenaires = array (
       "http://www.lycee-ledantec.ac-rennes.fr/",
       "Lycée public de Lannion, Félix le Dantec s'implique depuis plusieurs années dans le logiciel libre et depuis 3 ans organise chaque année une 'InstallParty & Initiation à GNU/Linux'.Nombre d'élèves (de STI et SSI) et étudiants (BTS/Licences Pro) ont été formé à l'usage et au développement sur le logiciel libre et l'openhardware."
    ),
+    array(
+      "Orange Solidarité",
+      "",
+      "http://orangesolidarite.com/fr/accueil",
+      "
+
+Le projet Orange solidarité numérique porté par la Fondation Orange vise à réduire la fracture numérique avec pour ambition d'accompagner les personnes exclues du monde numérique vers plus d'autonomie dans l'utilisation des ces outils de communication et comprendre ce qu'ils peuvent apporter dans la vie de tous les jours."
+   ),
    array(
       "OSM France",
       "img/OSM-FR-logo-web-avec-texte.png",
@@ -286,10 +294,11 @@ $data_programme = array (
         <li>PAO <a hef=\"http://www.scribus.net/\">Scribus</a> et cartes sophistiquées par l'association <a href=\"https://sites.google.com/site/rospered/\">Ro'spered</a></li>
         <li>Eoliennes auto-construites <a href=\"http://www.tripalium.org/eolienne-piggott\">Piggott</a>,</li>
         <li>Mon ordinateur en Breton par <a href=\"http://drouizig.org/index.php/fr/\">An Drouizig</a></li>
-        <li>Le numérique pour l'apprentissage et l'aide aux personens avec autisme <a href=\"http://orangesolidarite.com/fr/accueil\">Orange Solidarité</a></li>
+        <li> Le numérique pour l'apprentissage pour les enfants et l'aide aux personnes par <a href=\"http://orangesolidarite.com/fr/accueil\">Orange Solidarité</a></li>
       </ul> 
      <p><strong>Parcours</strong></p>
-     <br>Je prépare ma carte 3D
+     <br>Je prépare ma carte pour une impression 3D
+     <br>
       <a href=\"mailto:eric@libre-en-fete-tregor.fr\">Contact: Eric</a>"
    ),
    array(
