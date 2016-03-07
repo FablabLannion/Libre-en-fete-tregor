@@ -297,7 +297,9 @@ $data_programme = array (
         <li> Le numérique pour l'apprentissage pour les enfants et l'aide aux personnes par <a href=\"http://orangesolidarite.com/fr/accueil\">Orange Solidarité</a></li>
       </ul> 
      <p><strong>Parcours</strong></p>
-     <br>Je prépare ma carte pour une impression 3D
+     <ul>
+       <li>Je prépare ma carte pour une impression 3D</li>
+     </ul>
      <br>
       <a href=\"mailto:eric@libre-en-fete-tregor.fr\">Contact: Eric</a>"
    ),
