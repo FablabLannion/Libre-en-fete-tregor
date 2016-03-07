@@ -272,12 +272,24 @@ $data_programme = array (
       "Espace Citoyen",
       "img/espace-citoyen.jpg",
       "",
-      "<ul>
-      <li>Cartographie participative avec <a href=\"https://openstreetmap.fr/\">OpenStreetMap</a>,</li>
-      <li>Eoliennes auto-construites <a href=\"http://www.tripalium.org/eolienne-piggott\">Piggott</a>,</li>
-      <li>Apprentissage populaire par PATG</li><li>PAO <a hef=\"http://www.scribus.net/\">Scribus</a> par l'association Ro'spered</li>
-      <li>Mon ordinateur en Breton par <a href=\"http://drouizig.org/index.php/fr/\">An Drouizig</a></li>
-      
+      "<strong>Animation</strong>
+      <ul>
+        <li>13h - 14h: Traduction : je renseigne la carte OSM en breton</li>
+        <li>14h - 15h: Carto-partie sur thématique accessibilité (je vais sur le terrain pour cartographier)</li>
+        <li>15h - 16h: Ma carte: je crée et imprime ma carte personnalisée avec umap</li>
+        <li>16h - 17h: Speed-note session : pendant 5', je cartographie mon territoire</li>
+      </ul>
+      <p><strong>Démonstrations</strong></p>
+      <ul>
+        <li>Les données libres de <a href=\"http://www.ville-lannion.fr/\"> Lannion</a>, <a href=\"http://www.lannion-tregor.com/\"> LTC/a> et du <a href=\"http://cotesdarmor.fr/\">Conseil Général des Côtes d'Armor</a></li>
+        <li>Utilisation des outils de Systèmes d'Information Géographique libres par la ville de Lannion et LTC (OSM, QGIS, Leaflet...)
+        <li>PAO <a hef=\"http://www.scribus.net/\">Scribus</a> et cartes sophistiquées par l'association <a href=\"https://sites.google.com/site/rospered/\">Ro'spered</a></li>
+        <li>Eoliennes auto-construites <a href=\"http://www.tripalium.org/eolienne-piggott\">Piggott</a>,</li>
+        <li>Mon ordinateur en Breton par <a href=\"http://drouizig.org/index.php/fr/\">An Drouizig</a></li>
+        <li>Le numérique pour l'apprentissage et l'aide aux personens avec autisme <a href=\"http://orangesolidarite.com/fr/accueil\">Orange Solidarité</a></li>
+      </ul> 
+     <p><strong>Parcours</strong></p>
+     <br>Je prépare ma carte 3D
       <a href=\"mailto:eric@libre-en-fete-tregor.fr\">Contact: Eric</a>"
    ),
    array(
@@ -341,7 +353,7 @@ $data_sponsors = array (
       "Huawei",
       "img/logo-Huawei.jpeg",
       "http://www.huawei.com/fr/",
-      ""
+     "Huawei est un leader de solutions dans les domaines des TIC. Innovant en permanence pour répondre aux besoins des clients, Huawei fournit des équipements pour les réseaux télecoms, et des terminaux qui sont utlisés par plus de 170 pays." 
    ),
    array(
       "Nokia",
