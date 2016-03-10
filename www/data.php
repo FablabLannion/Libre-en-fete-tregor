@@ -334,7 +334,7 @@ $data_programme = array (
         <ul>
           <li>Venez avec votre ordinateur portable ou fixe et nous vous installerons un système d'exploitation <a href=\"https://fr.wikipedia.org/wiki/Linux\">Linux</a> ;</li>
           <li>Donnez une deuxième jeunesse à un ordinateur vieillissant ou découvrez de nouvelles possibilités votre machine plus récente ;</li> 
-          <li>Découvrez la force et la flexibilité d'un système d'exploitation libre et léger ; </li>
+          <li>Découvrez la force et la flexibilité d'un système d'exploitation libre, léger et gratuit ; </li>
           <li>Plusieurs choix d'installations possibles : Linux seul, cohabitation avec Windows, machine virtuelle.</li> 
           <li>Plusieurs \"parfums\" de Linux possibles : <a href=\"https://www.ubuntu-fr.org/\">Ubuntu</a>, <a href=\"http://www.fedora-fr.org/\">Fedora</a>,  <a href=\"https://www.debian.org/\">Débian</a>, ...</li> 
           <li>Pas besoin d'être un expert, Linux est simple à prendre en main et nous serons là pour vous aider.</li> 
