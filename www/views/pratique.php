@@ -63,7 +63,7 @@
                 <div class="col-lg-5 col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">Horaires/h2>
+                    <h2 class="section-heading">Horaires</h2>
                     <p  class="lead">
                     Samedi 26 Mars 2016 de 10h à 18h <br/>
                     Entrée libre et gratuite <br/>
