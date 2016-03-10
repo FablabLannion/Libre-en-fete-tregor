@@ -333,7 +333,7 @@ $data_programme = array (
         <li>Initiation & installation Linux :
         <ul>
           <li>Venez avec votre ordinateur portable ou fixe et nous vous installerons un système d'exploitation <a href=\"https://fr.wikipedia.org/wiki/Linux\">Linux</a> ;</li>
-          <li>Donnez une deuxième jeunesse à un ordinateur vieillissant ou découvrez de nouvelles possibilitée votre machine plus récente ;</li> 
+          <li>Donnez une deuxième jeunesse à un ordinateur vieillissant ou découvrez de nouvelles possibilités votre machine plus récente ;</li> 
           <li>Découvrez la force et la flexibilité d'un système d'exploitation libre et léger ; </li>
           <li>Plusieurs choix d'installations possible : Linux seul, cohabitation avec Windows, machine virtuelle.</li> 
           <li>Plusieurs \"parfums\" de Linux possibles : <a href=\"https://www.ubuntu-fr.org/\">Ubuntu</a>, <a href=\"http://www.fedora-fr.org/\">Fedora</a>,  <a href=\"https://www.debian.org/\">Débian</a>, ...</li> 
@@ -350,7 +350,7 @@ $data_programme = array (
           <li>Les réalisations seront mis à disposition de tout le monde pour qu'elles puissent perdurer ;</li> 
           <li>Plus de détails sur le site du <a href=\"http://hackathon.management.enssat.fr/\">Hackathon</a>.</li> 
         </ul></li>
-        <li><href=\"http://www.lycee-ledantec.ac-rennes.fr/adalovelace/\">Challenge Ada Lovelace</a>
+        <li><href=\"http://www.lycee-ledantec.ac-rennes.fr/adalovelace/\">Challenge Ada Lovelace</a> :
           <ul>
             <li>Un concours par équipes pour les lycéennes afin de leur faire découvrir et démystifier l'informatique et la programmation.</li>
             <li>L'objectif est de développer des micro-services à partir d'une plateforme de développement web sur le thème : \"Améliorer le quotidien du Lycéen\";</li>
@@ -360,7 +360,7 @@ $data_programme = array (
             <li>Plus de détails sur le site du <href=\"http://www.lycee-ledantec.ac-rennes.fr/adalovelace/\">Challenge Ada Lovelace</a>.</li> 
           </ul>
         </li>
-        <li>Maquette avec système embarqué (RPI - MSP430 etc.),</li> 
+        <li>Maquette avec système embarqué (RPI - MSP430 etc.).</li> 
       </ul>
       <a href=\"mailto:jonathan@libre-en-fete-tregor.fr\">Contact: Jonathan</a> ,
       <a href=\"mailto:christian@libre-en-fete-tregor.fr\">Christian</a>"
