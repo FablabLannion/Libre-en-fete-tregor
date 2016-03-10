@@ -352,10 +352,10 @@ $data_programme = array (
         </ul></li>
         <li><a href=\"http://www.lycee-ledantec.ac-rennes.fr/adalovelace/\">Challenge Ada Lovelace</a> :
           <ul>
-            <li>Un concours par équipes pour les lycéennes afin de leur faire découvrir et démystifier l'informatique et la programmation.</li>
-            <li>L'objectif est de développer des micro-services à partir d'une plateforme de développement web sur le thème : \"Améliorer le quotidien du Lycéen\";</li>
+            <li>Un concours par équipes pour les lycéennes afin de leur faire découvrir et démystifier l'informatique et la programmation ;</li>
+            <li>L'objectif est de développer des micro-services à partir d'une plateforme de développement web sur le thème : \"Améliorer le quotidien du Lycéen\" ;</li>
             <li>Le concours à commencé le 1 février 2016 ;</li> 
-            <li>Les équipes ont été coachées par des étudiantes ingénieurs et seront jugées par des programmeuses professionnelles</li>
+            <li>Les équipes ont été coachées par des étudiantes ingénieurs et seront jugées par des programmeuses professionnelles ;</li>
             <li>Présentation des réalisations et remise des prix lors de la manifestation ; </li>
             <li>Plus de détails sur le site du <a href=\"http://www.lycee-ledantec.ac-rennes.fr/adalovelace/\">Challenge Ada Lovelace</a>.</li> 
           </ul>
