@@ -328,7 +328,42 @@ $data_programme = array (
       "Espace Geek",
       "img/espace-geek.jpg",
       "",
-      "<ul><li>Initiation & Install Party,</li> <li><a href=\"http://hackathon.management.enssat.fr/\">Hackathon</a></li><li>Concours Ada Lovelace</li><li>Atelier <a href=\"http://www.latex-project.org/\">LaTex</a></li><li>Maquette avec système embarqué (RPI - MSP430 etc.),</li> <li><a href=\"http://www.fr.linuxfromscratch.org/\">Linux From scratch (LFS)</a></li></ul><a href=\"mailto:jonathan@libre-en-fete-tregor.fr\">Contact: Jonathan</a> , <a href=\"mailto:christian@libre-en-fete-tregor.fr\">Christian</a>"
+      "
+      <ul>
+        <li>Initiation & installation Linux :
+        <ul>
+          <li>Venez avec votre ordinateur portable ou fixe et nous vous installerons un système d'exploitation <a href=\"https://fr.wikipedia.org/wiki/Linux\">Linux</a> ;</li>
+          <li>Donnez une deuxième jeunesse à un ordinateur vieillissant ou découvrez de nouvelles possibilitée votre machine plus récente ;</li> 
+          <li>Découvrez la force et la flexibilité d'un système d'exploitation libre et léger ; </li>
+          <li>Plusieurs choix d'installations possible : Linux seul, cohabitation avec Windows, machine virtuelle.</li> 
+          <li>Plusieurs \"parfums\" de Linux possibles : <a href=\"https://www.ubuntu-fr.org/\">Ubuntu</a>, <a href=\"http://www.fedora-fr.org/\">Fedora</a>,  <a href=\"https://www.debian.org/\">Débian</a>, ...</li> 
+          <li>Pas besoin d'être un expert, Linux est simple à prendre en main et nous serons là pour vous aider.</li> 
+          <li>Pas besoin d'inscription, nous serons disponibles pendant toute la manifestation.</li> 
+        </ul></li>
+        <li><a href=\"http://hackathon.management.enssat.fr/\">Hackathon</a> : 
+        <ul>
+          <li>Un concours de programmation seul ou par équipe ;</li>
+          <li>L'objectif est de proposer une réalisation originale, pendant le temps de l'événement, sur un thème imposé qui sera dévoilé la veille ;</li>
+          <li>Inscription préalable obligatoire ;</li> 
+          <li>De nombreux lots à gagner ; </li>
+          <li>Les personnes de tous les niveaux en programmation ont une chance : le Hackathon c'est aussi trouver un bon concept ;</li> 
+          <li>Les réalisations seront mis à disposition de tout le monde pour qu'elles puissent perdurer ;</li> 
+          <li>Plus de détails sur le site du <a href=\"http://hackathon.management.enssat.fr/\">Hackathon</a>.</li> 
+        </ul></li>
+        <li><href=\"http://www.lycee-ledantec.ac-rennes.fr/adalovelace/\">Challenge Ada Lovelace</a>
+          <ul>
+            <li>Un concours par équipes pour les lycéennes afin de leur faire découvrir et démystifier l'informatique et la programmation.</li>
+            <li>L'objectif est de développer des micro-services à partir d'une plateforme de développement web sur le thème : \"Améliorer le quotidien du Lycéen\";</li>
+            <li>Le concours à commencé le 1 février 2016 ;</li> 
+            <li>Les équipes ont été coachées par des étudiantes ingénieurs et seront jugées par des programmeuses professionnelles</li>
+            <li>Présentation des réalisations et remise des prix lors de la manifestation ; </li>
+            <li>Plus de détails sur le site du <href=\"http://www.lycee-ledantec.ac-rennes.fr/adalovelace/\">Challenge Ada Lovelace</a>.</li> 
+          </ul>
+        </li>
+        <li>Maquette avec système embarqué (RPI - MSP430 etc.),</li> 
+      </ul>
+      <a href=\"mailto:jonathan@libre-en-fete-tregor.fr\">Contact: Jonathan</a> ,
+      <a href=\"mailto:christian@libre-en-fete-tregor.fr\">Christian</a>"
    ),
    array(
       "Espace Jeux",
