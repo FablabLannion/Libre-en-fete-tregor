@@ -307,7 +307,7 @@ $data_programme = array (
       "Espace Enfants",
       "img/espace-enfants.jpg",
       "",
-      "<ul><li>Initiation à la programmation avec <a href=\"https://scratch.mit.edu/\">Scratch</a>,</li> <li>Ateliers électronique junior</li><li>Initiation à la soudure</li></ul><a href=\"mailto:leny@libre-en-fete-tregor.fr\">Contact: Leny</a>"
+      "<ul><li>Initiation à la programmation avec <a href=\"https://scratch.mit.edu/\">Scratch</a>,</li> <li>Ateliers électronique junior</li><li>Initiation à la soudure</li><li>les secrets du numérique avec la Cité des télécoms</li></ul><a href=\"mailto:leny@libre-en-fete-tregor.fr\">Contact: Leny</a>"
    ),
    array(
       "Espace Fablab",
