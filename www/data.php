@@ -205,7 +205,7 @@ $data_programme = array (
   <tr>
     <td>11H00</td>
     <td>Mon ordinateur en Breton, option logiciels libres/Un urzhiataer e brezhoneg gant meziantoù frank</td>
-    <td>Gwenn @Tornoz(An Drouizig)</td>
+    <td>G.Meynier (An Drouizig)</td>
   </tr>
     <tr>
     <td>11H30</td>
@@ -225,7 +225,7 @@ $data_programme = array (
   <tr>
     <td>13H00</td>
     <td>Patrimoine humain numérique</td>
-    <td>Yvon Rastetter</td>
+    <td>Y.Rastetter</td>
   </tr>
   <tr>
     <td>13H30</td>
@@ -260,7 +260,7 @@ $data_programme = array (
   <tr>
     <td>16H30</td>
     <td>Libre penseur – Libre maker</td>
-    <td> C.Wolski-Duval (Nokia)</td>
+    <td>C.Wolski-Duval (Nokia)</td>
   </tr>
   <tr>
     <td>17H00</td>
