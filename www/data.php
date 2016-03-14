@@ -330,14 +330,14 @@ $data_programme = array (
       "",
       "
       <ul>
-        <li>Initiation & installation Linux :
+        <li>Initiation & installation GNU/Linux :
         <ul>
-          <li>Venez avec votre ordinateur portable ou fixe et nous vous installerons un système d'exploitation <a href=\"https://fr.wikipedia.org/wiki/Linux\">Linux</a> ;</li>
+          <li>Venez avec votre ordinateur portable ou fixe et nous vous installerons un système d'exploitation <a href=\"https://fr.wikipedia.org/wiki/Linux\">GNU/Linux</a> ;</li>
           <li>Donnez une deuxième jeunesse à un ordinateur vieillissant ou découvrez de nouvelles possibilités votre machine plus récente ;</li> 
           <li>Découvrez la force et la flexibilité d'un système d'exploitation libre, léger et gratuit ; </li>
-          <li>Plusieurs choix d'installations possibles : Linux seul, cohabitation avec Windows, machine virtuelle.</li> 
-          <li>Plusieurs \"parfums\" de Linux possibles : <a href=\"https://www.ubuntu-fr.org/\">Ubuntu</a>, <a href=\"http://www.fedora-fr.org/\">Fedora</a>,  <a href=\"https://www.debian.org/\">Débian</a>, ...</li> 
-          <li>Pas besoin d'être un expert, Linux est simple à prendre en main et nous serons là pour vous aider.</li> 
+          <li>Plusieurs choix d'installations possibles : GNU/Linux seul, cohabitation avec Windows, machine virtuelle.</li> 
+          <li>Plusieurs \"parfums\" de GNU/Linux possibles : <a href=\"https://www.ubuntu-fr.org/\">Ubuntu</a>, <a href=\"http://www.fedora-fr.org/\">Fedora</a>,  <a href=\"https://www.debian.org/\">Débian</a>, ...</li> 
+          <li>Pas besoin d'être un expert, GNU/Linux est simple à prendre en main et nous serons là pour vous aider.</li> 
           <li>Pas besoin d'inscription, nous serons disponibles pendant toute la manifestation.</li> 
         </ul></li>
         <li><a href=\"http://hackathon.management.enssat.fr/\">Hackathon</a> : 
@@ -380,7 +380,7 @@ $data_programme = array (
       <li><a href=\"http://www.linuxstopmotion.org/\">Stop motion</a>,</li>
       <li>Création musicale</li>
       <li>Initiation à l'nformatique PATG</li>
-      <li>Initiation à Linux par Infothema et Titux.org</li>
+      <li>Initiation à GNU/Linux par Infothema et Titux.org</li>
       <li>m-education: les exOOOs d'Alecoor</li></ul>
      <br><a href=\"mailto:morgan@libre-en-fete-tregor.fr\">Contact: Morgan</a>"
    ),
@@ -412,7 +412,7 @@ $data_sponsors = array (
       "RedHat",
       "img/Red_hat_logo.png",
       "http://www.redhat.com/fr",
-      "Red Hat est le premier fournisseur mondial de solutions logicielles open source d'entreprise, avec une approche communautaire pour fournir des solutions Linux, Cloud, Middleware, Stockage et Virtualisation fiables, certifiées et performantes.
+      "Red Hat est le premier fournisseur mondial de solutions logicielles open source d'entreprise, avec une approche communautaire pour fournir des solutions GNU/Linux, Cloud, Middleware, Stockage et Virtualisation fiables, certifiées et performantes.
       <br>Red Hat propose également des services de formation et de consulting reconnus.
       <br>En tant que vecteur de mise en relation au sein d’un réseau mondial d'entreprises, de partenaires et de communautés open source, Red Hat contribue à créer des technologies innovantes et pertinentes qui préparent les client à faire face à l'avenir de l'informatique.
       <br>Pour en savoir plus: <a href=\"http://www.redhat.com\">http://www.redhat.com</a>"
