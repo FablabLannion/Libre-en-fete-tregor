@@ -25,6 +25,12 @@ $data_partenaires = array (
       La technopole Anticipa est à l’écoute de tous et propose un accompagnement sur mesure à tous les projets d’entreprise.</p>"
    ),
    array(
+      "April",
+      "img/logo-april.png",
+      "http://www.april.org",
+      "Pionnière du logiciel libre en France, l'April est depuis 1996 un acteur majeur de la démocratisation et de la diffusion du Logiciel Libre et des standards ouverts auprès du grand public, des professionnels et des institutions dans l'espace francophone. Elle veille aussi à sensibiliser l'opinion sur les dangers d'une appropriation exclusive de l'information et du savoir par des intérêts privés."
+   ),
+   array(
       "Astrotregor",
       "img/LOGOCLUB2.JPG",
       "http://www.astrosurf.com/astro-tregor/",
