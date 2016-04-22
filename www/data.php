@@ -225,7 +225,7 @@ $data_programme = array (
   </tr>
   <tr>
     <td>12H30</td>
-    <td>Le logiciel libre, un atout pour le développement en Afrique</td>
+    <td><a href=\"http://fr.slideshare.net/florinnx/conference-c3l-ites\">Le logiciel libre, un atout pour le développement en Afrique</a></td>
     <td>F.Youzan</td>
   </tr>
   <tr>
@@ -250,17 +250,17 @@ $data_programme = array (
   </tr>
   <tr>
     <td>15H00</td>
-    <td>Dégooglisons Internet, petit retour sur l'initiative Framasoft</td>
+    <td><a href=\"./pres/DegooglisonsInternet-Lannion-LibreEnFete20160326.odp\">Dégooglisons Internet, petit retour sur l'initiative Framasoft</a></td>
     <td>B.Bailleux</td>
   </tr>
   <tr>
     <td>15H30</td>
-    <td>Kinto, une base de données pour le web made in Roazhon</td>
+    <td><a href=\"http://kinto.github.io/kinto-slides/kinto-fr/\">Kinto, une base de données pour le web made in Roazhon</a></td>
     <td>R.Hubscher (Mozilla)</td>
   </tr>
     <tr>
     <td>16H00</td>
-    <td>Slot Sponsor II</td>
+    <td>Huawei et le logiciel libre</td>
     <td>Sponsor</td>
   </tr>
   <tr>
