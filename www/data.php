@@ -437,5 +437,6 @@ $data_sponsors = array (
   <a href=\"https://oss.oracle.com/\"><img src=\"img/663px-Oracle_logo.svg.png\" height=\"40\" alt=\"Oracle\"></a></li>
   ")
  );
+Flight::set('data_sponsors', $data_sponsors);
 
 ?>
