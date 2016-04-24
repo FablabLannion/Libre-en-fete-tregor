@@ -210,12 +210,12 @@ $data_programme = array (
   </tr>
   <tr>
     <td>11H00</td>
-    <td>Mon ordinateur en Breton, option logiciels libres/Un urzhiataer e brezhoneg gant meziantoù frank</td>
+    <td><a href=\"./pres/kinnigadenn_gouel_ar_frank.pdf\">Mon ordinateur en Breton, option logiciels libres/Un urzhiataer e brezhoneg gant meziantoù frank</a></td>
     <td>G.Meynier (An Drouizig)</td>
   </tr>
     <tr>
     <td>11H30</td>
-    <td>Open Source en Entreprise</td>
+    <td><a href=\"./pres/160326-libre_en_fete_en_tregor-entreprendre_en_open_source.pdf\">Open Source en Entreprise</a></td>
     <td>S.Vitard (Krystal)</td>
   </tr>
   <tr>
@@ -240,7 +240,7 @@ $data_programme = array (
   </tr>
   <tr>
     <td>14H00</td>
-    <td>Eoliene auto-construite Piggott</td>
+    <td><a href=\"./pres/Eolienne_auto_construite_LibreEnFete_Mars_2016_V2.pdf\">Eoliene auto-construite Piggott</a></td>
     <td>L.Aubertin (Tripalium)</td>
   </tr>
   <tr>
@@ -437,6 +437,5 @@ $data_sponsors = array (
   <a href=\"https://oss.oracle.com/\"><img src=\"img/663px-Oracle_logo.svg.png\" height=\"40\" alt=\"Oracle\"></a></li>
   ")
  );
-Flight::set('data_sponsors', $data_sponsors);
 
 ?>
