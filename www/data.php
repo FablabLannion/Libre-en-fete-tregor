@@ -205,7 +205,7 @@ $data_programme = array (
   </tr>
   <tr>
     <td>10H30</td>
-    <td>Petite histoire du logiciel libre</td>
+    <td><a href=\"http://libre-en-fete-tregor.fr/pres/morgan/#/\">Petite histoire du logiciel libre</a></td>
     <td>M.Richomme (Fablab Lannion)</td>
   </tr>
   <tr>
