@@ -220,8 +220,8 @@ $data_programme = array (
   </tr>
   <tr>
     <td>12H00</td>
-    <td>OpenStreetMap</td>
-    <td><a href=\"./pres/OpenStreetMap.pdf\">E.Debeau (OSM France)</a></td>
+    <td><a href=\"./pres/OpenStreetMap.pdf\">OpenStreetMap</a></td>
+    <td>E.Debeau (OSM France)</td>
   </tr>
   <tr>
     <td>12H30</td>
@@ -235,8 +235,8 @@ $data_programme = array (
   </tr>
   <tr>
     <td>13H30</td>
-    <td>La tête dans les étoiles avec Stellarium</td>
-    <td><a href=\"./pres/Stellariumdiaporama.ppt\">M.Maligot (Astrotregor)</a></td>
+    <td><a href=\"./pres/Stellariumdiaporama.ppt\">La tête dans les étoiles avec Stellarium</a></td>
+    <td>M.Maligot (Astrotregor)</td>
   </tr>
   <tr>
     <td>14H00</td>
