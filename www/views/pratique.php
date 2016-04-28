@@ -43,6 +43,23 @@
                     <li> <a href="img/dossier_presse.pdf">Dossier de presse</a> </li>
                     <li> <a href="img/Affiche2.png">Affiche</a> </li>
                     </ul>
+					<ul> Revue de presse
+						 <li><a href="http://jactiv.ouest-france.fr/actualites/multimedia/logiciel-libre-loin-detre-game-over-61181">Le logiciel libre loin d'être game over, Ouest-France, 28/03/2016</a></li>
+						 <li><a href="http://www.letelegramme.fr/cotes-darmor/lannion/libre-en-fete-quand-le-numerique-devient-une-sortie-familiale-28-03-2016-11009499.php">Libre en fête. Quand le numérique devient une sortie familiale, Le Télégramme, 28/03/2016</a></li>
+						 <li><a href="http://www.letregor.fr/2016/03/28/jean-francois-jestin-remporte-le-concours-openstreetmap/">Jean-François Jestin remporte le concours Openstreetmap<br>Gros succès pour le festival Libre en fête, samedi à Lannion. Le Trégor, 28/03/2016</a></li>
+						 <li><a href="http://www.ouest-france.fr/bretagne/lannion-22300/lannion-libre-en-fete-ce-nest-pas-que-pour-les-geeks-4123054">A Lannion, Libre en fête, ce n'est pas que pour les geeks, Ouest-France, 26/03/2016 </a></li>
+						 <li><a href="http://www.ouest-france.fr/bretagne/lannion-22300/lannion-il-recense-laccessibilite-des-magasins-aux-handicapes-4123084">Lannion. Il recense l’accessibilité des magasins aux handicapés, Ouest France, 26/03/2016</a></li>
+						 <li><a href="http://www.letelegramme.fr/cotes-darmor/lannion/libre-en-fete-une-journee-pour-s-immerger-dans-l-univers-numerique-23-03-2016-11003388.php">  Libre en fête. Une journée pour s'immerger dans l'univers numérique, Trégor, 23/03/2016</a></li>
+						 <li><a href="http://www.ouest-france.fr/bretagne/lannion-22300/le-logiciel-libre-en-fete-aux-ursulines-4102760">Le logiciel libre en fête aux Ursulines, Ouest-France, 18/03/2016</a></li>
+						 <li><a href="http://www.ouest-france.fr/bretagne/lannion-22300/des-particuliers-renseignent-la-carte-openstreetmap-de-lannion-4086611">Des particuliers renseignent la carte openstreetmap de Lannion , Ouest-France, 16/03/2016</a></li>
+						 <li><a href="http://linuxfr.org/news/libre-en-fete-en-tregor-26-mars-2016">Libre en fête en Trégor, LinuxFr</a></li>
+						 <li><a href="http://datarmor.cotesdarmor.fr">Edito datarmor, 03/2016</a></li>
+						 <li><a href="http://cotesdarmor.fr/fileadmin/user_upload/magazines/2016/Mag150_BD.pdf">Le logiciel libre en fête Lannion (Brève page 8), Cotes d'Armor Magazine, 03/2016</a></li>
+						 <li><a href="https://www.francebleu.fr/emissions/keleier-noz/breizh-izel/keleier-noz-du-vendredi-25-mars-2016">Keleier Noz du vendredi 25 mars 2016, France Bleu, 25/03/2016</a></li>
+						 <li><a href="http://tv-tregor.com/?p=2496">Vive le logiciel libre !, TV Trégor, 25/4/2016</a></li>
+						 <li><a href="http://armortv.fr/_v2/index.php/lannion/item/jt-du-25-03-2016?highlight=WyJsaWJyZSIsImVuIiwiZmV0ZSIsImxpYnJlIGVuIiwibGlicmUgZW4gZlx1MDBlYXRlIiwiZW4gZlx1MDBlYnRlIl0=">Journal, Armor TV, 25/03/2016</a></li>
+						 <li><a href="http://www.dailymotion.com/video/x40fpm0_libre-en-fete-en-tregor-2016-timelapse-du-montage-des-stands_news">tiume lapse montage salle Libre ne fête, 25/03/2016</a></li>
+					</ul>                    
                     </p>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
