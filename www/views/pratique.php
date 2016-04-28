@@ -58,7 +58,7 @@
 						 <li><a href="https://www.francebleu.fr/emissions/keleier-noz/breizh-izel/keleier-noz-du-vendredi-25-mars-2016">Keleier Noz du vendredi 25 mars 2016, France Bleu, 25/03/2016</a></li>
 						 <li><a href="http://tv-tregor.com/?p=2496">Vive le logiciel libre !, TV Trégor, 25/4/2016</a></li>
 						 <li><a href="http://armortv.fr/_v2/index.php/lannion/item/jt-du-25-03-2016?highlight=WyJsaWJyZSIsImVuIiwiZmV0ZSIsImxpYnJlIGVuIiwibGlicmUgZW4gZlx1MDBlYXRlIiwiZW4gZlx1MDBlYnRlIl0=">Journal, Armor TV, 25/03/2016</a></li>
-						 <li><a href="http://www.dailymotion.com/video/x40fpm0_libre-en-fete-en-tregor-2016-timelapse-du-montage-des-stands_news">tiume lapse montage salle Libre ne fête, 25/03/2016</a></li>
+						 <li><a href="http://www.dailymotion.com/video/x40fpm0_libre-en-fete-en-tregor-2016-timelapse-du-montage-des-stands_news">Time lapse montage salle Libre ne fête, 25/03/2016</a></li>
 					</ul>                    
                     </p>
                 </div>
