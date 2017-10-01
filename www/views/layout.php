@@ -55,7 +55,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand topnav" href="#">Samedi 26 Mars 2016</a>
+                <a class="navbar-brand topnav" href="#">Dimanche 25 Mars 2018</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -63,18 +63,22 @@
                     <li>
                         <a href="/">Accueil</a>
                     </li>
-                    <li>
+                    <!-- <li>
                         <a href="/pratique">Pratique</a>
                     </li>
                     <li>
                         <a href="/programme">Programme</a>
-                    </li>
+                    </li> -->
                     <li>
                         <a href="/partenaires">Partenaires</a>
                     </li>
                     <li>
                         <a href="/sponsors">Sponsors</a>
                     </li>
+                    <li>
+                        <a href="/2016">2016</a>
+                    </li>
+
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -98,13 +102,13 @@
                             <a href="/">Accueil</a>
                         </li>
                         <li class="footer-menu-divider">&sdot;</li>
-                        <li>
+                        <!-- <li>
                             <a href="/pratique">Pratique</a>
-                        </li>
+                        </li> -->
                         <li class="footer-menu-divider">&sdot;</li>
-                        <li>
+                        <!-- <li>
                             <a href="/programme">Programme</a>
-                        </li>
+                        </li> -->
                         <li class="footer-menu-divider">&sdot;</li>
                         <li>
                             <a href="/partenaires">Partenaires</a>
@@ -115,9 +119,9 @@
                             <a href="/sponsors">Sponsors</a>
                         </li>
                         <li class="footer-menu-divider">&sdot;</li>
-                        <li>
+                        <!-- <li>
                             <a href="/credits">Crédits</a>
-                        </li>
+                        </li> -->
                     </ul>
                 </div>
             </div>
