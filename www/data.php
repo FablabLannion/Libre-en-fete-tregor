@@ -66,7 +66,7 @@ $data_sponsors = array (
       "Devenir Sponsor",
       "img/sponsor-badges-800px.png",
       "",
-      "vous souhaitez associer votre entreprise à un événement grand public autour du numérique, des usages collaboratifs et du logiciel libre, contactez nous: <a href=\"mailto:libre-en-fete-tregor@framalistes.org\">libre-en-fete-tregor@framalistes.org</a> !"
+      "vous souhaitez associer votre entreprise à un événement grand public autour du numérique, des usages collaboratifs et du logiciel libre, contactez nous: <a href=\"mailto:libre-en-fete-tregor@framalistes.org\">libre-en-fete-tregor@framalistes.org</a> !<br>Téléchargez <a href=\"https://drive.google.com/open?id=0B2lmIjE7PgpLNnBDdVhPbVFCTURabHNYUUZfQUhDVVl2Nlow\">notre dossier sponsoring</a> pour plus d'informations."
    ),
    array(
       "Platinium",
