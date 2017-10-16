@@ -33,6 +33,12 @@ $data_partenaires = array (
         "http://asso.lanpower.free.fr/",
         "L'association LanPower de Rennes spécialisée sur les jeux video sous licences libres depuis 10 ans, participera au stand jeux libres tous publics et représentera le site <a href='http://jeuxlibres.net'>jeuxlibres.net</a>. Des jeux pour petits et grands ainsi que des jeux en réseau seront présentés."
    ),
+   array(
+        "Lannion Trégor Communauté",
+        "img/LOGO_LTC_GeneriqueFR.jpg",
+        "http://www.lannion-tregor.com/",
+        "La communauté d'agglomération est un établissement public de coopération intercommunale (EPCI).<br>Elle rassemble depuis le 1er janvier 2017, 60 communes pour 118 000 habitants. Ces communes se sont unies sur le principe de solidarité, l'objectif étant de faire ensemble ce qu'une commune seule ne pourrait faire."
+   ),
     array(
       "Lycée le Dantec",
       "img/LeDANTEC.png",
