@@ -5,7 +5,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="intro-message">
-                        <h1>Libre en fête en Trégor revient....</h1>
+                        <h1>Libre en Fête en Trégor revient....</h1>
                         <h3>Dimanche 25 Mars 2018 - Salle des Ursulines - 10h-18h</h3>
                         <hr class="intro-divider">
                         <ul class="list-inline intro-social-buttons">
@@ -35,18 +35,18 @@
                     <div class="clearfix"></div>
                     <h2 class="section-heading">À propos</h2>
                     <p class="lead">
-                    Initiée et coordonnée par l'April, l'initiative Libre en Fête célebrera son 18ème anniversaire en 2018. Des événements de découverte des Logiciels Libres et du Libre en général sont proposés partout en France, dans une dynamique conviviale et festive.</p>
+                    Initiée et coordonnée par l'April, l'initiative Libre en Fête célébrera son 18ème anniversaire en 2018. Des événements de découverte des Logiciels Libres et du Libre en général sont proposés partout en France, dans une dynamique conviviale et festive.</p>
                     <p>
-                    Un ensemble d'associations trégoroises s'associent et proposent une série d'animations autour du logiciel libre le Dimance 25 Mars 2018 dans la salle des Ursulines de Lannion.
+                    Un ensemble d'associations Trégorroises s'associent et proposent une série d'animations autour du logiciel libre le Dimance 25 Mars 2018 dans la salle des Ursulines de Lannion.
                     </p>
                 </div>
 
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
                     <p>
-                    Il peut sembler étonnant d'associer l'adjectif libre au mot logiciel et pourtant le logiciel libre , par opposition au logiciel propriétaire est désormais partout. Il est sur votre portable, sans lui point d'Internet, il permet de redonner une seconde jeunesse à des ordinateurs, il propose des alternatives efficaces pour monter des films, créer des documents ou gérer des photos.
+                    Il peut sembler étonnant d'associer l'adjectif libre au mot logiciel et pourtant le logiciel libre, par opposition au logiciel propriétaire est désormais partout. Il est sur votre portable, sans lui point d'Internet, il permet de redonner une seconde jeunesse à des ordinateurs, il propose des alternatives efficaces pour monter des films, créer des documents ou gérer des photos.
                     </p>
                     <p>
-                    Libre par nature, il ne bénéficie pas de campagnes marketing et demeure méconnu. Le logiciel libre, porteur de valeurs d'entraide et de coopération, est un bien commun accessible à tous favorisant le partage des connaissances. Patrimoine immatériel façonnant le quotidien numérique de chacun.
+                    Libre par nature, il ne bénéficie pas de campagnes marketing et demeure méconnu. Le logiciel libre, porteur de valeurs d'entraide et de coopération, est un bien commun accessible à tous favorisant le partage des connaissances. Il représente ainsi un patrimoine immatériel façonnant le quotidien numérique de chacun.
                     A travers des animations gratuites, les Trégorrois pourront découvrir ou redécouvrir la richesse du logiciel libre.
                     </p>
                 </div>

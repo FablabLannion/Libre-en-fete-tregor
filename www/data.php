@@ -7,61 +7,61 @@ $data_partenaires = array (
       "Code d'Armor",
       "img/codedarmor.png",
       "http://www.codedarmor.fr/",
-      "Code d'Armor a pour but de construire une communauté de développeurs sur la région de Lannion. Nous organisons des évènements autour du monde du développement informatique.<br> Passionnés, Intéressés, Motivés, Interloqués, vous êtes tous les bienvenus !"
+      "Code d'Armor a pour but de construire une communauté de développeurs sur la région de Lannion. Nous organisons des évènements autour du monde du développement informatique.<br> Passionnés, intéressés, motivés, interloqués, vous êtes tous les bienvenus !"
    ),
    array(
       "Fablab Lannion",
       "img/fablab.jpg",
       "http://fablab-lannion.org",
-      "Atelier participatif ouvert, le fablab de Lannion accueille petits et grands. Un objet à réparer, une idée à transformer, un besoin de support dans un domaine technique, le fablab de Lannion vous ouvre ses portes. Venez découvrir les imprimantes 3D, les logiciels Libres, les mini ordinateurs et autres robots."
+      "Atelier participatif ouvert, le fablab de Lannion accueille petits et grands. Un objet à réparer, une idée à transformer, un besoin de support dans un domaine technique, le fablab de Lannion vous ouvre ses portes. Venez découvrir les imprimantes 3D, les Logiciels Libres, les mini ordinateurs et autres robots."
    ),
    array(
       "Infothema",
       "img/infothema.png",
       "http://www.infothema.fr/",
-      "L'association infothema a pour vocation la promotion des Logiciels Libres sur le département des Côtes d'Armor (Bretagne)"
+      "L'association Infothema a pour vocation la promotion des Logiciels Libres sur le département des Côtes d'Armor (Bretagne)."
    ),
     array(
       "Kristal",
       "img/kristal.png",
       "http://kristal.io/fr/",
-      "Lancée en février 2015, Kristal propose, avec son Framework Open Source Cobalt, un nouvel outil pour développer des applications mobiles, utilisant le Web afin de réduire les coûts tout en gardant des performances élevées. Cobalt, c'est aussi une association, les 'Cobaltians', qui a pour objet de faire connaître, promouvoir et améliorer le framework."
+      "Lancée en février 2015, Kristal propose, avec son framework Open Source Cobalt, un nouvel outil pour développer des applications mobiles, utilisant le Web afin de réduire les coûts tout en gardant des performances élevées. Cobalt, c'est aussi une association, les 'Cobaltians', qui a pour objet de faire connaître, promouvoir et améliorer le framework."
    ),
    array(
         "LanPower",
         "img/logo-lanpower.jpg",
         "http://asso.lanpower.free.fr/",
-        "L'association LanPower de Rennes spécialisée sur les jeux video sous licences libres depuis 10 ans, participera au stand jeux libres tous publics et représentera le site <a href='http://jeuxlibres.net'>jeuxlibres.net</a>. Des jeux pour petits et grands ainsi que des jeux en réseau seront présentés."
+        "L'association LanPower de Rennes spécialisée sur les jeux vidéo sous licences libres depuis 10 ans, participera au stand jeux libres tous publics et représentera le site <a href='http://jeuxlibres.net'>jeuxlibres.net</a>. Des jeux pour petits et grands ainsi que des jeux en réseau seront présentés."
    ),
    array(
         "Lannion Trégor Communauté",
         "img/LOGO_LTC_GeneriqueFR.jpg",
         "http://www.lannion-tregor.com/",
-        "La communauté d'agglomération est un établissement public de coopération intercommunale (EPCI).<br>Elle rassemble depuis le 1er janvier 2017, 60 communes pour 118 000 habitants. Ces communes se sont unies sur le principe de solidarité, l'objectif étant de faire ensemble ce qu'une commune seule ne pourrait faire."
+        "La communauté d'agglomération est un établissement public de coopération intercommunale (EPCI).<br>Elle rassemble, depuis le 1er janvier 2017, 60 communes pour 118 000 habitants. Ces communes se sont unies sur le principe de solidarité, l'objectif étant de faire ensemble ce qu'une commune seule ne pourrait faire."
    ),
     array(
       "Lycée le Dantec",
       "img/LeDANTEC.png",
       "http://www.lycee-ledantec.ac-rennes.fr/",
-      "Lycée public de Lannion, Félix le Dantec s'implique depuis plusieurs années dans le logiciel libre et depuis 3 ans organise chaque année une 'InstallParty & Initiation à GNU/Linux'.Nombre d'élèves (de STI et SSI) et étudiants (BTS/Licences Pro) ont été formé à l'usage et au développement sur le logiciel libre et l'openhardware."
+      "Lycée public de Lannion, Félix le Dantec s'implique depuis plusieurs années dans le Logiciel Libre et depuis 3 ans organise chaque année une 'InstallParty & Initiation à GNU/Linux'. Nombre d'élèves (de STI et SSI) et étudiants (BTS/Licences Pro) ont été formés à l'usage et au développement sur le Logiciel Libre et l'Open Hardware."
    ),
   array(
       "PATG",
       "img/patg.png",
       "https://sites.google.com/site/patglannion2010/",
-      "Promouvoir et Agir en Trégor Goélo (PATG) est une association axée sur l'aide aux particuliers et aux très petites entreprises du Trégor Goélo. PATG tente de réduire la fracture sociale et la fracture technique en visant la reprise des relations humaines et la réinsertion sociale. L'informatique est utilisée comme support parce que c'est un élément qui permet facilement les rapprochements humains, et apporte un complément de connaissances utile pour l'emploi et la vie courante"
+      "Promouvoir et Agir en Trégor Goélo (PATG) est une association axée sur l'aide aux particuliers et aux très petites entreprises du Trégor Goélo. PATG tente de réduire la fracture sociale et la fracture technique en visant la reprise des relations humaines et la réinsertion sociale. L'informatique est utilisée comme support parce que c'est un élément qui permet facilement les rapprochements humains, et apporte un complément de connaissances utile pour l'emploi et la vie courante."
    ),
 array(
       "Titux.org",
       "img/logo-700x700-Titux.org.png",
       "https://www.titux.org/asso/doku.php",
-      "L'association a pour but de favoriser et développer l'intérêt, la pratique et la connaissance des usages du numérique, la promotion des logiciels et systèmes d'exploitation libres, ainsi que la mutualisation de moyens informatiques. Nos actions sont sur la région lannionaise."
+      "L'association a pour but de favoriser et développer l'intérêt, la pratique et la connaissance des usages du numérique, la promotion des logiciels et systèmes d'exploitation libres, ainsi que la mutualisation de moyens informatiques. Nos actions sont sur la région lannionnaise."
    ),
     array(
       "Ville de Lannion",
       "img/Logo_mairie_Lannion.jpg",
       "http://www.ville-lannion.fr/",
-      "Lannion, deuxième ville du département et ville-centre de l’agglomération, est une ville jeune et attractive.<br>La ville, capitale des télécommunications, constitue un pôle d’excellence technologique avec un éco-système unique mêlant grands groupes et PME innovantes.<br>Des équipements de qualité, dignes d’une ville de 40 000 habitants, sont proposés et les activités culturelles et sportives ne manquent pas à Lannion !<br>La ville et ses quartiers bougent au rythme des saisons avec ses 350 associations, tous domaines confondus."
+      "Lannion, deuxième ville du département et ville-centre de l’agglomération, est une ville jeune et attractive.<br>La ville, capitale des télécommunications, constitue un pôle d’excellence technologique avec un écosystème unique mêlant grands groupes et PME innovantes.<br>Des équipements de qualité, dignes d’une ville de 40 000 habitants, sont proposés et les activités culturelles et sportives ne manquent pas à Lannion !<br>La ville et ses quartiers bougent au rythme des saisons avec ses 350 associations, tous domaines confondus."
    ),
 );
 
@@ -72,25 +72,25 @@ $data_sponsors = array (
       "Devenir Sponsor",
       "img/sponsor-badges-800px.png",
       "",
-      "vous souhaitez associer votre entreprise à un événement grand public autour du numérique, des usages collaboratifs et du logiciel libre, contactez nous: <a href=\"mailto:libre-en-fete-tregor@framalistes.org\">libre-en-fete-tregor@framalistes.org</a> !<br>Téléchargez <a href=\"https://drive.google.com/open?id=0B2lmIjE7PgpLNnBDdVhPbVFCTURabHNYUUZfQUhDVVl2Nlow\">notre dossier sponsoring</a> pour plus d'informations."
+      "Vous souhaitez associer votre entreprise à un événement grand public autour du numérique, des usages collaboratifs et du logiciel libre, contactez nous : <a href=\"mailto:libre-en-fete-tregor@framalistes.org\">libre-en-fete-tregor@framalistes.org</a> !<br>Téléchargez <a href=\"https://drive.google.com/open?id=0B2lmIjE7PgpLNnBDdVhPbVFCTURabHNYUUZfQUhDVVl2Nlow\">notre dossier sponsoring</a> pour plus d'information."
    ),
    array(
       "Platinium",
       "img/award-800px.png",
       "",
-      "<ul><li>Logo sur toutes les pages du site web,</li> <li>Logo sur tous les supports de com (flyers, affiches 120x176, A4, A3) en grand format,</li><li>Réseau d'affichage sur 30 panneaux 120x176 sur Lannion,</li> <li>slot pour 1 conférence, </li><li>Stand (pas de limitation d'espace dans la mesure du raisonable...) dans l'espace Pro,</li> <li>1 page dans la brochure d'information de la manifestation</li></ul>"
+      "<ul><li>Logo sur toutes les pages du site web</li> <li>Logo sur tous les supports de communication (flyers, affiches 120x176, A4, A3) en grand format</li><li>Réseau d'affichage sur 30 panneaux 120x176 sur Lannion</li> <li>Slot pour 1 conférence</li><li>Stand (pas de limitation d'espace dans la mesure du raisonnable...) dans l'espace Pro</li> <li>1 page dans la brochure d'information de la manifestation</li></ul>"
    ),
    array(
       "Granit rose",
       "img/penguins-like-ocal-800px.png",
       "",
-      "<ul><li>Logo sur la page Sponsors du site web,</li> <li>Logo sur les supports de com en petit format,</li> <li>Stand dans l'espace pro,</li> <li>1/2 page dans la brochure d'information de la manifestation</li></ul>"
+      "<ul><li>Logo sur la page Sponsors du site web</li> <li>Logo sur les supports de communication en petit format</li> <li>Stand dans l'espace Pro,</li> <li>1/2 page dans la brochure d'information de la manifestation</li></ul>"
    ),
    array(
       "Espace pro",
       "img/Professional-People-Silhouette-800px.png",
       "",
-      "<ul><li>Un stand d’une surface d’environ 9 m2. Equipement : cloisons et mobilier (1 table et 3 chaises), alimentation électrique (3 prises),connexion internet.Si besoins spécifiques, prévenir à l’inscription.,</li> <li>Repas du midi, un accès à un point café, </li><li>Une présence dans le guide du visiteur et sur la page internet de l’événement</li></ul>"
+      "<ul><li>Un stand d’une surface d’environ 9 m2. Equipement : cloisons et mobilier (1 table et 3 chaises), alimentation électrique (3 prises), connexion internet. Si besoins spécifiques, prévenir à l’inscription.</li> <li>Repas du midi, un accès à un point café </li><li>Une présence dans le guide du visiteur et sur la page internet de l’événement</li></ul>"
    )
  );
 Flight::set('data_sponsors', $data_sponsors);
@@ -189,7 +189,7 @@ $data_2016 = array (
      "Les Sponsors",
      "img/2016-4.JPG",
      "",
-     "Ils nous ont fait confiance!<br>
+     "Ils nous ont fait confiance !<br>
      Redhat, Huawei, Nokia, Nexcom, Lannion Trégor Communauté, Brest Tech+, Ville de Lannion"
   ),
  );
