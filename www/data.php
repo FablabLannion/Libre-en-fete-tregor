@@ -57,6 +57,12 @@ array(
       "https://www.titux.org/asso/doku.php",
       "L'association a pour but de favoriser et développer l'intérêt, la pratique et la connaissance des usages du numérique, la promotion des logiciels et systèmes d'exploitation libres, ainsi que la mutualisation de moyens informatiques. Nos actions sont sur la région lannionnaise."
    ),
+   array(
+     "Tripalium",
+     "img/tripalium.jpeg",
+     "http://www.tripalium.org/",
+     "Impulsée en 2007 par la volonté de développer les stages d’auto-construction, l’association Tripalium s’est transformée en un réseau d’acteur-rices. <br>Sans salarié ni subvention, sa vitalité repose sur la dynamique des stages : les anciens stagiaires sont invités à devenir formateurs, puis à organiser des stages...Tripalium échange également à l’international avec des organisations similaires."
+  ),
     array(
       "Ville de Lannion",
       "img/Logo_mairie_Lannion.jpg",
