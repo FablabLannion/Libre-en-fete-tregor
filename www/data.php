@@ -31,7 +31,7 @@ $data_partenaires = array (
         "LanPower",
         "img/logo-lanpower.jpg",
         "http://asso.lanpower.free.fr/",
-        "L'association LanPower de Rennes spécialisée sur les jeux vidéo sous licences libres depuis 10 ans, participera au stand jeux libres tous publics et représentera le site <a href='http://jeuxlibres.net'>jeuxlibres.net</a>. Des jeux pour petits et grands ainsi que des jeux en réseau seront présentés."
+        "L'association LanPower de Rennes spécialisée sur les jeux video sous licences libres depuis 10 ans, participera au stand jeux libres tous publics et représentera le site <a href='http://jeuxlibres.net'>jeuxlibres.net</a> ainsi que le site <a href='https://libregamesinitiatives.tuxfamily.org/index.php'>LibreGamesInitiatives</a>. Des jeux pour petits et grands ainsi que des jeux en réseau seront présentés, mais aussi de très vieux ordinateurs et des jeux retro."
    ),
    array(
         "Lannion Trégor Communauté",
