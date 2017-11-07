@@ -16,9 +16,9 @@ $data_partenaires = array (
       "BrestTech+",
       "img/BrestTechLannion.png",
       "http://frenchtech-brestplus.bzh/",
-      "Depuis juin 2015 et l’obtention du label French Tech, la <b>French Tech Brest+</b> a rejoint le cercle des 13 métropoles françaises labellisées, preuve de la vitalité de son écosystème numérique. L’initiative nationale French Tech vise à proposer des moyens et des perspectives aux startups, pour faire naître en local des champions et booster l’attractivité territoriale.<br/>
-      Sur les 4 villes de son territoire (Brest, Lannion, Morlaix, Quimper) et portée par les technopoles de l’ouest breton, la <b>French Tech Brest+</b> déroule ses actions spécifiques aux startups, autour des 5 axes identifiés : fédération de l’écosystème numérique, sensibilisation à l’entreprenariat, accélération des startups, internationalisation et digitalisation de l’économie.<br/>
-		En savoir plus : <a href='http://frenchtech-brestplus.bzh/'>http://frenchtech-brestplus.bzh/</a> <a href='https://twitter.com/FTBrestPlus'>@FTBrestPlus</a>"
+      "Depuis juin 2015 et l’obtention du label French Tech, la French Tech Brest+ a rejoint le cercle des 13 métropoles françaises labellisées, preuve de la vitalité de son écosystème numérique.<br>L’initiative nationale French Tech vise à proposer des moyens et des perspectives aux startups, pour faire naître en local des champions et booster l’attractivité territoriale.
+       <br><br>Sur les 4 villes de son territoire (Brest, Lannion, Morlaix, Quimper) et portée par les technopoles de l’ouest breton, la French Tech Brest+ déroule ses actions spécifiques aux startups, autour des 5 axes identifiés : fédération de l’écosystème numérique, sensibilisation à l’entreprenariat, accélération des startups, internationalisation et digitalisation de l’économie.
+       En savoir plus : <a href='http://frenchtech-brestplus.bzh/'>http://frenchtech-brestplus.bzh/</a> <a href='https://twitter.com/FTBrestPlus'>@FTBrestPlus</a>"
    ),
    array(
       "Code d'Armor",
