@@ -33,6 +33,11 @@ $data_partenaires = array (
       "Code d'Armor a pour but de construire une communauté de développeurs sur la région de Lannion. Nous organisons des évènements autour du monde du développement informatique.<br> Passionnés, intéressés, motivés, interloqués, vous êtes tous les bienvenus !"
    ),
    array(
+      "Ecocentre",
+      "img/ecocentre.png",
+      "http://www.ecocentre-tregor.fr/",
+      "L'ECOCENTRE est un lieu de rencontres, de fêtes, de partage et d'échange autour notamment de l'écologie (mais pas que !).<br>L'association propose tout au long de l'année des stages très divers à des prix accessibles dans le but de transmettre et partager des connaissances au plus grand nombre"
+   ),   array(
       "Fablab Lannion",
       "img/fablab.jpg",
       "http://fablab-lannion.org",
@@ -68,6 +73,12 @@ $data_partenaires = array (
       "http://www.lycee-ledantec.ac-rennes.fr/",
       "Lycée public de Lannion, Félix le Dantec s'implique depuis plusieurs années dans le Logiciel Libre et depuis 3 ans organise chaque année une 'InstallParty & Initiation à GNU/Linux'. Nombre d'élèves (de STI et SSI) et étudiants (BTS/Licences Pro) ont été formés à l'usage et au développement sur le Logiciel Libre et l'Open Hardware."
    ),
+   array(
+     "Nerzh Nevez",
+     "img/logoNNppp.jpg",
+     "http://nerzh-nevez.com/",
+     "<a href=\"http://nerzh-nevez.com/\">Nerzh Nevez</a> et <a href=\"http://www.ecocentre-tregor.fr\">L'ECOCENTRE</a> organisent des stages Tripalium et d'autres en lien avec l'autonomie énergétique.<br>Les objets réalisés s'inspirent de plans libres de droit. Ils sont l'occasion de découvrir ou de perfectionner des techniques qui permettent de devenir plus autonome."
+  ),
   array(
       "PATG",
       "img/patg.png",
@@ -84,7 +95,7 @@ array(
      "Tripalium",
      "img/tripalium.jpeg",
      "http://www.tripalium.org/",
-     "Impulsée en 2007 par la volonté de développer les stages d’auto-construction, l’association Tripalium s’est transformée en un réseau d’acteur-rices. <br>Sans salarié ni subvention, sa vitalité repose sur la dynamique des stages : les anciens stagiaires sont invités à devenir formateurs, puis à organiser des stages...Tripalium échange également à l’international avec des organisations similaires."
+     "<b>Tripalium est un réseau d'acteurs</b> fondé en 2007. Il propose régulièrement <b>des stages d'auto-construction d'éoliennes</b> ouverts à tous. <b>Plus de 150 éoliennes Piggott</b> ont déjà été fabriquées en France."
   ),
     array(
       "Ville de Lannion",
