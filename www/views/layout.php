@@ -109,7 +109,7 @@
                         <li>
                             <a href="/programme">Programme</a>
                         </li> -->
-                        <li class="footer-menu-divider">&sdot;</li>
+<!--                         <li class="footer-menu-divider">&sdot;</li> -->
                         <li>
                             <a href="/partenaires">Partenaires</a>
                         </li>
