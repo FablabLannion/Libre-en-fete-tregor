@@ -6,9 +6,9 @@ require "data.php";
 /** definition des URLS */
 Flight::route('/',              'accueil');
 //Flight::route('/pratique',         'pratique');
-//Flight::route('/programme',     'programme');
+Flight::route('/programme',     'programme');
 Flight::route('/partenaires',   'partenaires');
-//Flight::route('/credits',   'credits');
+Flight::route('/credits',   'credits');
 Flight::route('/sponsors',   'sponsors');
 Flight::route('/2016',   'ed2016');
 
@@ -23,20 +23,20 @@ function accueil() {
 //    Flight::render ('layout', array('title'=>"Pratique"));
 // } // pratique
 
-// function programme() {
-//    Flight::render ('programme', null, 'body' );
-//    Flight::render ('layout', array('title'=>"Programme"));
-// } // programme
+function programme() {
+    Flight::render ('programme', null, 'body' );
+    Flight::render ('layout', array('title'=>"Programme"));
+} // programme
 
 function partenaires() {
    Flight::render ('partenaires', null, 'body' );
    Flight::render ('layout', array('title'=>"Partenaires"));
 } // partenaires
 
-// function credits() {
-//    Flight::render ('credits', null, 'body' );
-//    Flight::render ('layout', array('title'=>"Crédits"));
-// } // credits
+function credits() {
+    Flight::render ('credits', null, 'body' );
+    Flight::render ('layout', array('title'=>"Crédits"));
+} // credits
 
 function sponsors() {
    Flight::render ('sponsors', null, 'body' );

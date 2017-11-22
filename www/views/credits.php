@@ -61,6 +61,14 @@
 	   <a href="https://openclipart.org/detail/189359/penguins-just-love-openclipart">Penguins just love OpenClipart! by <a href="https://openclipart.org/user-detail/Moini"></a>Moini</a>,
 	   Public Domain (OpenClipArt)
    </li>
+   <li>
+     <a href="https://www.flickr.com/photos/110419464@N05/33940617933">School by <a href="https://www.flickr.com/photos/110419464@N05/"></a>SIM Central and South East Asia</a>,
+	   CC BY-NC 2.0
+   </li>
+   <li>
+     <a href="https://www.flickr.com/photos/53558245@N02/4979030420">Telescope by <a href="https://www.flickr.com/photos/53558245@N02/"></a>daily sunny</a>,
+	   CC BY 2.0
+   </li>
 </ul>
 
 </div>
