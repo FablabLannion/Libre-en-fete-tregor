@@ -3,7 +3,7 @@
 /* data */
 $data_programme = array (
   array(
-     "Explorer: Nnmérique & territoire",
+     "Explorer: numérique & territoire",
      "img/C6y83-TWgAARMU7.jpg",
      "",
      "<ul>
