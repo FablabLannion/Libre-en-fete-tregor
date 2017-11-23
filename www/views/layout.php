@@ -65,10 +65,10 @@
                     </li>
                     <!-- <li>
                         <a href="/pratique">Pratique</a>
-                    </li>
+                    </li>  -->
                     <li>
                         <a href="/programme">Programme</a>
-                    </li> -->
+                    </li>
                     <li>
                         <a href="/partenaires">Partenaires</a>
                     </li>
@@ -101,27 +101,26 @@
                         <li>
                             <a href="/">Accueil</a>
                         </li>
-                        <li class="footer-menu-divider">&sdot;</li>
-                        <!-- <li>
+                        <!-- <li class="footer-menu-divider">&sdot;</li>
+                        <li>
                             <a href="/pratique">Pratique</a>
-                        </li>
+                        </li> -->
                         <li class="footer-menu-divider">&sdot;</li>
                         <li>
                             <a href="/programme">Programme</a>
-                        </li> -->
-<!--                         <li class="footer-menu-divider">&sdot;</li> -->
+                        </li>
+						<li class="footer-menu-divider">&sdot;</li>
                         <li>
                             <a href="/partenaires">Partenaires</a>
                         </li>
                         <li class="footer-menu-divider">&sdot;</li>
                         <li>
-                        <li>
                             <a href="/sponsors">Sponsors</a>
                         </li>
-<!--                         <li class="footer-menu-divider">&sdot;</li> -->
-                        <!-- <li>
+						<li class="footer-menu-divider">&sdot;</li>
+                        <li>
                             <a href="/credits">Crédits</a>
-                        </li> -->
+                        </li>
                     </ul>
                 </div>
             </div>
