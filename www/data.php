@@ -11,7 +11,7 @@ $data_programme = array (
         <li>Cartographie participative</li>
         <li><a href=\"https://www.thethingsnetwork.org/community/lannion/\">The Thing Network Lannion</a>, un réseau collaboratif pour l'Internet des objets sur le Trégor</li>
       </ul>
-      <br><a href=\"mailto:libre-en-fete-tregor@framalistes.org\">Contact</a>"
+      <br><a href=\"mailto:frederic@libre-en-fete-tregor.fr\">Frédéric</a>"
   ),
   array(
      "Comprendre: numérique et enjeux citoyens",
