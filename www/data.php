@@ -147,6 +147,12 @@ $data_partenaires = array (
      "<a href=\"http://nerzh-nevez.com/\">Nerzh Nevez</a> et <a href=\"http://www.ecocentre-tregor.fr\">L'ECOCENTRE</a> organisent des stages Tripalium et d'autres en lien avec l'autonomie énergétique.<br>Les objets réalisés s'inspirent de plans libres de droit. Ils sont l'occasion de découvrir ou de perfectionner des techniques qui permettent de devenir plus autonome."
   ),
   array(
+     "OSM France",
+     "img/OSM-FR-logo-web-avec-texte.png",
+     "http://openstreetmap.fr/asso",
+     "OpenStreetMap France est une association à but non lucratif régie par la loi de 1901 dont l'objectif est de promouvoir le projet OpenStreetMap et notamment la collecte, la diffusion et l'utilisation de données cartographiques sous licences libres."
+  ),  
+  array(
       "PATG",
       "img/patg.png",
       "https://sites.google.com/site/patglannion2010/",
