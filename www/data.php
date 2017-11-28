@@ -22,7 +22,7 @@ $data_programme = array (
       <li>Données personnelles: les risques et les parades</li>
       <li>Démocratie participative et numérique</li>
       </ul>
-      <br><a href=\"mailto:libre-en-fete-tregor@framalistes.org\">Contact</a>"
+      <br><a href=\"mailto:eric@framalistes.org\">Contact: Eric</a>"
   ),
   array(
      "Jouer",
@@ -45,7 +45,8 @@ $data_programme = array (
       <li>Install party: redonnez vie à un ordinateur...</li>
       <li>Autoconstruction: Apprendre à réaliser un butaphone, un chauffe eau à bois ou un Rocket Stove ...</li>
       <li>Espace conférence (programmation en cours)</li>
-      <br><a href=\"mailto:libre-en-fete-tregor@framalistes.org\">Contact</a>"
+      <br><a href=\"mailto:codedarmor@libre-en-fete-tregor.fr\">Contacts: Code d'Armor</a>
+      <a href=\"mailto:olivier@libre-en-fete-tregor.fr\">, Olivier</a>"
   ),
   array(
      "Entreprendre",
@@ -151,7 +152,7 @@ $data_partenaires = array (
      "img/OSM-FR-logo-web-avec-texte.png",
      "http://openstreetmap.fr/asso",
      "OpenStreetMap France est une association à but non lucratif régie par la loi de 1901 dont l'objectif est de promouvoir le projet OpenStreetMap et notamment la collecte, la diffusion et l'utilisation de données cartographiques sous licences libres."
-  ),  
+  ),
   array(
       "PATG",
       "img/patg.png",
