@@ -101,6 +101,25 @@ $data_partenaires = array (
       "Code d'Armor a pour but de construire une communauté de développeurs sur la région de Lannion. Nous organisons des évènements autour du monde du développement informatique.<br> Passionnés, intéressés, motivés, interloqués, vous êtes tous les bienvenus !"
    ),
    array(
+      "Coopérative22",
+      "img/coop22.png",
+      "",
+      "La coopérative, c’est :
+      <ul><li>l’ensemble des établissements scolaires du département qui peuvent accueillir ou proposer des animations autour du numérique</li>
+          <li>un point central : les sites pilotes qui fédèrent l’ensemble des initiatives du terrain et proposent de nombreuses animations et temps d’échanges entre pairs</li>
+      </ul><br>
+	  Pour les Côtes d’Armor :
+	  <ul><li>Ecole Morand-Savidan à Lannion</li>
+	  <li></li>Collège Yves Coppens à Lannion</li>
+      <li>Lycée Félix Le Dantec à Lannion</li></ul><br>
+      La coopérative, ça permet de :
+      <ul><li>participer à des animations autour de la pédagogie et du numérique</li>
+          <li>venir tester des outils ou des pratiques pédagogiques</li>
+          <li>travailler entre pairs sur des pratiques pédagogiques</li>
+          <li>s’informer sur des évènements liés au numérique éducatif autour de chez vous</li>
+          <li>s’engager en partageant vos expériences et vos pratiques pédagogiques</li></ul>"
+   ),
+   array(
       "Ecocentre",
       "img/ecocentre.png",
       "http://www.ecocentre-tregor.fr/",
