@@ -46,8 +46,8 @@
                     Souezus e c'hell seblantout liamman ar gêr frank gant ar gêr meziant, koulskoude eman ar meziant frank e peb lec'h.  War o urzhiataer eman, heptan rouedad ebet, gellout a ra rein lans en dro d'o'ch urzhiataer gozh. Kinning a ra ivez meziantoù evit diskouezh be framman filmoù, sevel testennoù, renkan poltriji...
                     </p>
                     <p>
-                    Disanav e chom, dre ma n'eo ket sikouret gant embregerezioù vras. Ar meziant frank a zegas talvoudegezhioù ken-sikour ha kenlabouret a chell bezan implijet gant pep hini. Il représente ainsi un patrimoine immatériel façonnant le quotidien numérique de chacun.
-                    A travers des animations gratuites, les Trégorrois pourront découvrir ou redécouvrir la richesse du logiciel libre.
+                    Disanav e chom, dre ma n'eo ket sikouret gant embregerezioù vras. Ar meziant frank a zegas talvoudegezhioù ken-sikour ha kenlabouret a chell bezan implijet gant pep hini. E giz-se ez eo ur glad difetis a levezon buhez niverel pemdeziek pep-hini.
+                    Dre abadennoù digoust, e c'hello Tregeriz dizoloin pe ad-disoloin pinvidigezh ar meziant frank.
                     </p>
                 </div>
             </div>
