@@ -35,19 +35,19 @@
                     <div class="clearfix"></div>
                     <h2 class="section-heading">À propos</h2>
                     <p class="lead">
-                    18vet deizh ar bloazh Gouel ar Frank, savet ha kenurziet gant an April, a vo lidet e 2018. Degouezhadennoù dizoloein bed ar frank a vo kiniget a dreuz ar Frans, en ur stumm laouenek ha dudius.</p>
+                    18vet deiz ha bloazh Gouel ar Frank, savet ha kenurziet gant an April, a vo lidet e 2018. Degouezhadennoù dizoloeiñ bed ar frank a vo kiniget a dreuz ar Frañs, en ur stumm laouenek ha dudius.</p>
                     <p>
-                    Ur strollad kevredigiezhioù a vro Dreger a ginnigo asamblez stalieroù tro-dro d'ar meziantoù frank ar Sul 25 a viz Meurzh 2018 sal an Ursulinezed e Lannuon
+                    Ur strollad kevredigezhioù eus Bro Dreger a ginnigo asambles stalieroù tro-dro d'ar meziantoù frank d’ar Sul 25 a viz Meurzh 2018 e sal an Ursulinezed e Lannuon.
                     </p>
                 </div>
 
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
                     <p>
-                    Souezus e c'hell seblantout liamman ar gêr frank gant ar gêr meziant, koulskoude eman ar meziant frank e peb lec'h.  War o urzhiataer eman, heptan rouedad ebet, gellout a ra rein lans en dro d'o'ch urzhiataer gozh. Kinning a ra ivez meziantoù evit diskouezh be framman filmoù, sevel testennoù, renkan poltriji...
+                    Souezhus e c'hell seblantout liammañ ar ger frank gant ar ger meziant, koulskoude emañ ar meziant frank e peb lec'h. War hoc’h urzhiataer emañ, heptañ rouedad ebet, gellout a ra reiñ lañs a-nevez d'hoc’h urzhiataer kozh. Kinniget a vez ivez meziantoù evit diskouez pe frammañ filmoù, sevel testennoù, renkañ poltrejoù…
                     </p>
                     <p>
-                    Disanav e chom, dre ma n'eo ket sikouret gant embregerezioù vras. Ar meziant frank a zegas talvoudegezhioù ken-sikour ha kenlabouret a chell bezan implijet gant pep hini. E giz-se ez eo ur glad difetis a levezon buhez niverel pemdeziek pep-hini.
-                    Dre abadennoù digoust, e c'hello Tregeriz dizoloin pe ad-disoloin pinvidigezh ar meziant frank.
+                    Dizanav e chom, dre ma ne vez ket sikouret gant embregerezhioù bras. Ar meziant frank a zegas talvoudegezhioù ar genskoazell  hag ar c’henlabour ha gallout a ra bezañ implijet gant pep hini. 
+                    E giz-se ez eo ur glad dizanvezel gant levezon war buhez niverel pemdeziek pep hini.
                     </p>
                 </div>
             </div>
