@@ -71,7 +71,7 @@ $data_programme = array (
       <li>Jeux: Xonotic, Freeciv, MineTest, Super Tux Kart, The Battle for Wesnoth, ...</li>
       <li>Et bien d'autres....</li>
       </ul>
-      <br><a href=\"mailto:libre-en-fete-tregor@framalistes.org\">Contact</a>"
+      <br><a href=\"mailto:joel@libre-en-fete-tregor.fr\">Joël</a>"
   ),
 );
 Flight::set('data_programme', $data_programme);
