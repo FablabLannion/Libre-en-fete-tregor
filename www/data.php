@@ -154,6 +154,12 @@ $data_partenaires = array (
         "http://www.lannion-tregor.com/",
         "La communauté d'agglomération est un établissement public de coopération intercommunale (EPCI).<br>Elle rassemble, depuis le 1er janvier 2017, 60 communes pour 118 000 habitants. Ces communes se sont unies sur le principe de solidarité, l'objectif étant de faire ensemble ce qu'une commune seule ne pourrait faire."
    ),
+   array(
+      "Les petits débrouillards",
+      "img/Logo-petitsdebrouillards.jpg",
+      "http://www.lespetitsdebrouillardsbretagne.org/",
+      "L’association « Les Petits Débrouillards » met en place des activités scientifiques et techniques pour les jeunes, afin de promouvoir la démarche expérimentale et l'esprit critique auprès du plus grand nombre."
+   ),
     array(
       "Lycée le Dantec",
       "img/LeDANTEC.png",
