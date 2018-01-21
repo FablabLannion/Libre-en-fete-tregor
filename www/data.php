@@ -22,7 +22,7 @@ $data_programme = array (
       <li>Données personnelles: les risques et les parades</li>
       <li>Démocratie participative et numérique</li>
       </ul>
-      <br><a href=\"mailto:eric@framalistes.org\">Contact: Eric</a>"
+      <br><a href=\"mailto:eric@libre-en-fete-tregor.fr\">Contact: Eric</a>"
   ),
   array(
      "Jouer",
