@@ -124,7 +124,14 @@ $data_partenaires = array (
       "img/ecocentre.png",
       "http://www.ecocentre-tregor.fr/",
       "L'ECOCENTRE est un lieu de rencontres, de fêtes, de partage et d'échange autour notamment de l'écologie (mais pas que !).<br>L'association propose tout au long de l'année des stages très divers à des prix accessibles dans le but de transmettre et partager des connaissances au plus grand nombre"
-   ),   array(
+   ),
+ array(
+      "ENSSAT",
+      "img/ENSSAT.png",
+      "http://www.enssat.fr/",
+      "L’Enssat (École Nationale Supérieure des Sciences Appliquées et de Technologie) est une école publique d’ingénieurs et un pôle de recherche dans le domaine des télécoms et des technologies émergentes.<br>Grâce à ses équipes d’enseignement et de recherche en synergie avec le monde industriel, l’École dote ses élèves ingénieurs de compétences et de savoir-faire à la pointe des technologies pour un avenir assuré dans le développement de projets innovants."
+   ),
+   array(
       "Fablab Lannion",
       "img/fablab.jpg",
       "http://fablab-lannion.org",
