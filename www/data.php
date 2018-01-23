@@ -77,6 +77,12 @@ $data_programme = array (
 Flight::set('data_programme', $data_programme);
 
 $data_partenaires = array (
+  array(
+      "Aleccor",
+      "img/logo_aleccor.jpg",
+      "http://www.aleccor.infini.fr",
+      "Les exOOOs d'Aleccor<br>Exercices éducatifs libres et gratuits programmés sous OpenOffice<br>Les exOOOs d'Aleccor sont des exercices éducatifs libres et gratuits, programmés sous OpenOffice et sous VoxOoFox (synthèse vocale). Ces exercices sont auto-correctifs.<br>Le but est de proposer des ressources éducatives pour les écoles, pour les enfants (en soutien) en eur permettant de travailler en autonomie (pas de note mais une valorisation du travail), mais aussi pour les personnes en difficulté (illettrisme) ou pour qui le français est une langue étrangère.<br>Plus de 1 000 exercices sont actuellement disponibles dans de nombreuses matières.(Français, Calcul, Histoire, Géographie, Sciences, Anglais, Éducation civique,...)"
+   ),
    array(
       "Anticipa",
       "img/logo-anticipa.jpg",
@@ -85,6 +91,12 @@ $data_partenaires = array (
       Depuis 25 ans, Anticipa <b></b>développe l’économie, encourage l’innovation </b> et <b>stimule l’esprit d’entreprendre </b> sur le territoire du Trégor-Goëlo. Anticipa, c’est UNE technopole, UNE agence de développement et UNE plate-forme d’initiative locale (Trégor Initiative) au cœur d’un réseau  composé d’industriels, de porteurs de projets, de chercheurs, d’enseignants, d’étudiants et d’institutionnels.<br>
       Anticipa concentre ses actions autour de <b>6 filières d’excellence </b>: numérique, photonique, cosmétique - biotech, alimentation-nutrition, naval-Nautisme  et industrie. Elle <b>accompagne et soutient les projets </b> (individuels ou collaboratifs) issus de ces filières quelque soit leur nature (création, implantation, développement, internationalisation…) et <b> anime </b> les filières par l’organisation de divers événements dédiés (colloque, rencontres, focus, formation…).<br>
       La technopole Anticipa est à l’écoute de tous et propose un accompagnement sur mesure à tous les projets d’entreprise.</p>"
+   ),
+   array(
+      "April",
+      "img/logo-april.png",
+      "http://www.april.org",
+      "Pionnière du logiciel libre en France, l'April est depuis 1996 un acteur majeur de la démocratisation et de la diffusion du Logiciel Libre et des standards ouverts auprès du grand public, des professionnels et des institutions dans l'espace francophone. Elle veille aussi à sensibiliser l'opinion sur les dangers d'une appropriation exclusive de l'information et du savoir par des intérêts privés."
    ),
     array(
       "BrestTech+",
