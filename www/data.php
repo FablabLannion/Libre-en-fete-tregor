@@ -92,6 +92,12 @@ $data_partenaires = array (
       Anticipa concentre ses actions autour de <b>6 filières d’excellence </b>: numérique, photonique, cosmétique - biotech, alimentation-nutrition, naval-Nautisme  et industrie. Elle <b>accompagne et soutient les projets </b> (individuels ou collaboratifs) issus de ces filières quelque soit leur nature (création, implantation, développement, internationalisation…) et <b> anime </b> les filières par l’organisation de divers événements dédiés (colloque, rencontres, focus, formation…).<br>
       La technopole Anticipa est à l’écoute de tous et propose un accompagnement sur mesure à tous les projets d’entreprise.</p>"
    ),
+  array(
+      "An Drouizig",
+      "img/mw_drouizig.png",
+      "http://www.drouizig.org/",
+      "An Drouizig est une association de promotion de la langue bretonne sur les nouvelles technologies, notamment par la traduction de logiciels et par la réalisation de correcteurs orthographiques<br>Ur gevredigezh a gas war-raok ar brezhoneg war ar c'halverezhioù nevez eo An Drouizig. He obererezhioù pennañ a zo troidigezh meziantoù ha diorroadur un difazier reizhskrivadur."
+   ),  
    array(
       "April",
       "img/logo-april.png",
@@ -190,6 +196,12 @@ $data_partenaires = array (
      "img/logoNNppp.jpg",
      "http://nerzh-nevez.com/",
      "<a href=\"http://nerzh-nevez.com/\">Nerzh Nevez</a> et <a href=\"http://www.ecocentre-tregor.fr\">L'ECOCENTRE</a> organisent des stages Tripalium et d'autres en lien avec l'autonomie énergétique.<br>Les objets réalisés s'inspirent de plans libres de droit. Ils sont l'occasion de découvrir ou de perfectionner des techniques qui permettent de devenir plus autonome."
+  ),
+    array(
+     "Nos oignons",
+     "img/nos-oignons-blanc.png",
+     "https://nos-oignons.net/",
+     "<a href=\"https://nos-oignons.net/\">Nos Oignons</a> est une association à but non-lucratif créée pour collecter des dons afin de faire tourner des nœuds de sortie Tor."
   ),
   array(
      "OSM France",
