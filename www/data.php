@@ -71,7 +71,7 @@ $data_programme = array (
       <li>Jeux: Xonotic, Freeciv, MineTest, Super Tux Kart, The Battle for Wesnoth, ...</li>
       <li>Et bien d'autres....</li>
       </ul>
-      <br><a href=\"mailto:joel@libre-en-fete-tregor.fr\">Joël</a>"
+      <br><a href=\"mailto:joel@libre-en-fete-tregor.fr\">Contacts: Joël</a>"
   ),
 );
 Flight::set('data_programme', $data_programme);
@@ -97,7 +97,7 @@ $data_partenaires = array (
       "img/mw_drouizig.png",
       "http://www.drouizig.org/",
       "An Drouizig est une association de promotion de la langue bretonne sur les nouvelles technologies, notamment par la traduction de logiciels et par la réalisation de correcteurs orthographiques<br>Ur gevredigezh a gas war-raok ar brezhoneg war ar c'halverezhioù nevez eo An Drouizig. He obererezhioù pennañ a zo troidigezh meziantoù ha diorroadur un difazier reizhskrivadur."
-   ),  
+   ),
    array(
       "April",
       "img/logo-april.png",
@@ -161,6 +161,14 @@ $data_partenaires = array (
       "http://www.infothema.fr/",
       "L'association Infothema a pour vocation la promotion des Logiciels Libres sur le département des Côtes d'Armor (Bretagne)."
    ),
+   array(
+        "IUT Lannion",
+        "img/logo_iut.png",
+        "http://www.iut-lannion.fr/",
+        "L'IUT Lannion, près de 50 ans d'expérience, est un établissement majeur de l'enseignement supérieur et de la recherche des Côtes d'Armor.
+        <br>Composante à part entière de l'Université de Rennes 1, l'IUT Lannion répond à trois missions fondamentales : la formation initiale des jeunes étudiants, la formation tout au long de la vie, la recherche et le transfert de technologies. Ainsi, les équipes pédagogiques se composent à la fois d'enseignants, d'enseignants-chercheurs et de professionnels.
+        <br>Accueillant des publics multiples, bacheliers de tous types (bacs généraux, technologiques et professionnels), salariés et demandeurs d'emplois, l'IUT s'efforce de proposer des formules adaptées aux aspirations et au potentiel de chacun. Ses formations universitaires et professionnalisantes offrent les meilleurs atouts pour entrer dans la vie active, soit directement après le Diplôme Universitaire de Technologie, soit après une Licence Professionnelle, soit après des études longues (licences, masters, écoles d'ingénieurs, etc...)."
+     ),
     array(
       "Kristal",
       "img/kristal.png",
@@ -213,7 +221,7 @@ $data_partenaires = array (
       "PATG",
       "img/patg.png",
       "https://sites.google.com/site/patglannion2010/",
-      "Promouvoir et Agir en Trégor Goélo (PATG) est une association axée sur l'aide aux particuliers et aux très petites entreprises du Trégor Goélo. PATG tente de réduire la fracture sociale et la fracture technique en visant la reprise des relations humaines et la réinsertion sociale. L'informatique est utilisée comme support parce que c'est un élément qui permet facilement les rapprochements humains, et apporte un complément de connaissances utile pour l'emploi et la vie courante."
+      "Promouvoir et Agir en Trégor Goëlo (PATG) est une association axée sur l'aide aux particuliers et aux très petites entreprises du Trégor Goëlo. PATG tente de réduire la fracture sociale et la fracture technique en visant la reprise des relations humaines et la réinsertion sociale. L'informatique est utilisée comme support parce que c'est un élément qui permet facilement les rapprochements humains, et apporte un complément de connaissances utile pour l'emploi et la vie courante."
    ),
 array(
       "Titux.org",
