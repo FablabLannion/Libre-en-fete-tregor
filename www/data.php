@@ -3,6 +3,71 @@
 /* data */
 $data_programme = array (
   array(
+     "Conférences",
+     "img/2016-7.JPG",
+     "",
+     "Des mini-conférences tout au long de la journée.
+     <table>
+ <tr>
+   <th>Sujet</th>
+   <th>Présentateur</th>
+ </tr>
+ <tr>
+   <td>Histoire & perspective du logiciel libre</td>
+   <td>J.Labidurie (Fablab Lannion)</td>
+ </tr>
+ <tr>
+   <td>Ordivintage : réparer un vieil ordinateur très abîmé</td>
+   <td>Nicolas</td>
+ </tr>
+   <tr>
+   <td>Politique du numérique et territoire: enjeux et ambitions</td>
+   <td></td>
+ </tr>
+ <tr>
+   <td>Remise des prix Concours OpenStreetMap</td>
+   <td></td>
+ </tr>
+ <tr>
+   <td>Mon ordinateur en Breton, option logiciels libres/Un urzhiataer e brezhoneg gant meziantoù frank</td>
+   <td>G.Meynier (An Drouizig)</td>
+ </tr>
+ <tr>
+   <td>Your Distro From Scratch : créez vous-même votre distribution Linux personnalisée</td>
+   <td>Y.Le Doare</td>
+ </tr>
+ <tr>
+   <td>Slot Sponsor</a></td>
+   <td>Orange</td>
+ </tr>
+ <tr>
+   <td>Si j'avais un Bitcoin - crypto monnaie mode d'emploi</td>
+   <td>PY.Lapersonne (Code d'Armor)</td>
+ </tr>
+   <tr>
+   <td>Comment protéger sa vie privée sur Internet, pour vivre heureux vivons anonymes</td>
+   <td>S.Vitard</td>
+ </tr>
+ <tr>
+   <td>Introduction à Tor</td>
+   <td>syl (nos-oignons.net)</td>
+ </tr>
+ <tr>
+   <td>Slot Sponsor</a></td>
+   <td>Huawei</td>
+ </tr>
+ <tr>
+   <td>Le dessous des cartes</td>
+   <td>E.Lefeuvre (LTC), F.Huguen (Ville Lannion)</td>
+ </tr>
+   <tr>
+   <td>Concours Ada Lovelace</td>
+   <td>O.Bald (Lycée Le Dantec)</td>
+ </tr>
+</table>
+"
+  ),
+  array(
      "Explorer: numérique & territoire",
      "img/C6y83-TWgAARMU7.jpg",
      "",
@@ -274,7 +339,7 @@ $data_sponsors = array (
  "Sponsors \"Granit Rose\"",
  "img/granitrose.jpg",
  "",
- "<a href=\"https://www.ixiacom.com/fr\"><img src=\"img/logo_ixia.png\" height=\"50\" alt=\"Ixia\"></a></li>
+ "<a href=\"https://www.ixiacom.com/fr\"><img src=\"img/logo_ixia.png\" height=\"150\" alt=\"Ixia\"></a></li>
  "),
     array(
        "Espace pro",
