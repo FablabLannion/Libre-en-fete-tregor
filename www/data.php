@@ -4,7 +4,7 @@
 $data_programme = array (
   array(
      "Conférences",
-     "img/2016-7.JPG",
+     "img/espace-conf.jpg",
      "",
      "Des mini-conférences tout au long de la journée.
      <table>
