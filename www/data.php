@@ -246,30 +246,44 @@ array(
 Flight::set('data_partenaires', $data_partenaires);
 
 $data_sponsors = array (
-   array(
-      "Devenir Sponsor",
-      "img/sponsor-badges-800px.png",
-      "",
-      "Vous souhaitez associer votre entreprise à un événement grand public autour du numérique, des usages collaboratifs et du logiciel libre, contactez nous : <a href=\"mailto:libre-en-fete-tregor@framalistes.org\">libre-en-fete-tregor@framalistes.org</a> !<br>Téléchargez <a href=\"https://drive.google.com/open?id=0B2lmIjE7PgpLNnBDdVhPbVFCTURabHNYUUZfQUhDVVl2Nlow\">notre dossier sponsoring</a> pour plus d'information."
-   ),
-   array(
-      "Platinium",
-      "img/award-800px.png",
-      "",
-      "<ul><li>Logo sur toutes les pages du site web</li> <li>Logo sur tous les supports de communication (flyers, affiches 120x176, A4, A3) en grand format</li><li>Réseau d'affichage sur 30 panneaux 120x176 sur Lannion</li> <li>Slot pour 1 conférence</li><li>Stand (pas de limitation d'espace dans la mesure du raisonnable...) dans l'espace Pro</li> <li>1 page dans la brochure d'information de la manifestation</li></ul>"
-   ),
-   array(
-      "Granit rose",
-      "img/penguins-like-ocal-800px.png",
-      "",
-      "<ul><li>Logo sur la page Sponsors du site web</li> <li>Logo sur les supports de communication en petit format</li> <li>Stand dans l'espace Pro,</li> <li>1/2 page dans la brochure d'information de la manifestation</li></ul>"
-   ),
-   array(
-      "Espace pro",
-      "img/Professional-People-Silhouette-800px.png",
-      "",
-      "<ul><li>Un stand d’une surface d’environ 9 m2. Equipement : cloisons et mobilier (1 table et 3 chaises), alimentation électrique (3 prises), connexion internet. Si besoins spécifiques, prévenir à l’inscription.</li> <li>Repas du midi, un accès à un point café </li><li>Une présence dans le guide du visiteur et sur la page internet de l’événement</li></ul>"
-   )
+  array(
+     "Huawei",
+     "img/logo-Huawei.jpeg",
+     "http://www.huawei.com/fr/",
+    ""
+  ),
+  array(
+     "Orange",
+     "img/logo_orange.jpg",
+     "https://www.orange.com/fr/accueil",
+     ""
+  ),
+  array(
+     "Lannion Tregor Communauté",
+     "img/LOGO_LTC_GeneriqueFR.jpg",
+     "",
+     ""
+  ),
+  array(
+     "Ville de Lannion",
+     "img/Logo_mairie_Lannion.jpg",
+     "",
+     ""
+  ),
+ array(
+ "Sponsors \"Granit Rose\"",
+ "img/granitrose.jpg",
+ "",
+ "<a href=\"https://www.ixiacom.com/fr\"><img src=\"img/logo_ixia.png\" height=\"50\" alt=\"Ixia\"></a></li>
+ "),
+    array(
+       "Espace pro",
+       "img/Professional-People-Silhouette-800px.png",
+       "",
+       "<ul><li>Un stand d’une surface d’environ 9 m2. Equipement : cloisons et mobilier (1 table et 3 chaises), alimentation électrique (3 prises), connexion internet. Si besoins spécifiques, prévenir à l’inscription.</li>
+       <li>Repas du midi, un accès à un point café </li><li>Une présence dans le guide du visiteur et sur la page internet de l’événement</li></ul>
+       <br><a href=\"mailto:agnes@libre-en-fete-tregor.fr\">Contacts: Agnès</a>"
+    )
  );
 Flight::set('data_sponsors', $data_sponsors);
 

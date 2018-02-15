@@ -29,7 +29,7 @@
     </div>
     <!-- /.content-section-a -->
 
-    <div class="content-section-b">
+    <!-- <div class="content-section-b">
 
         <div class="container">
 
@@ -59,7 +59,7 @@
 						 <li><a href="http://tv-tregor.com/?p=2496">Vive le logiciel libre !, TV Trégor, 25/4/2016</a></li>
 						 <li><a href="http://armortv.fr/_v2/index.php/lannion/item/jt-du-25-03-2016?highlight=WyJsaWJyZSIsImVuIiwiZmV0ZSIsImxpYnJlIGVuIiwibGlicmUgZW4gZlx1MDBlYXRlIiwiZW4gZlx1MDBlYnRlIl0=">Journal, Armor TV, 25/03/2016</a></li>
 						 <li><a href="http://www.dailymotion.com/video/x40fpm0_libre-en-fete-en-tregor-2016-timelapse-du-montage-des-stands_news">Time lapse montage salle Libre ne fête, 25/03/2016</a></li>
-					</ul>                    
+					</ul>
                     </p>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
@@ -67,7 +67,7 @@
                 </div>
             </div>
 
-        </div>
+        </div> -->
         <!-- /.container -->
 
     </div>
@@ -82,7 +82,7 @@
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Horaires</h2>
                     <p  class="lead">
-                    Samedi 26 Mars 2016 de 10h à 18h <br/>
+                    Dimanche 25 Mars 2018 de 10h à 18h <br/>
                     Entrée libre et gratuite <br/>
                     Voir le <a href="/programme">programme</a> pour plus de détails                    </p>
                 </div>
@@ -147,4 +147,3 @@ Ce Code de Conduite est adapté du <a href="http://2014.jsconf.eu/code-of-conduc
         <!-- /.container -->
     </div>
     <!-- /.content-section-b -->
-

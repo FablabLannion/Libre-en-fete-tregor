@@ -5,7 +5,7 @@ require "data.php";
 
 /** definition des URLS */
 Flight::route('/',              'accueil');
-//Flight::route('/pratique',         'pratique');
+Flight::route('/pratique',         'pratique');
 Flight::route('/programme',     'programme');
 Flight::route('/partenaires',   'partenaires');
 Flight::route('/credits',   'credits');
@@ -18,10 +18,10 @@ function accueil() {
    Flight::render ('layout', array('title'=>"Accueil"));
 } // accueil
 
-// function pratique() {
-//    Flight::render ('pratique', null, 'body' );
-//    Flight::render ('layout', array('title'=>"Pratique"));
-// } // pratique
+function pratique() {
+   Flight::render ('pratique', null, 'body' );
+   Flight::render ('layout', array('title'=>"Pratique"));
+} // pratique
 
 function programme() {
     Flight::render ('programme', null, 'body' );
