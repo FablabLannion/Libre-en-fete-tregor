@@ -6,62 +6,76 @@ $data_programme = array (
      "Conférences",
      "img/espace-conf.jpg",
      "",
-     "Des mini-conférences tout au long de la journée.
+     "Des mini-conférences seront proposées tout au long de la journée.
      <table>
  <tr>
+   <th>Horaire</th>
    <th>Sujet</th>
    <th>Présentateur</th>
  </tr>
  <tr>
+   <td>10h00</td>
    <td>Histoire & perspective du logiciel libre</td>
    <td>J.Labidurie (Fablab Lannion)</td>
  </tr>
  <tr>
+   <td>10h30</td>
    <td>Ordivintage : réparer un vieil ordinateur très abîmé</td>
    <td>Nicolas</td>
  </tr>
    <tr>
+   <td>11h00</td>
    <td>Politique du numérique et territoire: enjeux et ambitions</td>
    <td></td>
  </tr>
  <tr>
+   <td>11h45</td>
    <td>Remise des prix Concours OpenStreetMap</td>
    <td></td>
  </tr>
  <tr>
+   <td>13h00</td>
    <td>Mon ordinateur en Breton, option logiciels libres/Un urzhiataer e brezhoneg gant meziantoù frank</td>
    <td>G.Meynier (An Drouizig)</td>
  </tr>
  <tr>
+   <td>13h30</td>
    <td>Your Distro From Scratch : créez vous-même votre distribution Linux personnalisée</td>
    <td>Y.Le Doare</td>
  </tr>
  <tr>
+   <td>14h00</td>
    <td>Slot Sponsor</a></td>
    <td>Orange</td>
  </tr>
  <tr>
+   <td>14h30</td>
    <td>Si j'avais un Bitcoin - crypto monnaie mode d'emploi</td>
    <td>PY.Lapersonne (Code d'Armor)</td>
  </tr>
    <tr>
+   <td>15h00</td>
    <td>Comment protéger sa vie privée sur Internet, pour vivre heureux vivons anonymes</td>
    <td>S.Vitard</td>
  </tr>
  <tr>
+   <td>15h30</td>
    <td>Introduction à Tor</td>
    <td>syl (nos-oignons.net)</td>
  </tr>
  <tr>
-   <td>Slot Sponsor</a></td>
+   <td>16h00</td>
+   <td>ONAP, Une plateforme Open Source pour les Telecoms</td>
    <td>Huawei</td>
  </tr>
  <tr>
+   <td>16h30</td>
    <td>Le dessous des cartes</td>
    <td>E.Lefeuvre (LTC), F.Huguen (Ville Lannion)</td>
  </tr>
    <tr>
-   <td>Concours Ada Lovelace</td>
+   <td>17h00</td>
+   <td>Remise des prix Concours Ada Lovelace</td>
    <td>O.Bald (Lycée Le Dantec)</td>
  </tr>
 </table>
