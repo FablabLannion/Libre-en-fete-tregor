@@ -291,6 +291,12 @@ $data_partenaires = array (
      "<a href=\"https://nos-oignons.net/\">Nos Oignons</a> est une association à but non-lucratif créée pour collecter des dons afin de faire tourner des nœuds de sortie Tor."
   ),
   array(
+    "Orange Solidarité",
+    "img/logo-fondation-orange-2015-fr.png",
+    "https://www.fondationorange.com/Orange-Solidarite",
+    "Orange Solidarité est l’association du numérique solidaire de la Fondation Orange dont l’engagement prioritaire est l’éducation numérique pour faciliter l’insertion sociale et professionnelle."
+ ),
+ array(
      "OSM France",
      "img/OSM-FR-logo-web-avec-texte.png",
      "http://openstreetmap.fr/asso",
