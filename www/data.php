@@ -45,12 +45,12 @@ $data_programme = array (
  </tr>
  <tr>
    <td>14h00</td>
-   <td>Slot Sponsor</a></td>
+   <td>Orange Lannion: au coeur de l'Open Source</a></td>
    <td>Orange</td>
  </tr>
  <tr>
    <td>14h30</td>
-   <td>Si j'avais un Bitcoin - crypto monnaie mode d'emploi</td>
+   <td>Si j'avais un Bitcoin: crypto monnaie mode d'emploi</td>
    <td>PY.Lapersonne (Code d'Armor)</td>
  </tr>
    <tr>
@@ -70,7 +70,7 @@ $data_programme = array (
  </tr>
  <tr>
    <td>16h30</td>
-   <td>Cartographie et géomatique : un monde ouvert</td>
+   <td>Cartographie et géomatique: un monde ouvert</td>
    <td>E.Lefeuvre (LTC), F.Huguen (Ville Lannion)</td>
  </tr>
    <tr>
