@@ -70,7 +70,7 @@ $data_programme = array (
  </tr>
  <tr>
    <td>16h30</td>
-   <td>Le dessous des cartes</td>
+   <td>Cartographie et géomatique : un monde ouvert</td>
    <td>E.Lefeuvre (LTC), F.Huguen (Ville Lannion)</td>
  </tr>
    <tr>
