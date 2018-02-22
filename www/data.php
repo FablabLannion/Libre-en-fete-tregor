@@ -491,7 +491,7 @@ Au-delà de ces quelques exemples non exhaustifs, toutes vos contributions seron
 <li>Prix du contributeur (indépendant)</li>
 <li>Prix du collectif contributeur</li>
 <li>Prix Coup de Coeur</li>
-</ul>"
+</ul><br>Remise des prix à 11h45"
   ),
   array(
      "Concours Ada Lovelace",
@@ -501,7 +501,7 @@ Au-delà de ces quelques exemples non exhaustifs, toutes vos contributions seron
 Concours ouvert à partir du 03 janvier 2017
 Sessions de formation de Janvier à début Mars, HTML/CSS, JavaScript langage & algorithmie, PHP & Bases de données et Utilisation Plateforme
 <br>
-Fin du concours prévue pendant le Libre en Fête le Samedi 25 Mars 2017, les équipes présenteront leur projet au public ainsi qu’au jury."
+Fin du concours prévue pendant le Libre en Fête le Samedi 25 Mars 2017, les équipes présenteront leur projet au public ainsi qu’au jury.<br>Présentation des application durant la journée et remise des prix 17h00"
   )
  );
 Flight::set('data_concours', $data_concours);
