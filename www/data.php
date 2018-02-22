@@ -472,4 +472,37 @@ $data_2016 = array (
  );
 Flight::set('data_2016', $data_2016);
 
+$data_concours = array (
+  array(
+     "Concours OSM",
+     "img/affiche-osm-5.png",
+     "https://www.lannion.bzh/une-ville-pour-tous/408-3eme-concours-de-contributions-open-street-map",
+    "La Ville de Lannion et Lannion-Trégor Communauté organisent du 1er au 23 mars 2018 le 3ème Concours de contributions à OpenStreetMap.
+Ouvert à tous, ce concours permet à chacun de participer de façon ludique à la cartographie de notre territoire de vie : le Trégor.
+<br>
+La thématique proposée cette année est « Randonnée et déplacements doux».
+<br>
+Vous êtes randonneurs, à pied, à vélo, cyclotouristes, utilisateurs de Vélek'tro, vous réalisez tout ou partie de vos déplacements en mode doux, vous aimez le Trégor tout simplement, alors partagez vos expériences sur le territoire de Lannion-Trégor Communauté grâce à la cartographie OpenStreetMap.
+<br>
+Les contributeurs inscrits au concours sont invités à compléter les données OpenStreetMap - routes, chemins, pistes cyclables, cheminements, itinéraires équestres, voies navigables, etc... ainsi que tous les points d’intérêt qui jalonnent vos itinéraires - parking, rack et arceaux à vélos, abris, bancs, bornes, signalétiques, ... .
+<br>
+Au-delà de ces quelques exemples non exhaustifs, toutes vos contributions seront prises en compte dans le cadre de ce concours. Les prix des meilleurs contributeurs seront remis lors de la journée Libre en Fête le dimanche 25 mars à la Salle des Ursulines à Lannion :
+<ul>
+<li>Prix du contributeur (indépendant)</li>
+<li>Prix du collectif contributeur</li>
+<li>Prix Coup de Coeur</li>
+</ul>"
+  ),
+  array(
+     "Concours Ada Lovelace",
+     "img/affiche_v2.png",
+     "http://adalovelace.lycee-ledantec.ac-rennes.fr/",
+     "Le challenge Ada Lovelace s’étend sur 3 mois : Inscription à partir du 13 Décembre 2016
+Concours ouvert à partir du 03 janvier 2017
+Sessions de formation de Janvier à début Mars, HTML/CSS, JavaScript langage & algorithmie, PHP & Bases de données et Utilisation Plateforme
+<br>
+Fin du concours prévue pendant le Libre en Fête le Samedi 25 Mars 2017, les équipes présenteront leur projet au public ainsi qu’au jury."
+  )
+ );
+Flight::set('data_concours', $data_concours);
 ?>
