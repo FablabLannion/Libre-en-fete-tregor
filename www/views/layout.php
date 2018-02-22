@@ -63,15 +63,15 @@
                     <li>
                         <a href="/">Accueil</a>
                     </li>
-                    <!-- <li>
-                        <a href="/pratique">Pratique</a>
-                    </li>  -->
                     <li>
                         <a href="/programme">Programme</a>
                     </li>
                     <li>
                         <a href="/partenaires">Partenaires</a>
                     </li>
+                    <li>
+                       <a href="/pratique">Pratique</a>
+                   </li>
                     <li>
                         <a href="/sponsors">Sponsors</a>
                     </li>
