@@ -120,10 +120,14 @@ $data_programme = array (
      "img/33940617933_259c4a281a_z.jpg",
      "",
      "<ul>
-      <li>Code pour les enfants et ... les adultes</li>
-      <li>Install party: redonnez vie à un ordinateur...</li>
-      <li>Autoconstruction: Apprendre à réaliser un butaphone, un chauffe eau à bois ou un Rocket Stove ...</li>
+      <li>Découverte du code pour les enfants et les adultes</li>
+      <li>Redonner vie à son ordinateur lors d'une install party</li>
+      <li>Apprendre à réaliser des autoconstructions comme des butaphones, chauffes eau à bois ou des rockets stove ...</li>
+      <li>Manipuler des robots et des appareils réalisables soi-même</li>
+      <li>Prendre en main des logiciels libres et respectueux</li>
+      <li>Voir comme Linux est arrivé dans les écoles</li>
       <li>Espace conférence (programmation en cours)</li>
+      </ul>
       <br><a href=\"mailto:codedarmor@libre-en-fete-tregor.fr\">Contacts: Code d'Armor</a>
       <a href=\"mailto:olivier@libre-en-fete-tregor.fr\">, Olivier</a>"
   ),
