@@ -210,7 +210,7 @@ $data_partenaires = array (
    array(
       "Coopérative22",
       "img/coop22.png",
-      "",
+      "https://twitter.com/cpn22",
       "La coopérative, c’est :
       <ul><li>l’ensemble des établissements scolaires du département qui peuvent accueillir ou proposer des animations autour du numérique</li>
           <li>un point central : les sites pilotes qui fédèrent l’ensemble des initiatives du terrain et proposent de nombreuses animations et temps d’échanges entre pairs</li>
