@@ -202,6 +202,16 @@ $data_partenaires = array (
       "Code d'Armor a pour but de construire une communauté de développeurs sur la région de Lannion. Nous organisons des évènements autour du monde du développement informatique.<br> Passionnés, intéressés, motivés, interloqués, vous êtes tous les bienvenus !"
    ),
    array(
+      "Conseil Départemental",
+      "img/Bloc_cg22_2013_quadri.jpg",
+      "http://cotesdarmor.fr/",
+      "Le Conseil Départemental et ses partenaires libèrent leurs données ! Accompagnant le grand mouvement Open Data en France et dans le monde entier, le portail DAT'ARMOR est né.<br>
+       <b>L'open data, c'est quoi ?</b>
+       L’open data (\"Données ouvertes\") désigne un mouvement visant à rendre accessibles via Internet les données numériques que les collectivités et les administrations produisent ou reçoivent dans leurs activités quotidiennes. Les données libérées sur le portail DAT'ARMOR touchent des domaines aussi variés que le transport, le social, le tourisme, l'éducation, la culture, le sport ou l'urbanisme. Ces données dites ouvertes sont accessibles librement et gratuitement et peuvent être réutilisées par tout un chacun. Plus précisément, l’open data a pour principe de fournir des données brutes pour en faciliter la réutilisation.<br>
+       <b>L'Open Data, pour qui ?</b>
+       Pour tout le monde ! A titre d'exemple, les entreprises peuvent y trouver matière à proposer de nouvelles applications et des services innovants dédiés aux smartphones et aux tablettes; le grand public peut y trouver des informations propres à enrichir sa culture générale; les journalistes peuvent y dénicher des informations destinées à leurs articles; les chercheurs des éléments susceptibles d'alimenter leurs études ou leurs travaux."
+   ),
+   array(
       "Coopérative22",
       "img/coop22.png",
       "https://twitter.com/cpn22",
