@@ -43,11 +43,11 @@
 
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
                     <p>
-                    Il peut sembler étonnant d'associer l'adjectif libre au mot logiciel et pourtant le logiciel libre, par opposition au logiciel propriétaire est désormais partout. Il est sur votre portable, sans lui point d'Internet, il permet de redonner une seconde jeunesse à des ordinateurs, il propose des alternatives efficaces pour monter des films, créer des documents ou gérer des photos.
+                    Il peut sembler étonnant d'associer l'adjectif libre au mot logiciel et pourtant le logiciel libre, par opposition au logiciel propriétaire, est désormais partout. Il est sur votre portable, sans lui point d'Internet, il permet de redonner une seconde jeunesse à des ordinateurs, il propose des alternatives efficaces pour monter des films, créer des documents ou gérer des photos.
                     </p>
                     <p>
                     Libre par nature, il ne bénéficie pas de campagnes marketing et demeure méconnu. Le logiciel libre, porteur de valeurs d'entraide et de coopération, est un bien commun accessible à tous favorisant le partage des connaissances. Il représente ainsi un patrimoine immatériel façonnant le quotidien numérique de chacun.
-                    A travers des animations gratuites, les Trégorrois pourront découvrir ou redécouvrir la richesse du logiciel libre.
+                    A travers des animations gratuites, le public pourra découvrir ou redécouvrir la richesse du logiciel libre.
                     </p>
                 </div>
             </div>

@@ -25,7 +25,7 @@ $data_programme = array (
  </tr>
    <tr>
    <td>11h00</td>
-   <td>Politique du numérique et territoire: enjeux et ambitions</td>
+   <td>Politique du numérique et territoire : enjeux et ambitions</td>
    <td></td>
  </tr>
  <tr>
@@ -65,12 +65,12 @@ $data_programme = array (
  </tr>
  <tr>
    <td>16h00</td>
-   <td>ONAP, Une plateforme Open Source pour les Telecoms</td>
+   <td>ONAP, une plateforme Open Source pour les Télécoms</td>
    <td>Huawei</td>
  </tr>
  <tr>
    <td>16h30</td>
-   <td>Cartographie et géomatique: un monde ouvert</td>
+   <td>Cartographie et géomatique : un monde ouvert</td>
    <td>E.Lefeuvre (LTC), F.Huguen (Ville Lannion)</td>
  </tr>
    <tr>
@@ -82,15 +82,15 @@ $data_programme = array (
 "
   ),
   array(
-     "Explorer: numérique & territoire",
+     "Explorer : numérique & territoire",
      "img/C6y83-TWgAARMU7.jpg",
      "",
      "<ul>
         <li>Lannion 2030</li>
         <li>Cartographie participative</li>
-        <li><a href=\"https://www.thethingsnetwork.org/community/lannion/\">The Thing Network Lannion</a>, un réseau collaboratif pour l'Internet des objets sur le Trégor</li>
+        <li><a href=\"https://www.thethingsnetwork.org/community/lannion/\">The Thing Network Lannion</a>, un réseau collaboratif pour l'Internet des Objets sur le Trégor</li>
       </ul>
-      <br><a href=\"mailto:frederic@libre-en-fete-tregor.fr\">Contact: Frédéric</a>"
+      <br><a href=\"mailto:frederic@libre-en-fete-tregor.fr\">Contact : Frédéric</a>"
   ),
   array(
      "Comprendre: numérique et enjeux citoyens",
@@ -98,10 +98,10 @@ $data_programme = array (
      "",
      "<ul>
       <li>Open Data</li>
-      <li>Données personnelles: les risques et les parades</li>
+      <li>Données personnelles : les risques et les parades</li>
       <li>Démocratie participative et numérique</li>
       </ul>
-      <br><a href=\"mailto:eric@libre-en-fete-tregor.fr\">Contact: Eric</a>"
+      <br><a href=\"mailto:eric@libre-en-fete-tregor.fr\">Contact : Eric</a>"
   ),
   array(
      "Jouer",
@@ -113,18 +113,21 @@ $data_programme = array (
       <li>Ordinateurs et consoles vintage</li>
      </ul>
      <br>
-     <a href=\"mailto:patrice@libre-en-fete-tregor.fr\">Contact: Patrice</a>"
+     <a href=\"mailto:patrice@libre-en-fete-tregor.fr\">Contact : Patrice</a>"
   ),
   array(
      "Apprendre",
      "img/33940617933_259c4a281a_z.jpg",
      "",
      "<ul>
-      <li>Code pour les enfants et ... les adultes</li>
-      <li>Install party: redonnez vie à un ordinateur...</li>
-      <li>Autoconstruction: Apprendre à réaliser un butaphone, un chauffe eau à bois ou un Rocket Stove ...</li>
-      <li>Espace conférence (programmation en cours)</li>
-      <br><a href=\"mailto:codedarmor@libre-en-fete-tregor.fr\">Contacts: Code d'Armor</a>
+      <li>Découverte du code pour les enfants et les adultes</li>
+      <li>Redonner vie à son ordinateur lors d'une install party</li>
+      <li>Apprendre à réaliser des autoconstructions comme des butaphones, chauffes eau à bois ou des rockets stove ...</li>
+      <li>Manipuler des robots et des appareils réalisables soi-même</li>
+      <li>Prendre en main des logiciels libres et respectueux</li>
+      <li>Voir comme Linux est arrivé dans les écoles</li>
+      </ul>
+      <br><a href=\"mailto:codedarmor@libre-en-fete-tregor.fr\">Contacts : Code d'Armor</a>
       <a href=\"mailto:olivier@libre-en-fete-tregor.fr\">, Olivier</a>"
   ),
   array(
@@ -132,25 +135,25 @@ $data_programme = array (
      "img/20170510_214516.jpg",
      "",
      "<ul>
-      <li>Hackathons: concours de codage <a href=\"https://adalovelace.ledantec-numerique.fr/\">Ada Lovelace</a></li>
-      <li>Espace pro: à la rencontre des acteurs du numérique du territoire</li>
-      <li>Fablab: imprimantes 3D, électronique, bonnes idées et bonne humeur. Le <a href=\"http://www.fablab-lannion.org/\">fablab de Lannion</a> vous dit tout</li>
+      <li>Hackathon : concours de codage <a href=\"https://adalovelace.ledantec-numerique.fr/\">Ada Lovelace</a></li>
+      <li>Espace pro : à la rencontre des acteurs du numérique du territoire</li>
+      <li>Fablab : imprimantes 3D, électronique, bonnes idées et bonne humeur. Le <a href=\"http://www.fablab-lannion.org/\">fablab de Lannion</a> vous dit tout</li>
       </ul>
-     <br><a href=\"mailto:jerome@libre-en-fete-tregor.fr\">Contacts: Jérôme</a>
+     <br><a href=\"mailto:jerome@libre-en-fete-tregor.fr\">Contacts : Jérôme</a>
       <a href=\"mailto:agnes@libre-en-fete-tregor.fr\">, Agnès</a>"
   ),
   array(
      "Découvrir",
      "img/4979030420_77b090328d_z.jpg",
      "",
-     "A chaque usage, des logiciels libres à votre service. Plus de 1600 logiciels référencés en français par <a href=\"https://framalibre.org/\">Framasoft</a>, il y a forcément les votres...venez en découvrir quelques uns.<ul>
-      <li>Multimédia: MComix, VLC, audacity, kdenlive, blender,...  </li>
-      <li>Bureautique: Libre Office, OpenDyslexic, Okular, Abricotine,...</li>
-      <li>Internet, mail: Firefox, Thunderbird, Netguard, Pidgin, Transmission, QupZilla,...</li>
-      <li>Jeux: Xonotic, Freeciv, MineTest, Super Tux Kart, The Battle for Wesnoth, ...</li>
+     "A chaque usage, des logiciels libres à votre service. Plus de 1600 logiciels référencés en français par <a href=\"https://framalibre.org/\">Framasoft</a>, il y a forcément les vôtres... Venez en découvrir quelques-uns :<ul>
+      <li>Multimédia : MComix, VLC, audacity, kdenlive, blender,...  </li>
+      <li>Bureautique : Libre Office, OpenDyslexic, Okular, Abricotine,...</li>
+      <li>Internet, mail : Firefox, Thunderbird, Netguard, Pidgin, Transmission, QupZilla,...</li>
+      <li>Jeux : Xonotic, Freeciv, MineTest, Super Tux Kart, The Battle for Wesnoth, ...</li>
       <li>Et bien d'autres....</li>
       </ul>
-      <br><a href=\"mailto:joel@libre-en-fete-tregor.fr\">Contacts: Joël</a>"
+      <br><a href=\"mailto:joel@libre-en-fete-tregor.fr\">Contact : Joël</a>"
   ),
 );
 Flight::set('data_programme', $data_programme);
@@ -160,7 +163,7 @@ $data_partenaires = array (
       "Aleccor",
       "img/logo_aleccor.jpg",
       "http://www.aleccor.infini.fr",
-      "Les exOOOs d'Aleccor<br>Exercices éducatifs libres et gratuits programmés sous OpenOffice<br>Les exOOOs d'Aleccor sont des exercices éducatifs libres et gratuits, programmés sous OpenOffice et sous VoxOoFox (synthèse vocale). Ces exercices sont auto-correctifs.<br>Le but est de proposer des ressources éducatives pour les écoles, pour les enfants (en soutien) en eur permettant de travailler en autonomie (pas de note mais une valorisation du travail), mais aussi pour les personnes en difficulté (illettrisme) ou pour qui le français est une langue étrangère.<br>Plus de 1 000 exercices sont actuellement disponibles dans de nombreuses matières.(Français, Calcul, Histoire, Géographie, Sciences, Anglais, Éducation civique,...)"
+      "Les exOOOs d'Aleccor sont des exercices éducatifs libres et gratuits, programmés sous OpenOffice et sous VoxOoFox (synthèse vocale). Ces exercices sont auto-correctifs.<br>Le but est de proposer des ressources éducatives pour les écoles, pour les enfants (en soutien) en leur permettant de travailler en autonomie (pas de note mais une valorisation du travail), mais aussi pour les personnes en difficulté (illettrisme) ou pour qui le français est une langue étrangère.<br>Plus de 1 000 exercices sont actuellement disponibles dans de nombreuses matières (Français, Calcul, Histoire, Géographie, Sciences, Anglais, Éducation civique,...)"
    ),
    array(
       "Anticipa",
@@ -168,14 +171,14 @@ $data_partenaires = array (
       "http://technopole-anticipa.com/",
       "<h3>UN TRIO GAGNANT AU SERVICE DE VOS PROJETS D’ENTREPRISE</h3><p>
       Depuis 25 ans, Anticipa <b></b>développe l’économie, encourage l’innovation </b> et <b>stimule l’esprit d’entreprendre </b> sur le territoire du Trégor-Goëlo. Anticipa, c’est UNE technopole, UNE agence de développement et UNE plate-forme d’initiative locale (Trégor Initiative) au cœur d’un réseau  composé d’industriels, de porteurs de projets, de chercheurs, d’enseignants, d’étudiants et d’institutionnels.<br>
-      Anticipa concentre ses actions autour de <b>6 filières d’excellence </b>: numérique, photonique, cosmétique - biotech, alimentation-nutrition, naval-Nautisme  et industrie. Elle <b>accompagne et soutient les projets </b> (individuels ou collaboratifs) issus de ces filières quelque soit leur nature (création, implantation, développement, internationalisation…) et <b> anime </b> les filières par l’organisation de divers événements dédiés (colloque, rencontres, focus, formation…).<br>
+      Anticipa concentre ses actions autour de <b>6 filières d’excellence </b>: numérique, photonique, cosmétique - biotech, alimentation-nutrition, naval-nautisme  et industrie. Elle <b>accompagne et soutient les projets </b> (individuels ou collaboratifs) issus de ces filières quelle que soit leur nature (création, implantation, développement, internationalisation…) et <b> anime </b> les filières par l’organisation de divers événements dédiés (colloques, rencontres, focus, formations…).<br>
       La technopole Anticipa est à l’écoute de tous et propose un accompagnement sur mesure à tous les projets d’entreprise.</p>"
    ),
   array(
       "An Drouizig",
       "img/mw_drouizig.png",
       "http://www.drouizig.org/",
-      "An Drouizig est une association de promotion de la langue bretonne sur les nouvelles technologies, notamment par la traduction de logiciels et par la réalisation de correcteurs orthographiques<br>Ur gevredigezh a gas war-raok ar brezhoneg war ar c'halverezhioù nevez eo An Drouizig. He obererezhioù pennañ a zo troidigezh meziantoù ha diorroadur un difazier reizhskrivadur."
+      "An Drouizig est une association de promotion de la langue bretonne sur les nouvelles technologies, notamment par la traduction de logiciels et par la réalisation de correcteurs orthographiques.<br>Ur gevredigezh a gas war-raok ar brezhoneg war ar c'halverezhioù nevez eo An Drouizig. He obererezhioù pennañ a zo troidigezh meziantoù ha diorroadur un difazier reizhskrivadur."
    ),
    array(
       "April",
@@ -195,7 +198,7 @@ $data_partenaires = array (
       "Code d'Armor",
       "img/codedarmor.png",
       "http://www.codedarmor.fr/",
-      "Code d'Armor a pour but de construire une communauté de développeurs sur la région de Lannion. Nous organisons des évènements autour du monde du développement informatique.<br> Passionnés, intéressés, motivés, interloqués, vous êtes tous les bienvenus !"
+      "Code d'Armor a pour but de construire une communauté de développeurs sur la région de Lannion. Nous organisons des évènements autour du monde du développement informatique (meetups, codelabs, concours, ...).<br> Passionnés, intéressés, motivés, interloqués, vous êtes tous les bienvenus !"
    ),
    array(
       "Conseil Départemental",
@@ -205,7 +208,7 @@ $data_partenaires = array (
        <b>L'open data, c'est quoi ?</b>
        L’open data (\"Données ouvertes\") désigne un mouvement visant à rendre accessibles via Internet les données numériques que les collectivités et les administrations produisent ou reçoivent dans leurs activités quotidiennes. Les données libérées sur le portail DAT'ARMOR touchent des domaines aussi variés que le transport, le social, le tourisme, l'éducation, la culture, le sport ou l'urbanisme. Ces données dites ouvertes sont accessibles librement et gratuitement et peuvent être réutilisées par tout un chacun. Plus précisément, l’open data a pour principe de fournir des données brutes pour en faciliter la réutilisation.<br>
        <b>L'Open Data, pour qui ?</b>
-       Pour tout le monde ! A titre d'exemple, les entreprises peuvent y trouver matière à proposer de nouvelles applications et des services innovants dédiés aux smartphones et aux tablettes; le grand public peut y trouver des informations propres à enrichir sa culture générale; les journalistes peuvent y dénicher des informations destinées à leurs articles; les chercheurs des éléments susceptibles d'alimenter leurs études ou leurs travaux."
+       Pour tout le monde ! A titre d'exemple, les entreprises peuvent y trouver matière à proposer de nouvelles applications et des services innovants dédiés aux smartphones et aux tablettes ; le grand public peut y trouver des informations propres à enrichir sa culture générale ; les journalistes peuvent y dénicher des informations destinées à leurs articles ; les chercheurs des éléments susceptibles d'alimenter leurs études ou leurs travaux."
    ),
    array(
       "Coopérative22",
@@ -217,7 +220,7 @@ $data_partenaires = array (
       </ul><br>
 	  Pour les Côtes d’Armor :
 	  <ul><li>Ecole Morand-Savidan à Lannion</li>
-	  <li></li>Collège Yves Coppens à Lannion</li>
+	  <li>Collège Yves Coppens à Lannion</li>
       <li>Lycée Félix Le Dantec à Lannion</li></ul><br>
       La coopérative, ça permet de :
       <ul><li>participer à des animations autour de la pédagogie et du numérique</li>
@@ -230,7 +233,7 @@ $data_partenaires = array (
       "Ecocentre",
       "img/ecocentre.png",
       "http://www.ecocentre-tregor.fr/",
-      "L'ECOCENTRE est un lieu de rencontres, de fêtes, de partage et d'échange autour notamment de l'écologie (mais pas que !).<br>L'association propose tout au long de l'année des stages très divers à des prix accessibles dans le but de transmettre et partager des connaissances au plus grand nombre"
+      "L'ECOCENTRE est un lieu de rencontres, de fêtes, de partage et d'échange autour notamment de l'écologie (mais pas que !).<br>L'association propose tout au long de l'année des stages très divers à des prix accessibles dans le but de transmettre et partager des connaissances au plus grand nombre."
    ),
  array(
       "ENSSAT",
@@ -262,7 +265,7 @@ $data_partenaires = array (
       "Kristal",
       "img/kristal.png",
       "http://kristal.io/fr/",
-      "Lancée en février 2015, Kristal propose, avec son framework Open Source Cobalt, un nouvel outil pour développer des applications mobiles, utilisant le Web afin de réduire les coûts tout en gardant des performances élevées. Cobalt, c'est aussi une association, les 'Cobaltians', qui a pour objet de faire connaître, promouvoir et améliorer le framework."
+      "Lancée en février 2015, Kristal propose, avec son framework Open Source <a href=\"http://cobaltians.org/\">Cobalt</a>, un nouvel outil pour développer des applications mobiles, utilisant le Web afin de réduire les coûts tout en gardant des performances élevées. Cobalt, c'est aussi une association, les \"Cobaltians\", qui a pour objet de faire connaître, promouvoir et améliorer le framework."
    ),
    array(
         "LanPower",
@@ -283,10 +286,10 @@ $data_partenaires = array (
       "L’association « Les Petits Débrouillards » met en place des activités scientifiques et techniques pour les jeunes, afin de promouvoir la démarche expérimentale et l'esprit critique auprès du plus grand nombre."
    ),
     array(
-      "Lycée le Dantec",
+      "Lycée Le Dantec",
       "img/LeDANTEC.png",
       "http://www.lycee-ledantec.ac-rennes.fr/",
-      "Lycée public de Lannion, Félix le Dantec s'implique depuis plusieurs années dans le Logiciel Libre et depuis 3 ans organise chaque année une 'InstallParty & Initiation à GNU/Linux'. Nombre d'élèves (de STI et SSI) et étudiants (BTS/Licences Pro) ont été formés à l'usage et au développement sur le Logiciel Libre et l'Open Hardware."
+      "Lycée public de Lannion, Félix Le Dantec s'implique depuis plusieurs années dans le Logiciel Libre et depuis 3 ans organise chaque année une 'InstallParty & Initiation à GNU/Linux'. Nombre d'élèves (de STI et SSI) et étudiants (BTS/Licences Pro) ont été formés à l'usage et au développement sur le Logiciel Libre et l'Open Hardware."
    ),
    array(
      "Nerzh Nevez",
@@ -506,12 +509,10 @@ Au-delà de ces quelques exemples non exhaustifs, toutes vos contributions seron
   array(
      "Concours Ada Lovelace",
      "img/affiche_v2.png",
-     "http://adalovelace.lycee-ledantec.ac-rennes.fr/",
-     "Le challenge Ada Lovelace s’étend sur 3 mois : Inscription à partir du 13 Décembre 2016
-Concours ouvert à partir du 03 janvier 2017
-Sessions de formation de Janvier à début Mars, HTML/CSS, JavaScript langage & algorithmie, PHP & Bases de données et Utilisation Plateforme
-<br>
-Fin du concours prévue pendant le Libre en Fête le Samedi 25 Mars 2017, les équipes présenteront leur projet au public ainsi qu’au jury.<br>Présentation des application durant la journée et remise des prix 17h00"
+     "https://adalovelace.ledantec-numerique.fr/",
+     "Le challenge Ada Lovelace s’étend sur 3 mois : inscription à partir du 14 décembre 2017 et concours ouvert à partir du 08 janvier 2018, sessions de formation de janvier à début mars (HTML/CSS, JavaScript; langage & algorithmie, PHP & bases de données, utilisation de la plateforme).
+     <br>
+     Fin du concours prévue le vendredi 23 mars (minuit), puis les équipes présenteront leur projet au public ainsi qu’au jury pendant Libre en Fête (remise des prix à 17h00)."
   )
  );
 Flight::set('data_concours', $data_concours);
