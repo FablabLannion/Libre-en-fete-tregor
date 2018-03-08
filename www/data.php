@@ -25,7 +25,7 @@ $data_programme = array (
  </tr>
    <tr>
    <td>11h00</td>
-   <td>Politique du numérique et territoire: enjeux et ambitions</td>
+   <td>Politique du numérique et territoire : enjeux et ambitions</td>
    <td></td>
  </tr>
  <tr>
@@ -65,12 +65,12 @@ $data_programme = array (
  </tr>
  <tr>
    <td>16h00</td>
-   <td>ONAP, Une plateforme Open Source pour les Telecoms</td>
+   <td>ONAP, une plateforme Open Source pour les Télécoms</td>
    <td>Huawei</td>
  </tr>
  <tr>
    <td>16h30</td>
-   <td>Cartographie et géomatique: un monde ouvert</td>
+   <td>Cartographie et géomatique : un monde ouvert</td>
    <td>E.Lefeuvre (LTC), F.Huguen (Ville Lannion)</td>
  </tr>
    <tr>
@@ -82,15 +82,15 @@ $data_programme = array (
 "
   ),
   array(
-     "Explorer: numérique & territoire",
+     "Explorer : numérique & territoire",
      "img/C6y83-TWgAARMU7.jpg",
      "",
      "<ul>
         <li>Lannion 2030</li>
         <li>Cartographie participative</li>
-        <li><a href=\"https://www.thethingsnetwork.org/community/lannion/\">The Thing Network Lannion</a>, un réseau collaboratif pour l'Internet des objets sur le Trégor</li>
+        <li><a href=\"https://www.thethingsnetwork.org/community/lannion/\">The Thing Network Lannion</a>, un réseau collaboratif pour l'Internet des Objets sur le Trégor</li>
       </ul>
-      <br><a href=\"mailto:frederic@libre-en-fete-tregor.fr\">Contact: Frédéric</a>"
+      <br><a href=\"mailto:frederic@libre-en-fete-tregor.fr\">Contact : Frédéric</a>"
   ),
   array(
      "Comprendre: numérique et enjeux citoyens",
@@ -98,10 +98,10 @@ $data_programme = array (
      "",
      "<ul>
       <li>Open Data</li>
-      <li>Données personnelles: les risques et les parades</li>
+      <li>Données personnelles : les risques et les parades</li>
       <li>Démocratie participative et numérique</li>
       </ul>
-      <br><a href=\"mailto:eric@libre-en-fete-tregor.fr\">Contact: Eric</a>"
+      <br><a href=\"mailto:eric@libre-en-fete-tregor.fr\">Contact : Eric</a>"
   ),
   array(
      "Jouer",
@@ -113,7 +113,7 @@ $data_programme = array (
       <li>Ordinateurs et consoles vintage</li>
      </ul>
      <br>
-     <a href=\"mailto:patrice@libre-en-fete-tregor.fr\">Contact: Patrice</a>"
+     <a href=\"mailto:patrice@libre-en-fete-tregor.fr\">Contact : Patrice</a>"
   ),
   array(
      "Apprendre",
@@ -126,9 +126,8 @@ $data_programme = array (
       <li>Manipuler des robots et des appareils réalisables soi-même</li>
       <li>Prendre en main des logiciels libres et respectueux</li>
       <li>Voir comme Linux est arrivé dans les écoles</li>
-      <li>Espace conférence (programmation en cours)</li>
       </ul>
-      <br><a href=\"mailto:codedarmor@libre-en-fete-tregor.fr\">Contacts: Code d'Armor</a>
+      <br><a href=\"mailto:codedarmor@libre-en-fete-tregor.fr\">Contacts : Code d'Armor</a>
       <a href=\"mailto:olivier@libre-en-fete-tregor.fr\">, Olivier</a>"
   ),
   array(
@@ -136,25 +135,25 @@ $data_programme = array (
      "img/20170510_214516.jpg",
      "",
      "<ul>
-      <li>Hackathons: concours de codage <a href=\"https://adalovelace.ledantec-numerique.fr/\">Ada Lovelace</a></li>
-      <li>Espace pro: à la rencontre des acteurs du numérique du territoire</li>
-      <li>Fablab: imprimantes 3D, électronique, bonnes idées et bonne humeur. Le <a href=\"http://www.fablab-lannion.org/\">fablab de Lannion</a> vous dit tout</li>
+      <li>Hackathon : concours de codage <a href=\"https://adalovelace.ledantec-numerique.fr/\">Ada Lovelace</a></li>
+      <li>Espace pro : à la rencontre des acteurs du numérique du territoire</li>
+      <li>Fablab : imprimantes 3D, électronique, bonnes idées et bonne humeur. Le <a href=\"http://www.fablab-lannion.org/\">fablab de Lannion</a> vous dit tout</li>
       </ul>
-     <br><a href=\"mailto:jerome@libre-en-fete-tregor.fr\">Contacts: Jérôme</a>
+     <br><a href=\"mailto:jerome@libre-en-fete-tregor.fr\">Contacts : Jérôme</a>
       <a href=\"mailto:agnes@libre-en-fete-tregor.fr\">, Agnès</a>"
   ),
   array(
      "Découvrir",
      "img/4979030420_77b090328d_z.jpg",
      "",
-     "A chaque usage, des logiciels libres à votre service. Plus de 1600 logiciels référencés en français par <a href=\"https://framalibre.org/\">Framasoft</a>, il y a forcément les votres...venez en découvrir quelques uns.<ul>
-      <li>Multimédia: MComix, VLC, audacity, kdenlive, blender,...  </li>
-      <li>Bureautique: Libre Office, OpenDyslexic, Okular, Abricotine,...</li>
-      <li>Internet, mail: Firefox, Thunderbird, Netguard, Pidgin, Transmission, QupZilla,...</li>
-      <li>Jeux: Xonotic, Freeciv, MineTest, Super Tux Kart, The Battle for Wesnoth, ...</li>
+     "A chaque usage, des logiciels libres à votre service. Plus de 1600 logiciels référencés en français par <a href=\"https://framalibre.org/\">Framasoft</a>, il y a forcément les vôtres... Venez en découvrir quelques-uns :<ul>
+      <li>Multimédia : MComix, VLC, audacity, kdenlive, blender,...  </li>
+      <li>Bureautique : Libre Office, OpenDyslexic, Okular, Abricotine,...</li>
+      <li>Internet, mail : Firefox, Thunderbird, Netguard, Pidgin, Transmission, QupZilla,...</li>
+      <li>Jeux : Xonotic, Freeciv, MineTest, Super Tux Kart, The Battle for Wesnoth, ...</li>
       <li>Et bien d'autres....</li>
       </ul>
-      <br><a href=\"mailto:joel@libre-en-fete-tregor.fr\">Contacts: Joël</a>"
+      <br><a href=\"mailto:joel@libre-en-fete-tregor.fr\">Contact : Joël</a>"
   ),
 );
 Flight::set('data_programme', $data_programme);
