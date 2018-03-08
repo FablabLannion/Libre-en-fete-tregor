@@ -163,7 +163,7 @@ $data_partenaires = array (
       "Aleccor",
       "img/logo_aleccor.jpg",
       "http://www.aleccor.infini.fr",
-      "Les exOOOs d'Aleccor<br>Exercices éducatifs libres et gratuits programmés sous OpenOffice<br>Les exOOOs d'Aleccor sont des exercices éducatifs libres et gratuits, programmés sous OpenOffice et sous VoxOoFox (synthèse vocale). Ces exercices sont auto-correctifs.<br>Le but est de proposer des ressources éducatives pour les écoles, pour les enfants (en soutien) en eur permettant de travailler en autonomie (pas de note mais une valorisation du travail), mais aussi pour les personnes en difficulté (illettrisme) ou pour qui le français est une langue étrangère.<br>Plus de 1 000 exercices sont actuellement disponibles dans de nombreuses matières.(Français, Calcul, Histoire, Géographie, Sciences, Anglais, Éducation civique,...)"
+      "Les exOOOs d'Aleccor sont des exercices éducatifs libres et gratuits, programmés sous OpenOffice et sous VoxOoFox (synthèse vocale). Ces exercices sont auto-correctifs.<br>Le but est de proposer des ressources éducatives pour les écoles, pour les enfants (en soutien) en leur permettant de travailler en autonomie (pas de note mais une valorisation du travail), mais aussi pour les personnes en difficulté (illettrisme) ou pour qui le français est une langue étrangère.<br>Plus de 1 000 exercices sont actuellement disponibles dans de nombreuses matières (Français, Calcul, Histoire, Géographie, Sciences, Anglais, Éducation civique,...)"
    ),
    array(
       "Anticipa",
@@ -171,14 +171,14 @@ $data_partenaires = array (
       "http://technopole-anticipa.com/",
       "<h3>UN TRIO GAGNANT AU SERVICE DE VOS PROJETS D’ENTREPRISE</h3><p>
       Depuis 25 ans, Anticipa <b></b>développe l’économie, encourage l’innovation </b> et <b>stimule l’esprit d’entreprendre </b> sur le territoire du Trégor-Goëlo. Anticipa, c’est UNE technopole, UNE agence de développement et UNE plate-forme d’initiative locale (Trégor Initiative) au cœur d’un réseau  composé d’industriels, de porteurs de projets, de chercheurs, d’enseignants, d’étudiants et d’institutionnels.<br>
-      Anticipa concentre ses actions autour de <b>6 filières d’excellence </b>: numérique, photonique, cosmétique - biotech, alimentation-nutrition, naval-Nautisme  et industrie. Elle <b>accompagne et soutient les projets </b> (individuels ou collaboratifs) issus de ces filières quelque soit leur nature (création, implantation, développement, internationalisation…) et <b> anime </b> les filières par l’organisation de divers événements dédiés (colloque, rencontres, focus, formation…).<br>
+      Anticipa concentre ses actions autour de <b>6 filières d’excellence </b>: numérique, photonique, cosmétique - biotech, alimentation-nutrition, naval-nautisme  et industrie. Elle <b>accompagne et soutient les projets </b> (individuels ou collaboratifs) issus de ces filières quelle que soit leur nature (création, implantation, développement, internationalisation…) et <b> anime </b> les filières par l’organisation de divers événements dédiés (colloques, rencontres, focus, formations…).<br>
       La technopole Anticipa est à l’écoute de tous et propose un accompagnement sur mesure à tous les projets d’entreprise.</p>"
    ),
   array(
       "An Drouizig",
       "img/mw_drouizig.png",
       "http://www.drouizig.org/",
-      "An Drouizig est une association de promotion de la langue bretonne sur les nouvelles technologies, notamment par la traduction de logiciels et par la réalisation de correcteurs orthographiques<br>Ur gevredigezh a gas war-raok ar brezhoneg war ar c'halverezhioù nevez eo An Drouizig. He obererezhioù pennañ a zo troidigezh meziantoù ha diorroadur un difazier reizhskrivadur."
+      "An Drouizig est une association de promotion de la langue bretonne sur les nouvelles technologies, notamment par la traduction de logiciels et par la réalisation de correcteurs orthographiques.<br>Ur gevredigezh a gas war-raok ar brezhoneg war ar c'halverezhioù nevez eo An Drouizig. He obererezhioù pennañ a zo troidigezh meziantoù ha diorroadur un difazier reizhskrivadur."
    ),
    array(
       "April",
@@ -198,7 +198,7 @@ $data_partenaires = array (
       "Code d'Armor",
       "img/codedarmor.png",
       "http://www.codedarmor.fr/",
-      "Code d'Armor a pour but de construire une communauté de développeurs sur la région de Lannion. Nous organisons des évènements autour du monde du développement informatique.<br> Passionnés, intéressés, motivés, interloqués, vous êtes tous les bienvenus !"
+      "Code d'Armor a pour but de construire une communauté de développeurs sur la région de Lannion. Nous organisons des évènements autour du monde du développement informatique (meetups, codelabs, concours, ...).<br> Passionnés, intéressés, motivés, interloqués, vous êtes tous les bienvenus !"
    ),
    array(
       "Conseil Départemental",
@@ -208,7 +208,7 @@ $data_partenaires = array (
        <b>L'open data, c'est quoi ?</b>
        L’open data (\"Données ouvertes\") désigne un mouvement visant à rendre accessibles via Internet les données numériques que les collectivités et les administrations produisent ou reçoivent dans leurs activités quotidiennes. Les données libérées sur le portail DAT'ARMOR touchent des domaines aussi variés que le transport, le social, le tourisme, l'éducation, la culture, le sport ou l'urbanisme. Ces données dites ouvertes sont accessibles librement et gratuitement et peuvent être réutilisées par tout un chacun. Plus précisément, l’open data a pour principe de fournir des données brutes pour en faciliter la réutilisation.<br>
        <b>L'Open Data, pour qui ?</b>
-       Pour tout le monde ! A titre d'exemple, les entreprises peuvent y trouver matière à proposer de nouvelles applications et des services innovants dédiés aux smartphones et aux tablettes; le grand public peut y trouver des informations propres à enrichir sa culture générale; les journalistes peuvent y dénicher des informations destinées à leurs articles; les chercheurs des éléments susceptibles d'alimenter leurs études ou leurs travaux."
+       Pour tout le monde ! A titre d'exemple, les entreprises peuvent y trouver matière à proposer de nouvelles applications et des services innovants dédiés aux smartphones et aux tablettes ; le grand public peut y trouver des informations propres à enrichir sa culture générale ; les journalistes peuvent y dénicher des informations destinées à leurs articles ; les chercheurs des éléments susceptibles d'alimenter leurs études ou leurs travaux."
    ),
    array(
       "Coopérative22",
@@ -220,7 +220,7 @@ $data_partenaires = array (
       </ul><br>
 	  Pour les Côtes d’Armor :
 	  <ul><li>Ecole Morand-Savidan à Lannion</li>
-	  <li></li>Collège Yves Coppens à Lannion</li>
+	  <li>Collège Yves Coppens à Lannion</li>
       <li>Lycée Félix Le Dantec à Lannion</li></ul><br>
       La coopérative, ça permet de :
       <ul><li>participer à des animations autour de la pédagogie et du numérique</li>
@@ -233,7 +233,7 @@ $data_partenaires = array (
       "Ecocentre",
       "img/ecocentre.png",
       "http://www.ecocentre-tregor.fr/",
-      "L'ECOCENTRE est un lieu de rencontres, de fêtes, de partage et d'échange autour notamment de l'écologie (mais pas que !).<br>L'association propose tout au long de l'année des stages très divers à des prix accessibles dans le but de transmettre et partager des connaissances au plus grand nombre"
+      "L'ECOCENTRE est un lieu de rencontres, de fêtes, de partage et d'échange autour notamment de l'écologie (mais pas que !).<br>L'association propose tout au long de l'année des stages très divers à des prix accessibles dans le but de transmettre et partager des connaissances au plus grand nombre."
    ),
  array(
       "ENSSAT",
@@ -265,7 +265,7 @@ $data_partenaires = array (
       "Kristal",
       "img/kristal.png",
       "http://kristal.io/fr/",
-      "Lancée en février 2015, Kristal propose, avec son framework Open Source Cobalt, un nouvel outil pour développer des applications mobiles, utilisant le Web afin de réduire les coûts tout en gardant des performances élevées. Cobalt, c'est aussi une association, les 'Cobaltians', qui a pour objet de faire connaître, promouvoir et améliorer le framework."
+      "Lancée en février 2015, Kristal propose, avec son framework Open Source <a href=\"http://cobaltians.org/\">Cobalt</a>, un nouvel outil pour développer des applications mobiles, utilisant le Web afin de réduire les coûts tout en gardant des performances élevées. Cobalt, c'est aussi une association, les \"Cobaltians\", qui a pour objet de faire connaître, promouvoir et améliorer le framework."
    ),
    array(
         "LanPower",
@@ -286,10 +286,10 @@ $data_partenaires = array (
       "L’association « Les Petits Débrouillards » met en place des activités scientifiques et techniques pour les jeunes, afin de promouvoir la démarche expérimentale et l'esprit critique auprès du plus grand nombre."
    ),
     array(
-      "Lycée le Dantec",
+      "Lycée Le Dantec",
       "img/LeDANTEC.png",
       "http://www.lycee-ledantec.ac-rennes.fr/",
-      "Lycée public de Lannion, Félix le Dantec s'implique depuis plusieurs années dans le Logiciel Libre et depuis 3 ans organise chaque année une 'InstallParty & Initiation à GNU/Linux'. Nombre d'élèves (de STI et SSI) et étudiants (BTS/Licences Pro) ont été formés à l'usage et au développement sur le Logiciel Libre et l'Open Hardware."
+      "Lycée public de Lannion, Félix Le Dantec s'implique depuis plusieurs années dans le Logiciel Libre et depuis 3 ans organise chaque année une 'InstallParty & Initiation à GNU/Linux'. Nombre d'élèves (de STI et SSI) et étudiants (BTS/Licences Pro) ont été formés à l'usage et au développement sur le Logiciel Libre et l'Open Hardware."
    ),
    array(
      "Nerzh Nevez",
