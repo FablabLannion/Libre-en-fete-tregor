@@ -509,12 +509,10 @@ Au-delà de ces quelques exemples non exhaustifs, toutes vos contributions seron
   array(
      "Concours Ada Lovelace",
      "img/affiche_v2.png",
-     "http://adalovelace.lycee-ledantec.ac-rennes.fr/",
-     "Le challenge Ada Lovelace s’étend sur 3 mois : Inscription à partir du 13 Décembre 2016
-Concours ouvert à partir du 03 janvier 2017
-Sessions de formation de Janvier à début Mars, HTML/CSS, JavaScript langage & algorithmie, PHP & Bases de données et Utilisation Plateforme
-<br>
-Fin du concours prévue pendant le Libre en Fête le Samedi 25 Mars 2017, les équipes présenteront leur projet au public ainsi qu’au jury.<br>Présentation des application durant la journée et remise des prix 17h00"
+     "https://adalovelace.ledantec-numerique.fr/",
+     "Le challenge Ada Lovelace s’étend sur 3 mois : inscription à partir du 14 décembre 2017 et concours ouvert à partir du 08 janvier 2018, sessions de formation de janvier à début mars (HTML/CSS, JavaScript; langage & algorithmie, PHP & bases de données, utilisation de la plateforme).
+     <br>
+     Fin du concours prévue le vendredi 23 mars (minuit), puis les équipes présenteront leur projet au public ainsi qu’au jury pendant Libre en Fête (remise des prix à 17h00)."
   )
  );
 Flight::set('data_concours', $data_concours);
