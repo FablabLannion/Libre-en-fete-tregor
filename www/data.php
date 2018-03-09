@@ -14,22 +14,22 @@ $data_programme = array (
    <th>Présentateur</th>
  </tr>
  <tr>
-   <td>10h00</td>
+   <td>10h30</td>
    <td>Histoire & perspective du logiciel libre</td>
    <td>J.Labidurie (Fablab Lannion)</td>
  </tr>
  <tr>
-   <td>10h30</td>
+   <td>11h00</td>
    <td>Ordivintage : réparer un vieil ordinateur très abîmé</td>
    <td>Nicolas</td>
  </tr>
    <tr>
-   <td>11h00</td>
+   <td>11h30</td>
    <td>Politique du numérique et territoire : enjeux et ambitions</td>
    <td></td>
  </tr>
  <tr>
-   <td>11h45</td>
+   <td>12h15</td>
    <td>Remise des prix Concours OpenStreetMap</td>
    <td></td>
  </tr>
@@ -321,7 +321,13 @@ $data_partenaires = array (
       "https://sites.google.com/site/patglannion2010/",
       "Promouvoir et Agir en Trégor Goëlo (PATG) est une association axée sur l'aide aux particuliers et aux très petites entreprises du Trégor Goëlo. PATG tente de réduire la fracture sociale et la fracture technique en visant la reprise des relations humaines et la réinsertion sociale. L'informatique est utilisée comme support parce que c'est un élément qui permet facilement les rapprochements humains, et apporte un complément de connaissances utile pour l'emploi et la vie courante."
    ),
-array(
+   array(
+       "Telimed",
+       "img/logo_telimed_rond_cmjn.png",
+       "http://telimed.fr/",
+       " Créée en 2017, TELiMED propose un service basé sur des outils numériques adaptés et simples à utiliser, de manière à favoriser le maintien à domicile des personnes isolées, en s'appuyant sur les acteurs de proximité et en animant une communauté solidaire.
+       <br>TELiMED est soutenue par la Technopole Anticipa de Lannion et labellisé French Tech Brest+. Pour mettre en oeuvre notre projet, nous favorisons les partenariats locaux et travaillons avec les entreprises lannionnaises comme KRISTAL, 3DOuest et Feichter Electronics. Des projets de recherche sont également en cours avec l'ENSSAT et l'IUT."
+    ),array(
       "Titux.org",
       "img/logo-700x700-Titux.org.png",
       "https://www.titux.org/asso/doku.php",
@@ -378,9 +384,7 @@ $data_sponsors = array (
        "Espace pro",
        "img/Professional-People-Silhouette-800px.png",
        "",
-       "<ul><li>Un stand d’une surface d’environ 9 m2. Equipement : cloisons et mobilier (1 table et 3 chaises), alimentation électrique (3 prises), connexion internet. Si besoins spécifiques, prévenir à l’inscription.</li>
-       <li>Repas du midi, un accès à un point café </li><li>Une présence dans le guide du visiteur et sur la page internet de l’événement</li></ul>
-       <br><a href=\"mailto:agnes@libre-en-fete-tregor.fr\">Contacts: Agnès</a>"
+       "<a href=\"http://telimed.fr/\"><img src=\"img/logo_telimed_rond_cmjn_small.png\" height=\"100\" alt=\"Telimed\"></a></li>"
     )
  );
 Flight::set('data_sponsors', $data_sponsors);
