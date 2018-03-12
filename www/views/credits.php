@@ -82,10 +82,10 @@
    </li>
    <li>
       <a href="http://flightphp.com/"> FlightPHP</a>,
-      <a href="http://flightphp.com/license"> MIT </a>
+      <a href="https://github.com/mikecao/flight/blob/master/LICENSE"> MIT </a>
    </li>
    <li>
-      <a href="https://github.com/fablab-lannion/libre-en-fete-tregor"> Sources </a>
+      <a href="https://github.com/FablabLannion/Libre-en-fete-tregor"> Sources </a>
    </li>
 </ul>
 
