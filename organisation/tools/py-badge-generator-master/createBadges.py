@@ -4,25 +4,25 @@
 # Adaptations done for Libre en Fête en Trégor 2016
 # freely inspired by py-badge-generator-master
 # @colvert
-# 
+#
 # Impression avec gThumbs en format paysage 3x3
-# 
+#
 # This software is licensed under the MIT License
 #
 # The MIT License
-# 
+#
 # Copyright (c) 2007 Siddharta Govindaraj. All rights reserved.
-# 
+#
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
 # in the Software without restriction, including without limitation the rights
 # to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 # copies of the Software, and to permit persons to whom the Software is
 # furnished to do so, subject to the following conditions:
-# 
+#
 # The above copyright notice and this permission notice shall be included in
 # all copies or substantial portions of the Software.
-# 
+#
 # THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 # IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 # FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
@@ -30,7 +30,7 @@
 # LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 # THE SOFTWARE.
-# 
+#
 
 import os,sys,re
 import inspect
@@ -49,7 +49,7 @@ except:
     except:
         print("Install PIL or Pillow please")
 
-	
+
 class BadgeImage(object):
     def __init__(self, filename):
         self.debug = False
@@ -62,8 +62,8 @@ class BadgeImage(object):
         self.role = ""
         self.colorSeperator = "#" + triplet(BLACK)
         self.textColorCompany = "#" + "0099ff"
-        self.textColorPerson = "#2b2f61"
-        self.textColorAssociation = "#FFFFFF"
+        self.textColorPerson = "#FFFFFF"
+        self.textColorAssociation = "#2b2f61"
         self.textColorColor = "#" + triplet(BLACK)
 
     def reColor(self,color, srcFile, dstFile):
@@ -80,7 +80,7 @@ class BadgeImage(object):
 
     def drawCenteredText(self, pos, text, font):
         self.drawAlignedText(pos, unicode(text,'UTF-8'), font, lambda x,w:x-w/2, lambda y,h:y-h/2)
-        
+
     def drawLeftAlignedText(self, pos, text, font):
         self.drawAlignedText(pos, text, font, lambda x,w:x, lambda y,h:y-h)
 
@@ -99,56 +99,68 @@ class BadgeImage(object):
 
     # Ecriture de l'association
     def drawAssociation(self, name):
-        linepos = (self.img.size[0]/2, self.img.size[1]/9)
-        line1pos = (self.img.size[0]/2, 300)
-        line2pos = (self.img.size[0]/2, int(self.img.size[1]/1.7))
-        # regression linéaire à 2 balles donne un truc du genre delta = -5/9x + 40/3
-        delta = int((-5/9)*len(name)+40/3)
-        sizeCharAsso = 25 + delta
-        if sizeCharAsso > 30:
-			sizeCharAsso = 30
-						
+        linepos = (125, 85)
+        line1pos = (125, 85)
+        line2pos = (125, 105)
+        sizeCharAsso = 20
+
         size = self.getFitSize(sizeCharAsso, name)
-        if name.find(" ") >= 0:
-            firstname, rest = name.split(" ", 1)
-        else:
-            firstname, rest = (name, "")
+        rest = ""
+        if len(name) > 20:
+            if name.find('&') >= 0:
+                firstname, rest = name.split("&", 1)
+            else:
+                firstname, rest = (name, "")
+        if rest == "":
+            linepos = (125, 95)
+            line1pos = (125, 95)
+            sizeCharAsso = 24
+
         if size < sizeCharAsso and rest != "":
-            personFont = ImageFont.truetype(self.ttfFont, int(self.getFitSize(sizeCharAsso, firstname)*300/72))
-            self.drawCenteredText(line1pos, firstname, (personFont, self.textColorPerson))
-            personFont = ImageFont.truetype(self.ttfFont, int(self.getFitSize(sizeCharAsso, rest)*300/72))
+            personFont = ImageFont.truetype(self.ttfFont, sizeCharAsso)
+            self.drawCenteredText(line1pos, firstname, (personFont, self.textColorAssociation))
+            personFont = ImageFont.truetype(self.ttfFont, sizeCharAsso)
             self.drawCenteredText(line2pos, rest, (personFont, self.textColorAssociation))
         else:
-            personFont = ImageFont.truetype(self.ttfFont, int(self.getFitSize(sizeCharAsso, name)*300/72))
+            personFont = ImageFont.truetype(self.ttfFont, sizeCharAsso)
             self.drawCenteredText(linepos, name, (personFont, self.textColorAssociation))
 
     # Ecriture du nom de la personne
     def drawName(self, name):
-        linepos = (self.img.size[0]/2, self.img.size[1]/1.5)
-        line1pos = (self.img.size[0]/2, 300)
-        line2pos = (self.img.size[0]/2, int(self.img.size[1]/1.7))
+        # linepos = (self.img.size[0]/2, self.img.size[1]/1.5)
+        # line1pos = (self.img.size[0]/2, 300)
+        # line2pos = (self.img.size[0]/2, int(self.img.size[1]/1.7))
+        linepos = (120, 15)
+        line1pos = (120, 15)
+        line2pos = (120, 45)
 
-        if len(name) > 10 :
-			sizeCharName = 36
-        elif len(name) > 8 :
-			sizeCharName = 40
-        elif len(name) > 5:
-			sizeCharName = 42
-        else:
-			sizeCharName = 45
+        # if len(name) > 10 :
+		# 	sizeCharName = 36
+        # elif len(name) > 8 :
+		# 	sizeCharName = 40
+        # elif len(name) > 5:
+		# 	sizeCharName = 42
+        # else:
+		# 	sizeCharName = 45
+
+        sizeCharName = 26
 
         size = self.getFitSize(sizeCharName, name)
+
         if name.find(" ") >= 0:
             firstname, rest = name.split(" ", 1)
         else:
             firstname, rest = (name, "")
+            linepos = (120, 25)
+            line1pos = (120, 25)
+
         if size < sizeCharName and rest != "":
-            personFont = ImageFont.truetype(self.ttfFont, int(self.getFitSize(sizeCharName, firstname)*300/72))
+            personFont = ImageFont.truetype(self.ttfFont, sizeCharName)
             self.drawCenteredText(line1pos, firstname, (personFont, self.textColorPerson))
-            personFont = ImageFont.truetype(self.ttfFont, int(self.getFitSize(sizeCharName, rest)*300/72))
+            personFont = ImageFont.truetype(self.ttfFont, sizeCharName)
             self.drawCenteredText(line2pos, rest, (personFont, self.textColorPerson))
         else:
-            personFont = ImageFont.truetype(self.ttfFont, int(self.getFitSize(sizeCharName, name)*300/72))
+            personFont = ImageFont.truetype(self.ttfFont, sizeCharName)
             self.drawCenteredText(linepos, name, (personFont, self.textColorPerson))
 
     def drawColor(self, color):
@@ -178,27 +190,29 @@ class DataFileReader(object):
         for id, line in enumerate(self.lines):
             print line
             user = line.split(";")
-            
+
             yield (id, user[0], user[1], user[2])
-            
+
 # la couleur du badge définit l'espace
 def getBadgeTemplate(role):
-	if "Multimedia" in role:
-		return "badgeTemplate/badge_template_multimedia.png"
-	elif "Jeux" in role:
-		return "badgeTemplate/badge_template_jeux.png"
-	elif "Geek" in role:
-		return "badgeTemplate/badge_template_geek.png"
-	elif "Fablab" in role:
-		return "badgeTemplate/badge_template_fablab.png"
-	elif "Enfant" in role:
-		return "badgeTemplate/badge_template_enfant.png"
-	elif "Conférence" in role:
-		return "badgeTemplate/badge_template_conference.png"
+	if "Ada" in role:
+		return "badgeTemplate/badge_template_ada.png"
+	elif "Jouer" in role:
+		return "badgeTemplate/badge_template_jouer.png"
+	elif "Apprendre" in role:
+		return "badgeTemplate/badge_template_apprendre.png"
+	elif "Comprendre" in role:
+		return "badgeTemplate/badge_template_comprendre.png"
+	elif "Explorer" in role:
+		return "badgeTemplate/badge_template_explorer.png"
+	elif "Découvrir" in role:
+		return "badgeTemplate/badge_template_découvrir.png"
 	elif "Pro" in role:
-		return "badgeTemplate/badge_template_pro.png"
-	elif "Citoyen" in role:
-		return "badgeTemplate/badge_template_citoyen.png"
+		return "badgeTemplate/badge_template_entreprendre.png"
+	elif "Entreprendre" in role:
+		return "badgeTemplate/badge_template_entreprendre.png"
+	elif "Conférence" in role:
+		return "badgeTemplate/badge_template_conférences.png"
 	else:
 		return "Error"
 
@@ -211,16 +225,17 @@ else:
 count = 0
 for filename in filenames:
     reader = DataFileReader(filename + ".csv")
-    
+
     if not os.path.exists(filename):
         os.makedirs(filename)
-    
+
     for id, name, association,role in reader.getData():
-        print("Badge ID: {} - Name: {} - Association: {} - role {}".format(id, name, association, role))
+        print("Badge ID: {} - Name: {} - Association: {} - role: {}".format(id, name, association, role))
 
         badgeTemplate = getBadgeTemplate(role)
         badge = BadgeImage(badgeTemplate)
+
         badge.drawName(name)
         badge.drawAssociation(association)
-        
+
         badge.save(os.path.join(filename, filename + "_badge_" + str(id) + ".png"), False)

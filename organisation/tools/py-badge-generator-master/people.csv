@@ -1,12 +1,12 @@
-Olivier;Lycée Le Dantec;Ada
+Olivier Bald;Lycée Le Dantec;Ada
 Pierre-Yves Lapersonne;Code d'Armor;Apprendre
 Marc Poppleton;Code d'Armor;Apprendre
 Samuel Liard;Code d'Armor;Apprendre
 Charles Gibassier;Petits Débrouillards;Apprendre
 Corentin Dombre;Petits Débrouillards;Apprendre
-Catherine Milin;Coopérative Pédagogique Numérique 22;Apprendre
-Dominique Charles;Coopérative Pédagogique Numérique 22;Apprendre
-Maud Daré;ESPE de Bretagne / Education Nationale;Apprendre
+Catherine Milin;Coopérative Pédagogique&Numérique 22;Apprendre
+Dominique Charles;Coopérative Pédagogique&Numérique 22;Apprendre
+Maud Daré;ESPE de Bretagne&Education Nationale;Apprendre
 Jonathan Chevelu;ENSSAT;Apprendre
 Olivier Bald;Lycée Félix Le Dantec;Apprendre
 Laurent Aubertin;Tripalium;Apprendre
@@ -43,7 +43,7 @@ Bernard;Titux.org;Découvrir
 Thierry;Titux.org;Découvrir
 Bertrand;Titux.org;Découvrir
 Maurice;Titux.org;Découvrir
-Titouan;Collège Charles Le Goffic;Découvrir
+Titouan;Collège&Charles Le Goffic;Découvrir
 Morgan;Fablab Lannion;Entreprendre
 Tangi;Fablab Lannion;Entreprendre
 Agnès;Anticipa;Entreprendre
@@ -63,27 +63,32 @@ Jonathan;Lycée le Dantec;Explorer
 Matias;Lycée le Dantec;Explorer
 Erwan;LTC;Explorer
 Patrice;Lanpower;Jouer
-Sponsor;Orange;Pro
-Sponsor;Orange;Pro
+Sponsor;Orange;Conférence
+Sponsor;Orange;Conférence
+Sponsor;Orange;Conférence
+Sponsor;Orange;Conférence
+Sponsor;Ixia&Keysight Business;Conférence
 Gaëlle;Orange Solidarité;Pro
 Elisabeth;Orange Solidarité;Pro
 Yvon;Orange Solidarité;Pro
-Sponsor;Huawei;Pro
-Sponsor;Huawei;Pro
+Sponsor;Huawei;Conférence
+Sponsor;Huawei;Conférence
+Sponsor;Huawei;Conférence
+Sponsor;Huawei;Conférence
 Cédric;Nokia;Pro
-Emmanuelle;jury;Ada
-Vanessa;jury;Ada
-Hélène;jury;Ada
-Myriam;jury;Ada
-Ludivine;organisation;Ada
-Frédérick;organisation;Ada
-David;organisation;Ada
+Emmanuelle;Jury;Ada
+Vanessa;Jury;Ada
+Hélène;Jury;Ada
+Myriam;Jury;Ada
+Ludivine;Organisation;Ada
+Frédérick;Organisation;Ada
+David;Organisation;Ada
 Françoise;Elles bougent;Ada
-Constance;tutrice;Ada
-Pauline;tutrice;Ada
-Liocha;tutrice;Ada
-Marie;tutrice;Ada
-Christelle;tutrice;Ada
-Camille;tutrice;Ada
-Annaïg;tutrice;Ada
-Jonathan;organisation;Ada
+Constance;Tutrice;Ada
+Pauline;Tutrice;Ada
+Liocha;Tutrice;Ada
+Marie;Tutrice;Ada
+Christelle;Tutrice;Ada
+Camille;Tutrice;Ada
+Annaïg;Tutrice;Ada
+Jonathan;Organisation;Ada
