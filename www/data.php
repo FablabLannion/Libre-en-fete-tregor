@@ -6,7 +6,7 @@ $data_programme = array (
      "Conférences",
      "img/espace-conf.jpg",
      "",
-     "Des mini-conférences seront proposées tout au long de la journée.
+     "Des mini-conférences seront proposées tout au long de la journée. <br/>
      <table>
  <tr>
    <th>Horaire</th>
