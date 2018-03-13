@@ -163,7 +163,7 @@ $data_partenaires = array (
       "Aleccor",
       "img/logo_aleccor.jpg",
       "http://www.aleccor.infini.fr",
-      "Les exOOOs d'Aleccor sont des exercices éducatifs libres et gratuits, programmés sous OpenOffice et sous VoxOoFox (synthèse vocale). Ces exercices sont auto-correctifs.<br>Le but est de proposer des ressources éducatives pour les écoles, pour les enfants (en soutien) en leur permettant de travailler en autonomie (pas de note mais une valorisation du travail), mais aussi pour les personnes en difficulté (illettrisme) ou pour qui le français est une langue étrangère.<br>Plus de 1 000 exercices sont actuellement disponibles dans de nombreuses matières (Français, Calcul, Histoire, Géographie, Sciences, Anglais, Éducation civique,...)"
+      "Les exOOOs d'Aleccor sont des exercices éducatifs libres et gratuits, programmés sous OpenOffice et sous VoxOoFox (synthèse vocale). Ces exercices sont auto-correctifs.<br>Le but est de proposer des ressources éducatives pour les écoles, pour les enfants (en soutien) en leur permettant de travailler en autonomie (pas de note mais une valorisation du travail), mais aussi pour les personnes en difficulté (illettrisme) ou pour qui le français est une langue étrangère.<br>Plus de 1 000 exercices sont actuellement disponibles dans de nombreuses matières (Français, Calcul, Histoire, Géographie, Sciences, Anglais, Éducation civique, ...)"
    ),
    array(
       "Anticipa",
@@ -326,7 +326,7 @@ $data_partenaires = array (
        "img/logo_telimed_rond_cmjn.png",
        "http://telimed.fr/",
        " Créée en 2017, TELiMED propose un service basé sur des outils numériques adaptés et simples à utiliser, de manière à favoriser le maintien à domicile des personnes isolées, en s'appuyant sur les acteurs de proximité et en animant une communauté solidaire.
-       <br>TELiMED est soutenue par la Technopole Anticipa de Lannion et labellisé French Tech Brest+. Pour mettre en oeuvre notre projet, nous favorisons les partenariats locaux et travaillons avec les entreprises lannionnaises comme KRISTAL, 3DOuest et Feichter Electronics. Des projets de recherche sont également en cours avec l'ENSSAT et l'IUT."
+       <br>TELiMED est soutenue par la Technopole Anticipa de Lannion et labellisé French Tech Brest+. Pour mettre en oeuvre notre projet, nous favorisons les partenariats locaux et travaillons avec les entreprises lannionnaises comme Kristal, 3D Ouest et Feichter Electronics. Des projets de recherche sont également en cours avec l'ENSSAT et l'IUT."
     ),array(
       "Titux.org",
       "img/logo-700x700-Titux.org.png",
@@ -514,7 +514,7 @@ Au-delà de ces quelques exemples non exhaustifs, toutes vos contributions seron
      "Concours Ada Lovelace",
      "img/affiche_v2.png",
      "https://adalovelace.ledantec-numerique.fr/",
-     "Le challenge Ada Lovelace s’étend sur 3 mois : inscription à partir du 14 décembre 2017 et concours ouvert à partir du 08 janvier 2018, sessions de formation de janvier à début mars (HTML/CSS, JavaScript; langage & algorithmie, PHP & bases de données, utilisation de la plateforme).
+     "Le challenge Ada Lovelace s’étend sur 3 mois : inscription à partir du 14 décembre 2017 et concours ouvert à partir du 08 janvier 2018, sessions de formation de janvier à début mars (HTML/CSS, JavaScript, langage & algorithmie, PHP & bases de données, utilisation de la plateforme).
      <br>
      Fin du concours prévue le vendredi 23 mars (minuit), puis les équipes présenteront leur projet au public ainsi qu’au jury pendant Libre en Fête (remise des prix à 17h00)."
   )
