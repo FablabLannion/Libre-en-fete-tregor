@@ -37,7 +37,7 @@
                     <p class="lead">
                     Initiée et coordonnée par l'April, l'initiative Libre en Fête célébrera son 18ème anniversaire en 2018. Des événements de découverte des Logiciels Libres et du Libre en général sont proposés partout en France, dans une dynamique conviviale et festive.</p>
                     <p>
-                    Un ensemble d'associations Trégorroises s'associent et proposent une série d'animations autour du logiciel libre le Dimance 25 Mars 2018 dans la salle des Ursulines de Lannion.
+                    Un ensemble d'associations Trégorroises s'associent et proposent une série d'animations autour du logiciel libre le Dimanche 25 Mars 2018 dans la salle des Ursulines de Lannion.
                     </p>
                 </div>
 
