@@ -13,7 +13,7 @@
                                 <a href="https://twitter.com/librenfetetrgor" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
                             </li>
                             <li>
-                                <a href="https://www.facebook.com/Libre-en-F%C3%AAte-Tr%C3%A9gor-970420503044317/timeline" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook</span></a>
+                                <a href="https://www.facebook.com/Libre-en-F%C3%AAte-Tr%C3%A9gor-970420503044317/" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook</span></a>
                             </li>
                         </ul>
                     </div>
