@@ -6,7 +6,7 @@
                 <div class="col-lg-12">
                     <div class="intro-message">
                         <h1>Libre en Fête en Trégor</h1>
-                        <h3>Dimanche 25 Mars 2018 - Salle des Ursulines - 10h-18h</h3>
+                        <h3>Dimanche 25 Mars 2018 - Salle des Ursulines - 10h à 18h</h3>
                         <hr class="intro-divider">
                         <ul class="list-inline intro-social-buttons">
                             <li>
