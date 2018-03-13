@@ -122,10 +122,10 @@ $data_programme = array (
      "<ul>
       <li>Découverte du code pour les enfants et les adultes</li>
       <li>Redonner vie à son ordinateur lors d'une install party</li>
-      <li>Apprendre à réaliser des autoconstructions comme des butaphones, chauffes eau à bois ou des rockets stove ...</li>
+      <li>Apprendre à réaliser des autoconstructions comme des butaphones, chauffe-eaux à bois ou des rocket stoves...</li>
       <li>Manipuler des robots et des appareils réalisables soi-même</li>
       <li>Prendre en main des logiciels libres et respectueux</li>
-      <li>Voir comme Linux est arrivé dans les écoles</li>
+      <li>Voir comment Linux est arrivé dans les écoles</li>
       </ul>
       <br><a href=\"mailto:codedarmor@libre-en-fete-tregor.fr\">Contacts : Code d'Armor</a>
       <a href=\"mailto:olivier@libre-en-fete-tregor.fr\">, Olivier</a>"
@@ -135,7 +135,7 @@ $data_programme = array (
      "img/20170510_214516.jpg",
      "",
      "<ul>
-      <li>Hackathon : concours de codage <a href=\"https://adalovelace.ledantec-numerique.fr/\">Ada Lovelace</a></li>
+      <li>Hackathon : concours de code <a href=\"https://adalovelace.ledantec-numerique.fr/\">Ada Lovelace</a></li>
       <li>Espace pro : à la rencontre des acteurs du numérique du territoire</li>
       <li>Fablab : imprimantes 3D, électronique, bonnes idées et bonne humeur. Le <a href=\"http://www.fablab-lannion.org/\">fablab de Lannion</a> vous dit tout</li>
       </ul>
