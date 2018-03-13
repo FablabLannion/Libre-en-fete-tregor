@@ -6,7 +6,7 @@ $data_programme = array (
      "Conférences",
      "img/espace-conf.jpg",
      "",
-     "Des mini-conférences seront proposées tout au long de la journée.
+     "Des mini-conférences seront proposées tout au long de la journée. <br/>
      <table>
  <tr>
    <th>Horaire</th>
@@ -122,10 +122,10 @@ $data_programme = array (
      "<ul>
       <li>Découverte du code pour les enfants et les adultes</li>
       <li>Redonner vie à son ordinateur lors d'une install party</li>
-      <li>Apprendre à réaliser des autoconstructions comme des butaphones, chauffes eau à bois ou des rockets stove ...</li>
+      <li>Apprendre à réaliser des autoconstructions comme des butaphones, chauffe-eaux à bois ou des rocket stoves...</li>
       <li>Manipuler des robots et des appareils réalisables soi-même</li>
       <li>Prendre en main des logiciels libres et respectueux</li>
-      <li>Voir comme Linux est arrivé dans les écoles</li>
+      <li>Voir comment Linux est arrivé dans les écoles</li>
       </ul>
       <br><a href=\"mailto:codedarmor@libre-en-fete-tregor.fr\">Contacts : Code d'Armor</a>
       <a href=\"mailto:olivier@libre-en-fete-tregor.fr\">, Olivier</a>"
@@ -135,7 +135,7 @@ $data_programme = array (
      "img/20170510_214516.jpg",
      "",
      "<ul>
-      <li>Hackathon : concours de codage <a href=\"https://adalovelace.ledantec-numerique.fr/\">Ada Lovelace</a></li>
+      <li>Hackathon : concours de code <a href=\"https://adalovelace.ledantec-numerique.fr/\">Ada Lovelace</a></li>
       <li>Espace pro : à la rencontre des acteurs du numérique du territoire</li>
       <li>Fablab : imprimantes 3D, électronique, bonnes idées et bonne humeur. Le <a href=\"http://www.fablab-lannion.org/\">fablab de Lannion</a> vous dit tout</li>
       </ul>
@@ -163,7 +163,7 @@ $data_partenaires = array (
       "Aleccor",
       "img/logo_aleccor.jpg",
       "http://www.aleccor.infini.fr",
-      "Les exOOOs d'Aleccor sont des exercices éducatifs libres et gratuits, programmés sous OpenOffice et sous VoxOoFox (synthèse vocale). Ces exercices sont auto-correctifs.<br>Le but est de proposer des ressources éducatives pour les écoles, pour les enfants (en soutien) en leur permettant de travailler en autonomie (pas de note mais une valorisation du travail), mais aussi pour les personnes en difficulté (illettrisme) ou pour qui le français est une langue étrangère.<br>Plus de 1 000 exercices sont actuellement disponibles dans de nombreuses matières (Français, Calcul, Histoire, Géographie, Sciences, Anglais, Éducation civique,...)"
+      "Les exOOOs d'Aleccor sont des exercices éducatifs libres et gratuits, programmés sous OpenOffice et sous VoxOoFox (synthèse vocale). Ces exercices sont auto-correctifs.<br>Le but est de proposer des ressources éducatives pour les écoles, pour les enfants (en soutien) en leur permettant de travailler en autonomie (pas de note mais une valorisation du travail), mais aussi pour les personnes en difficulté (illettrisme) ou pour qui le français est une langue étrangère.<br>Plus de 1 000 exercices sont actuellement disponibles dans de nombreuses matières (Français, Calcul, Histoire, Géographie, Sciences, Anglais, Éducation civique, ...)"
    ),
    array(
       "Anticipa",
@@ -326,7 +326,7 @@ $data_partenaires = array (
        "img/logo_telimed_rond_cmjn.png",
        "http://telimed.fr/",
        " Créée en 2017, TELiMED propose un service basé sur des outils numériques adaptés et simples à utiliser, de manière à favoriser le maintien à domicile des personnes isolées, en s'appuyant sur les acteurs de proximité et en animant une communauté solidaire.
-       <br>TELiMED est soutenue par la Technopole Anticipa de Lannion et labellisé French Tech Brest+. Pour mettre en oeuvre notre projet, nous favorisons les partenariats locaux et travaillons avec les entreprises lannionnaises comme KRISTAL, 3DOuest et Feichter Electronics. Des projets de recherche sont également en cours avec l'ENSSAT et l'IUT."
+       <br>TELiMED est soutenue par la Technopole Anticipa de Lannion et labellisé French Tech Brest+. Pour mettre en oeuvre notre projet, nous favorisons les partenariats locaux et travaillons avec les entreprises lannionnaises comme Kristal, 3D Ouest et Feichter Electronics. Des projets de recherche sont également en cours avec l'ENSSAT et l'IUT."
     ),array(
       "Titux.org",
       "img/logo-700x700-Titux.org.png",
@@ -365,13 +365,13 @@ $data_sponsors = array (
   array(
      "Lannion Tregor Communauté",
      "img/LOGO_LTC_GeneriqueFR.jpg",
-     "",
+     "http://www.lannion-tregor.com/",
      ""
   ),
   array(
      "Ville de Lannion",
      "img/Logo_mairie_Lannion.jpg",
-     "",
+     "https://www.lannion.bzh/",
      ""
   ),
  array(
@@ -514,7 +514,7 @@ Au-delà de ces quelques exemples non exhaustifs, toutes vos contributions seron
      "Concours Ada Lovelace",
      "img/affiche_v2.png",
      "https://adalovelace.ledantec-numerique.fr/",
-     "Le challenge Ada Lovelace s’étend sur 3 mois : inscription à partir du 14 décembre 2017 et concours ouvert à partir du 08 janvier 2018, sessions de formation de janvier à début mars (HTML/CSS, JavaScript; langage & algorithmie, PHP & bases de données, utilisation de la plateforme).
+     "Le challenge Ada Lovelace s’étend sur 3 mois : inscription à partir du 14 décembre 2017 et concours ouvert à partir du 08 janvier 2018, sessions de formation de janvier à début mars (HTML/CSS, JavaScript, langage & algorithmie, PHP & bases de données, utilisation de la plateforme).
      <br>
      Fin du concours prévue le vendredi 23 mars (minuit), puis les équipes présenteront leur projet au public ainsi qu’au jury pendant Libre en Fête (remise des prix à 17h00)."
   )
