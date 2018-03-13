@@ -365,13 +365,13 @@ $data_sponsors = array (
   array(
      "Lannion Tregor Communauté",
      "img/LOGO_LTC_GeneriqueFR.jpg",
-     "",
+     "http://www.lannion-tregor.com/",
      ""
   ),
   array(
      "Ville de Lannion",
      "img/Logo_mairie_Lannion.jpg",
-     "",
+     "https://www.lannion.bzh/",
      ""
   ),
  array(
