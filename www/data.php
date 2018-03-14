@@ -248,6 +248,14 @@ $data_partenaires = array (
       "Atelier participatif ouvert, le fablab de Lannion accueille petits et grands. Un objet à réparer, une idée à transformer, un besoin de support dans un domaine technique, le fablab de Lannion vous ouvre ses portes. Venez découvrir les imprimantes 3D, les Logiciels Libres, les mini ordinateurs et autres robots."
    ),
    array(
+      "Hackable magazine",
+      "img/logo-HK-baselineMag.jpg",
+      "https://www.hackable.fr",
+      "<h1>DÉMONTEZ / COMPRENEZ / ADAPTEZ / PARTAGEZ</h1>
+      <br>
+Hackable met l’électronique plus que jamais à la portée de tous ! Ce bimestriel n’a qu’un but : faire de la technologie un vrai plaisir ! Le plaisir de démonter, d’apprendre, de comprendre, de faire, de maîtriser et d’adapter à ses besoins. En d’autres termes, c’est un magazine pour utiliser la technologie, pas la consommer. Au programme : montages à base Arduino, programmation, bidouillages autour de la Raspberry Pi, découverte de nouvelles cartes et de nouveaux modules, démontage et exploration de matériels, conseils, recommandations et astuces pour s’équiper, mais aussi de quoi apprendre les bases pour s’en sortir seul et pour aller toujours plus loin !"
+   ),
+   array(
       "Infothema",
       "img/infothema.png",
       "http://www.infothema.fr/",
@@ -285,6 +293,13 @@ $data_partenaires = array (
       "http://www.lespetitsdebrouillardsbretagne.org/",
       "L’association « Les Petits Débrouillards » met en place des activités scientifiques et techniques pour les jeunes, afin de promouvoir la démarche expérimentale et l'esprit critique auprès du plus grand nombre."
    ),
+   array(
+      "Linux Pratique",
+      "img/logo-LP-baselineMag.jpg",
+      "https://www.linux-pratique.com/",
+      "<h1>LE MAGAZINE POUR COMPRENDRE, UTILISER ET ADMINISTRER LINUX ET LES LOGICIELS LIBRES AU QUOTIDIEN SUR PC, MAC & RASPBERRY PI</h1>
+      <br>Avec sa ligne rédactionnelle résolument pratique, Linux Pratique a été conçu pour répondre aux besoins des particuliers et des entreprises à la recherche de solutions open source. Ce bimestriel a pour but de démocratiser l'alternative open source via des présentations de logiciels libres, divers didacticiels, mais aussi par des articles de vulgarisation technique. À travers ses rubriques variées (programmation, cahier Raspberry Pi, solutions professionnelles, web, système, etc.), le magazine vous permettra de faire le plein d’informations sur le monde de l’open source et des logiciels libres. Bref, Linux Pratique c’est comprendre, utiliser & administrer Linux au quotidien sur PC, Mac et Raspberry Pi !"
+    ),
     array(
       "Lycée Le Dantec",
       "img/LeDANTEC.png",
@@ -384,7 +399,13 @@ $data_sponsors = array (
        "Espace pro",
        "img/Professional-People-Silhouette-800px.png",
        "",
-       "<a href=\"http://telimed.fr/\"><img src=\"img/logo_telimed_rond_cmjn_small.png\" height=\"100\" alt=\"Telimed\"></a></li>"
+       "<a href=\"http://telimed.fr/\"><img src=\"img/logo_telimed_rond_cmjn_small.png\" height=\"100\" alt=\"Telimed\"></a>
+       <br>
+       <a href=\"https://www.linux-pratique.com/\"><img src=\"img/logo-LP-baselineMag.jpg\" height=\"100\" alt=\"Linux Pratique\"></a>
+       <br>
+       <a href=\"https://www.hackable.fr/\"><img src=\"img/logo-HK-baselineMag.jpg\" height=\"100\" alt=\"Hackable Magazine\"></a>
+       "
+
     )
  );
 Flight::set('data_sponsors', $data_sponsors);
