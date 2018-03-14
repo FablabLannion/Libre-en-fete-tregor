@@ -251,7 +251,7 @@ $data_partenaires = array (
       "Hackable magazine",
       "img/logo-HK-baselineMag.jpg",
       "https://www.hackable.fr",
-      "<h1>DÉMONTEZ / COMPRENEZ / ADAPTEZ / PARTAGEZ</h1>
+      "<h2>DÉMONTEZ / COMPRENEZ / ADAPTEZ / PARTAGEZ</h2>
       <br>
 Hackable met l’électronique plus que jamais à la portée de tous ! Ce bimestriel n’a qu’un but : faire de la technologie un vrai plaisir ! Le plaisir de démonter, d’apprendre, de comprendre, de faire, de maîtriser et d’adapter à ses besoins. En d’autres termes, c’est un magazine pour utiliser la technologie, pas la consommer. Au programme : montages à base Arduino, programmation, bidouillages autour de la Raspberry Pi, découverte de nouvelles cartes et de nouveaux modules, démontage et exploration de matériels, conseils, recommandations et astuces pour s’équiper, mais aussi de quoi apprendre les bases pour s’en sortir seul et pour aller toujours plus loin !"
    ),
@@ -297,7 +297,7 @@ Hackable met l’électronique plus que jamais à la portée de tous ! Ce bimest
       "Linux Pratique",
       "img/logo-LP-baselineMag.jpg",
       "https://www.linux-pratique.com/",
-      "<h1>LE MAGAZINE POUR COMPRENDRE, UTILISER ET ADMINISTRER LINUX ET LES LOGICIELS LIBRES AU QUOTIDIEN SUR PC, MAC & RASPBERRY PI</h1>
+      "<h2>LE MAGAZINE POUR COMPRENDRE, UTILISER ET ADMINISTRER LINUX ET LES LOGICIELS LIBRES AU QUOTIDIEN SUR PC, MAC & RASPBERRY PI</h2>
       <br>Avec sa ligne rédactionnelle résolument pratique, Linux Pratique a été conçu pour répondre aux besoins des particuliers et des entreprises à la recherche de solutions open source. Ce bimestriel a pour but de démocratiser l'alternative open source via des présentations de logiciels libres, divers didacticiels, mais aussi par des articles de vulgarisation technique. À travers ses rubriques variées (programmation, cahier Raspberry Pi, solutions professionnelles, web, système, etc.), le magazine vous permettra de faire le plein d’informations sur le monde de l’open source et des logiciels libres. Bref, Linux Pratique c’est comprendre, utiliser & administrer Linux au quotidien sur PC, Mac et Raspberry Pi !"
     ),
     array(
@@ -401,7 +401,9 @@ $data_sponsors = array (
        "",
        "<a href=\"http://telimed.fr/\"><img src=\"img/logo_telimed_rond_cmjn_small.png\" height=\"100\" alt=\"Telimed\"></a>
        <br>
+       <br>
        <a href=\"https://www.linux-pratique.com/\"><img src=\"img/logo-LP-baselineMag.jpg\" height=\"100\" alt=\"Linux Pratique\"></a>
+       <br>
        <br>
        <a href=\"https://www.hackable.fr/\"><img src=\"img/logo-HK-baselineMag.jpg\" height=\"100\" alt=\"Hackable Magazine\"></a>
        "
