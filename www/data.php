@@ -399,7 +399,10 @@ $data_sponsors = array (
        "Espace pro",
        "img/Professional-People-Silhouette-800px.png",
        "",
-       "<a href=\"http://telimed.fr/\"><img src=\"img/logo_telimed_rond_cmjn_small.png\" height=\"100\" alt=\"Telimed\"></a>
+       "<a href=\"http://nokia.com/\"><img src=\"img/Nokia_wordmark.svg.png\" height=\"200\" alt=\"Nokia\"></a>
+       <br>
+       <br>
+       <a href=\"http://telimed.fr/\"><img src=\"img/logo_telimed_rond_cmjn_small.png\" height=\"100\" alt=\"Telimed\"></a>
        <br>
        <br>
        <a href=\"https://www.linux-pratique.com/\"><img src=\"img/logo-LP-baselineMag.jpg\" height=\"100\" alt=\"Linux Pratique\"></a>
