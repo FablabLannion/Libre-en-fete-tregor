@@ -537,7 +537,7 @@ Au-delà de ces quelques exemples non exhaustifs, toutes vos contributions seron
 </ul><br>Remise des prix à 11h45"
   ),
   array(
-     "Concours Ada Lovelace",
+     "Challenge Ada Lovelace",
      "img/affiche_v2.png",
      "https://adalovelace.ledantec-numerique.fr/",
      "Le challenge Ada Lovelace s’étend sur 3 mois : inscription à partir du 14 décembre 2017 et concours ouvert à partir du 08 janvier 2018, sessions de formation de janvier à début mars (HTML/CSS, JavaScript, langage & algorithmie, PHP & bases de données, utilisation de la plateforme).
