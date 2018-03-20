@@ -354,11 +354,18 @@ Hackable met l’électronique plus que jamais à la portée de tous ! Ce bimest
      "http://www.tripalium.org/",
      "<b>Tripalium est un réseau d'acteurs</b> fondé en 2007. Il propose régulièrement <b>des stages d'auto-construction d'éoliennes</b> ouverts à tous. <b>Plus de 150 éoliennes Piggott</b> ont déjà été fabriquées en France."
   ),
-    array(
-      "Ville de Lannion",
-      "img/Logo_mairie_Lannion.jpg",
-      "http://www.ville-lannion.fr/",
-      "Lannion, deuxième ville du département et ville-centre de l’agglomération, est une ville jeune et attractive.<br>La ville, capitale des télécommunications, constitue un pôle d’excellence technologique avec un écosystème unique mêlant grands groupes et PME innovantes.<br>Des équipements de qualité, dignes d’une ville de 40 000 habitants, sont proposés et les activités culturelles et sportives ne manquent pas à Lannion !<br>La ville et ses quartiers bougent au rythme des saisons avec ses 350 associations, tous domaines confondus."
+  array(
+    "VivreDansMaVille",
+    "img/Logo-Vivre-sans-baseline.PNG",
+    "https://vivredansmaville.com",
+    "VivreDansMaVille est une plateforme pour échanger vos services, compétences et talents.
+<br>Notre plateforme fonctionne comme une banque du temps, c’est à dire un réseau de personnes qui utilisent le temps comme monnaie pour échanger des services.
+<br>Notre monnaie s’appelle le CELT et la plateforme compte déjà 500 membres et de nombreux services proposés et échangés.
+<br>Une heure de service vaut 1 CELT, peu importe le service ou la personne; la banque du temps est basée sur une valeur d’égalité.
+<br><br>
+VivreDansMaVille est mis en oeuvre par notre start-up sociale Local4People et le projet est suivi par la Technopole Anticipa.
+<br><br>
+Venez découvrir la première banque du temps bretonne : <a href=\"https://vivredansmaville.com\"></a>"
    ),
 );
 
@@ -403,6 +410,9 @@ $data_sponsors = array (
        <br>
        <br>
        <a href=\"http://telimed.fr/\"><img src=\"img/logo_telimed_rond_cmjn_small.png\" height=\"100\" alt=\"Telimed\"></a>
+       <br>
+       <br>
+       <a href=\"https://vivredansmaville.com\"><img src=\"img/Logo-Vivre-sans-baseline.PNG\" height=\"100\" alt=\"VivreDansMaVille\"></a>
        <br>
        <br>
        <a href=\"https://www.linux-pratique.com/\"><img src=\"img/logo-LP-baselineMag.jpg\" height=\"100\" alt=\"Linux Pratique\"></a>
