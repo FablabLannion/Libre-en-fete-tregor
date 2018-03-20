@@ -365,7 +365,7 @@ Hackable met l’électronique plus que jamais à la portée de tous ! Ce bimest
 <br><br>
 VivreDansMaVille est mis en oeuvre par notre start-up sociale Local4People et le projet est suivi par la Technopole Anticipa.
 <br><br>
-Venez découvrir la première banque du temps bretonne : <a href=\"https://vivredansmaville.com\"></a>"
+Venez découvrir la première banque du temps bretonne : <a href=\"https://vivredansmaville.com\">https://vivredansmaville.com</a>"
    ),
 );
 
@@ -406,7 +406,7 @@ $data_sponsors = array (
        "Espace pro",
        "img/Professional-People-Silhouette-800px.png",
        "",
-       "<a href=\"http://nokia.com/\"><img src=\"img/Nokia_wordmark.svg.png\" height=\"100\" alt=\"Nokia\"></a>
+       "<a href=\"http://nokia.com/\"><img src=\"img/Nokia_wordmark.svg.png\" height=\"80\" alt=\"Nokia\"></a>
        <br>
        <br>
        <a href=\"http://telimed.fr/\"><img src=\"img/logo_telimed_rond_cmjn.png\" height=\"100\" alt=\"Telimed\"></a>
