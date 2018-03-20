@@ -409,7 +409,7 @@ $data_sponsors = array (
        "<a href=\"http://nokia.com/\"><img src=\"img/Nokia_wordmark.svg.png\" height=\"100\" alt=\"Nokia\"></a>
        <br>
        <br>
-       <a href=\"http://telimed.fr/\"><img src=\"img/logo_telimed_rond_cmjn_small.png\" height=\"100\" alt=\"Telimed\"></a>
+       <a href=\"http://telimed.fr/\"><img src=\"img/logo_telimed_rond_cmjn.png\" height=\"100\" alt=\"Telimed\"></a>
        <br>
        <br>
        <a href=\"https://vivredansmaville.com\"><img src=\"img/Logo-Vivre-sans-baseline.PNG\" height=\"100\" alt=\"VivreDansMaVille\"></a>
@@ -420,7 +420,6 @@ $data_sponsors = array (
        <br>
        <a href=\"https://www.hackable.fr/\"><img src=\"img/logo-HK-baselineMag.jpg\" height=\"100\" alt=\"Hackable Magazine\"></a>
        "
-
     )
  );
 Flight::set('data_sponsors', $data_sponsors);
