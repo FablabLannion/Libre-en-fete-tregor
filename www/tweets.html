@@ -1,0 +1,105 @@
+<!DOCTYPE html lang="en">
+
+<html>
+
+<head>
+
+  <meta charset="UTF-8" />
+  <meta name="author" content="Pierre-Yves Lapersonne" />
+  <meta name="publisher" content="Libre en Fête Trégor" />
+  <meta name="identifier-url" content="http://libre-en-fete-tregor.fr/" />
+  <meta name="description" content="Alimentation Twitter concernant Libre en Fête et sa déclinaison 2018 à Lannion" />
+  <meta name="keywords" content="Libre en Fête Trégor April FabLab Code d'Armor Lannion Twitter feed" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no" />
+  <meta name="HandheldFriendly" content="true" />
+  <meta name="MobileOptimized" content="320" />
+
+  <meta name="twitter:card" content="summary"/>
+  <meta name="twitter:url" content="http://libre-en-fete-tregor.fr/">
+  <meta name="twitter:title" content="Libre en Fête Trégor">
+  <meta name="twitter:description" content="Alimentation Twitter concernant Libre en Fête et sa déclinaison 2018 à Lannion">
+  <meta name="twitter:creator" content="@librenfetetrgor">
+  <meta name="twitter:image" content="https://pbs.twimg.com/profile_images/704297610971127809/voS3JvP-_400x400.jpg">
+
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Pierre-Yves Lapersonne" />
+  <meta property="og:url" content="http://libre-en-fete-tregor.fr/" />
+  <meta property="og:image" content="https://pbs.twimg.com/profile_images/704297610971127809/voS3JvP-_400x400.jpg" />
+  <meta property="og:description" content="Alimentation Twitter concernant Libre en Fête et sa déclinaison 2018 à Lannion" />
+  <meta property="og:site_name" content="Libre en Fête Trégor" />
+
+  <link rel="icon" href="https://pbs.twimg.com/profile_images/704297610971127809/voS3JvP-_400x400.jpg"> <!-- FIXME: Assez brutal... -->
+  <title>Live tweets</title>
+
+  <!-- FIXME Dégueulasse, mais bon, pas le temps cette nuit -->
+  <style type="text/css">
+  #tweets {
+    display: flex;                  /* establish flex container */
+    flex-direction: row;            /* default value; can be omitted */
+    flex-wrap: nowrap;              /* default value; can be omitted */
+    justify-content: space-between; /* switched from default (flex-start, see below) */
+  }
+  #tweets > div {
+    width: 33%;
+    height: 100%;
+  }
+  /*
+    #tweets {
+      width: 100%;
+      text-align: center;
+    }
+    #blocCompteOfficiel > iframe {
+      width: 25% !important;
+      float: left;
+    }
+    #blocHashtagOfficiel > iframe {
+      width: 25% !important;
+      display: inline-block;
+      margin: 0 auto;
+    }
+    #blocHashtagLocal > iframe {
+      width: 25% !important;
+      float:right;
+    }
+    */
+  </style>
+
+</head>
+
+<body>
+
+  <div id="tweets">
+
+    <!-- ********************************************** -->
+    <!-- Tweets du compte Libre en Fête Trégor officiel -->
+    <!-- ********************************************** -->
+
+    <div id="blocCompteOfficiel">
+      <a class="twitter-timeline" href="https://twitter.com/librenfetetrgor?ref_src=twsrc%5Etfw">Tweets de @librenfetetrgor</a>
+      <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </div>
+
+    <!-- ******************** -->
+    <!-- Hashtag #LibreEnFete -->
+    <!-- ******************** -->
+
+    <div id="blocHashtagOfficiel">
+      <a class="twitter-timeline"  href="https://twitter.com/hashtag/LibreEnFete" data-widget-id="977683857515433986">Tweets sur #LibreEnFete</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+    </div>
+
+    <!-- *************** -->
+    <!-- Hashtag #LEFT18 -->
+    <!-- ************** -->
+
+    <div id="blocHashtagLocal">
+      <a class="twitter-timeline"  href="https://twitter.com/hashtag/LEFT18" data-widget-id="977684119500058624">Tweets sur #LEFT18</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+    </div>
+
+  </div>
+
+</body>
+
+</html>
