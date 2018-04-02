@@ -50,13 +50,13 @@ $data_programme = array (
  </tr>
  <tr>
    <td>14h30</td>
-   <td>Si j'avais un Bitcoin: crypto monnaie mode d'emploi</td>
+   <td>Si j'avais un Bitcoin: cryptomonnaie mode d'emploi</td>
    <td>PY.Lapersonne (Code d'Armor)</td>
  </tr>
    <tr>
    <td>15h00</td>
    <td>Comment protéger sa vie privée sur Internet, pour vivre heureux vivons anonymes</td>
-   <td>S.Vitard</td>
+   <td>S.Vitard (April)</td>
  </tr>
  <tr>
    <td>15h30</td>
