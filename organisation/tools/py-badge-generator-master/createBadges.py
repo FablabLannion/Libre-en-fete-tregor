@@ -99,10 +99,10 @@ class BadgeImage(object):
 
     # Ecriture de l'association
     def drawAssociation(self, name):
-        linepos = (125, 85)
-        line1pos = (125, 85)
-        line2pos = (125, 105)
-        sizeCharAsso = 20
+        linepos = (120, 75)
+        line1pos = (120, 75)
+        line2pos = (120, 95)
+        sizeCharAsso = 18
 
         size = self.getFitSize(sizeCharAsso, name)
         rest = ""
@@ -112,9 +112,9 @@ class BadgeImage(object):
             else:
                 firstname, rest = (name, "")
         if rest == "":
-            linepos = (125, 95)
-            line1pos = (125, 95)
-            sizeCharAsso = 24
+            linepos = (120, 87)
+            line1pos = (120, 87)
+            sizeCharAsso = 20
 
         if size < sizeCharAsso and rest != "":
             personFont = ImageFont.truetype(self.ttfFont, sizeCharAsso)
@@ -143,7 +143,7 @@ class BadgeImage(object):
         # else:
 		# 	sizeCharName = 45
 
-        sizeCharName = 26
+        sizeCharName = 24
 
         size = self.getFitSize(sizeCharName, name)
 
@@ -151,8 +151,8 @@ class BadgeImage(object):
             firstname, rest = name.split(" ", 1)
         else:
             firstname, rest = (name, "")
-            linepos = (120, 25)
-            line1pos = (120, 25)
+            linepos = (120, 30)
+            line1pos = (120, 30)
 
         if size < sizeCharName and rest != "":
             personFont = ImageFont.truetype(self.ttfFont, sizeCharName)

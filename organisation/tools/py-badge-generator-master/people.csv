@@ -54,8 +54,7 @@ Nathalie;Anticipa;Entreprendre
 Jérôme;Fablab Lannion;Entreprendre
 David;Fablab Lannion;Entreprendre
 Julien;Fablab Lannion;Entreprendre
-Frederic;Ville de Lannion;Explorer
-Denis;Ville de Lannion;Explorer
+Fréderic;Ville de Lannion;Explorer
 Sabine;Trégor Bicylette;Explorer
 Daniel;Trégor Bicylette;Explorer
 Jean-François;Trégor Bicylette;Explorer
@@ -64,17 +63,13 @@ Jonathan;Lycée le Dantec;Explorer
 Matias;Lycée le Dantec;Explorer
 Erwan;LTC;Explorer
 Patrice;Lanpower;Jouer
-Sponsor;Orange;Conférence
-Sponsor;Orange;Conférence
-Sponsor;Orange;Conférence
-Sponsor;Orange;Conférence
+Olivier;Orange;Conférence
+Benoît;Orange;Conférence
+Isabelle;Orange;Conférence
 Steven;Ixia&Keysight Business;Conférence
 Gaëlle;Orange Solidarité;Pro
 Elisabeth;Orange Solidarité;Pro
 Yvon;Orange Solidarité;Pro
-Sponsor;Huawei;Conférence
-Sponsor;Huawei;Conférence
-Sponsor;Huawei;Conférence
 Sponsor;Huawei;Conférence
 Cédric;Nokia;Pro
 Emmanuelle;Jury;Ada
@@ -92,7 +87,6 @@ Marie;Tutrice;Ada
 Christelle;Tutrice;Ada
 Camille;Tutrice;Ada
 Annaïg;Tutrice;Ada
-Jonathan;Organisation;Ada
 Marie-Lénaïck;PATG;Découvrir
 Juliane;PATG;Découvrir
 Philippe;PATG;Découvrir
@@ -103,3 +97,37 @@ Françoise;UFO22;Découvrir
 Souhila;IUT;Découvrir
 Mustapha;IUT;Découvrir
 Syl;Nos oignons;Comprendre
+Aurélie;Telimed;Entreprendre
+Yann;Lan Power;Jouer
+Quentin Lestic;Infothema;Apprendre
+Nicolas;Lan Power;Jouer
+Quentin;Lan Power;Jouer
+Jean-Georges;Aleccor;Découvrir
+;;Apprendre
+;;Découvrir
+;;Explorer
+;;Comprendre
+;;Entreprendre
+Marc;Huawei;Conférence
+Emmanuel;April;Comprendre
+Pascal;April;Comprendre
+David;April;Comprendre
+Jean-Marie;April;Comprendre
+Jean-Marc;April;Comprendre
+Aurélien Legeard;Tripalium;Apprendre
+Alice;Ecocentre;Apprendre
+Chloë;Ecocentre;Apprendre
+Jean;Ecocentre;Apprendre
+Flora;Ecocentre;Apprendre
+Marc;Huawei;Conférence
+;Huawei;Conférence
+;Huawei;Conférence
+;Huawei;Conférence
+;Huawei;Conférence
+Thomas;Orange;Conférence
+;Orange;Conférence
+;Orange;Conférence
+;Orange;Conférence
+;Telimed;Conférence
+Philippe Bouillé;VivreDansMaVille;Conférence
+;VivreDansMaVille;Conférence
