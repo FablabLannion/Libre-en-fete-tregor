@@ -82,7 +82,7 @@
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Horaires</h2>
                     <p  class="lead">
-                    Dimanche 25 Mars 2018 de 10h à 18h <br/>
+                    <?php echo Flight::get('data_event_date'); ?> de <?php echo Flight::get('data_event_schedules');?> <br/>
                     Entrée libre et gratuite <br/>
                     Voir le <a href="/programme">programme</a> pour plus de détails                    </p>
                 </div>

@@ -55,7 +55,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand topnav" href="#">Dimanche 25 Mars 2018</a>
+                <div class="navbar-brand topnav" href=""><?php echo Flight::get('data_event_date');?></div>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -78,10 +78,12 @@
                     <li>
                         <a href="/sponsors">Sponsors</a>
                     </li>
-                    <li>
-                        <a href="/2016">2016</a>
+                    <li class="drop-down-menu"><a href="">Editions précédentes</a>
+                        <div class="drop-down-menu-items">
+                            <div><a href="/2016">2016</a></div>
+                            <div><a href="/2018">2018</a></div>
+                        </div>
                     </li>
-
                 </ul>
             </div>
             <!-- /.navbar-collapse -->

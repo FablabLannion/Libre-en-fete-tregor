@@ -4,14 +4,14 @@ require 'flight/Flight.php';
 require "data.php";
 
 /** definition des URLS */
-Flight::route('/',              'accueil');
-Flight::route('/pratique',         'pratique');
-Flight::route('/programme',     'programme');
-Flight::route('/partenaires',   'partenaires');
-Flight::route('/credits',   'credits');
-Flight::route('/concours',   'concours');
-Flight::route('/sponsors',   'sponsors');
-Flight::route('/2016',   'ed2016');
+Flight::route('/',            'accueil');
+Flight::route('/pratique',    'pratique');
+Flight::route('/programme',   'programme');
+Flight::route('/partenaires', 'partenaires');
+Flight::route('/credits',     'credits');
+Flight::route('/concours',    'concours');
+Flight::route('/sponsors',    'sponsors');
+Flight::route('/@year:[0-9]{4}', function($year) { return previous_edition($year); });
 
 
 function accueil() {
@@ -49,11 +49,10 @@ function concours() {
    Flight::render ('layout', array('title'=>"Concours"));
 } // sponsors
 
-
-function ed2016() {
-   Flight::render ('ed2016', null, 'body' );
-   Flight::render ('layout', array('title'=>"2016"));
-} // sponsors
+function previous_edition($year) {
+   Flight::render ('previous_edition', array('year'=>$year), 'body' );
+   Flight::render ('layout', array('title'=>$year));
+} // previous_edition
 
 Flight::start();
 ?>

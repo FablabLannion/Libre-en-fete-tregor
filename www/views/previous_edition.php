@@ -1,7 +1,7 @@
 
 <?php
-if (Flight::has('data_2016')) {
-     $data = Flight::get('data_2016');
+if (Flight::has('data_' . $year)) {
+     $data = Flight::get('data_' . $year);
 
      $c=1;
    foreach ($data as $p) {
@@ -38,5 +38,7 @@ if (Flight::has('data_2016')) {
 
     $c = $c + 1;
    } // foreach
-} // if
+} else {
+    Flight::notFound();
+}
 ?>
