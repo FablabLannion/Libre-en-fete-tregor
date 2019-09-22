@@ -4,14 +4,14 @@ require 'flight/Flight.php';
 require "data.php";
 
 /** definition des URLS */
-Flight::route('/',            'accueil');
-Flight::route('/pratique',    'pratique');
-Flight::route('/programme',   'programme');
-Flight::route('/partenaires', 'partenaires');
-Flight::route('/credits',     'credits');
-Flight::route('/concours',    'concours');
-Flight::route('/sponsors',    'sponsors');
-Flight::route('/@year:[0-9]{4}', function($year) { return previous_edition($year); });
+Flight::route('/',               accueil);
+Flight::route('/pratique',       pratique);
+Flight::route('/programme',      programme);
+Flight::route('/partenaires',    partenaires);
+Flight::route('/credits',        credits);
+Flight::route('/concours',       concours);
+Flight::route('/sponsors',       sponsors);
+Flight::route('/@year:[0-9]{4}', previous_edition);
 
 
 function accueil() {

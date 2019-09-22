@@ -1,5 +1,6 @@
-
 <?php
+require "previous_editions_data.php";
+
 if (Flight::has('data_' . $year)) {
      $data = Flight::get('data_' . $year);
 
