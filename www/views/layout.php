@@ -78,7 +78,7 @@
                     <li>
                         <a href="/sponsors">Sponsors</a>
                     </li>
-                    <li class="drop-down-menu"><a href="">Editions précédentes</a>
+                    <li class="drop-down-menu"><a>Editions précédentes</a>
                         <div class="drop-down-menu-items">
                             <div><a href="/2016">2016</a></div>
                             <div><a href="/2018">2018</a></div>
