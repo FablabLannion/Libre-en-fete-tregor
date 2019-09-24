@@ -94,20 +94,28 @@ $data_2016 = array (
 Flight::set('data_2016', $data_2016);
 
 $data_2018 = array (
-  array("TODO: ??? participants",
-     "img/2016-1.JPG",
+  array("Les chiffres :<br> 700 visiteurs, 120 bénévoles, 30 partenaires, 20 exposants et 5 sponsors",
+     "http://www.fablab-lannion.org/images/posts/lefet-3.jpg",
      "",
-     "..."
+     "<iframe width='560' height='315' src='https://www.youtube.com/embed/duFRgBmI8dQ' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
+      <center><i>Timelaps réalisé par le <a href='http://www.fablab-lannion.org/2018/04/libre-en-fete-2018.html'>FabLab Lannion</a></i></center>"
   ),
-  array("TODO: xxx Bénévoles / yy associations",
+  array("Des bénévoles des associations",
      "img/2016-5.JPG",
      "",
-     "Fablab, Code d'Armor, PATG, Ros'pered, Titux.org, La ville de Lannion mais aussi An Drouizig, Anticipa, l'April, Astrotregor, la BrestTech+, la Cité des Télécoms, le Conseil Départemental, l'ENSSAT, Infothema, l'IUT Lannion Infocom, Kristal, Lannion Trégor Communauté, LanPower, Les petits débrouillards, le Lycée le Dantec, Orange Solidarité, OSM France, Tripalium"
+     "Ils ont été nombreux et motivés !<br>
+     Aleccor, An Drouizig, Anticipa, l'April, BrestTech+, Code d'Armor, le Conseil Départemental, la Coopérative22,
+     l'Ecocentre, l'ENSSAT Lannion, Fablab Lannion, Hackable magazine, Infothema, l'IUT Lannion Infocom, Kristal, LanPower,
+     Lannion Trégor Communauté, Les petits débrouillards, le magazine Linux Pratique, le Lycée Le Dantec, Nerzh Nevez, Nos oignons,
+     Orange Solidarité, OpenStreetMap France, PATG, Telimed, Titux.org, Tripalium, VivreDansMaVille"
   ),
-  array("TODO: <x> Hackathons et <y> concours citoyen",
+  array("Le challenge Ada Lovelace et le concours de contributions à OpenStreetMap",
      "img/2016-2.JPG",
      "",
-     "Les vainqueurs des Hackathons Ada Lovelace (organisé par le Lycée le Dantec) et ENSSAT ont été primés. De même les contributeurs OSM avaient travaillé sur l'accessibilité sur le territoire et se sont vus récompensés."
+     "Les neuf lycéennes ayant remporté le challenge Ada Lovelace (organisé par le Lycée le Dantec, et soutenu par le tutorat d'étudiantes de l'ENSSAT) ont
+      été primées. Elles ont ensuite efféctué un stage d'une semaine à Orange Labs Lannion, partenaire du challenge.<br>
+      De même avec le 3ième concours de contributions à OpenStreetMap (organisé par la ville de Lannion et Lannion-Trégor Communauté)
+      sur le thème \"Randonnée et Déplacement doux\" dont les prix ont été remis aux meilleurs contributeurs."
   ),
   array("13 Conférences",
     "img/2016-7.JPG",
