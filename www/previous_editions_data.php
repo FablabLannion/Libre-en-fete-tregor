@@ -101,7 +101,7 @@ $data_2018 = array (
       <center><i>Timelaps réalisé par le <a href='http://www.fablab-lannion.org/2018/04/libre-en-fete-2018.html'>FabLab Lannion</a></i></center>"
   ),
   array("Des bénévoles des associations",
-     "img/2016-5.JPG",
+     "img/2018-5.JPG",
      "",
      "Ils ont été nombreux et motivés !<br>
      Aleccor, An Drouizig, Anticipa, l'April, BrestTech+, Code d'Armor, le Conseil Départemental, la Coopérative22,
@@ -110,7 +110,7 @@ $data_2018 = array (
      Orange Solidarité, OpenStreetMap France, PATG, Telimed, Titux.org, Tripalium, VivreDansMaVille"
   ),
   array("Le challenge Ada Lovelace et le concours de contributions à OpenStreetMap",
-     "img/2016-2.JPG",
+     "img/2018-2.JPG",
      "",
      "Les neuf lycéennes ayant remporté le challenge Ada Lovelace (organisé par le Lycée le Dantec, et soutenu par le tutorat d'étudiantes de l'ENSSAT) ont
       été primées. Elles ont ensuite efféctué un stage d'une semaine à Orange Labs Lannion, partenaire du challenge.<br>
@@ -118,7 +118,7 @@ $data_2018 = array (
       sur le thème \"Randonnée et Déplacement doux\" dont les prix ont été remis aux meilleurs contributeurs."
   ),
   array("13 Conférences",
-    "img/2016-7.JPG",
+    "img/2018-7.JPG",
     "",
     "Des mini-conférences ont été proposées tout au long de la journée.
     <table class='table1'>
@@ -180,8 +180,8 @@ $data_2018 = array (
       </tr>
     </table>"
   ),
-  array("Les 6 espaces",
-    "img/2016-3.JPG",
+  array("Les 7 espaces",
+    "img/2018-3.JPG",
     "",
     "<ul>
       <li>Explorer : numérique & territoire</li>
@@ -190,10 +190,11 @@ $data_2018 = array (
       <li>Apprendre</li>
       <li>Entreprendre</li>
       <li>Découvrir</li>
+      <li>Conférences</li>
     </ul>"
   ),
   array("Les Sponsors",
-    "img/2016-4.JPG",
+    "img/2018-4.JPG",
     "",
     "Ils nous ont fait confiance !
     <ul>
