@@ -5,6 +5,7 @@ $data_event_year = '2020';
 $data_event_date = 'Dimanche 29 mars ' . $data_event_year;
 $data_event_schedules = '10h à 18h';
 $data_event_location = 'Salle des Ursulines de Lannion';
+Flight::set('data_event_year', $data_event_year);
 Flight::set('data_event_date', $data_event_date);
 Flight::set('data_event_schedules', $data_event_schedules);
 Flight::set('data_event_location', $data_event_location);
