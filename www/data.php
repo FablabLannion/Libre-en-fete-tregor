@@ -88,7 +88,7 @@ $data_programme = array (
     </table>
     <div class='center-margin-top italic'>
       <i class='fa fa-envelope' aria-hidden='true'></i>  
-      <a href='mailto:contact@fablab-lannion.org?subject=[Libre en Fête Trégor $data_event_year] Proposition de conférence'>Proposer une conférence</a>
+      <a href='mailto:contact@libre-en-fete-tregor.fr?subject=[Libre en Fête Trégor $data_event_year] Proposition de conférence'>Proposer une conférence</a>
     </div>"
   ),
   array("Explorer : numérique & territoire",
@@ -158,7 +158,7 @@ Flight::set('data_programme', $data_programme);
 $data_partenaires = array (
   array(
     "<i class='fa fa-envelope' aria-hidden='true'></i>
-    <a href='mailto:contact@fablab-lannion.org?subject=[Libre en Fête Trégor $data_event_year] Devenir partenaire'>Devenir partenaire</a>",
+    <a href='mailto:contact@libre-en-fete-tregor.fr?subject=[Libre en Fête Trégor $data_event_year] Devenir partenaire'>Devenir partenaire</a>",
     "",
     "",
     ""
@@ -358,7 +358,7 @@ Flight::set('data_partenaires', $data_partenaires);
 $data_sponsors = array (
   array(
     "<i class='fa fa-envelope' aria-hidden='true'></i>
-    <a href='mailto:contact@fablab-lannion.org?subject=[Libre en Fête Trégor $data_event_year] Devenir sponsor'>Devenir sponsor</a>",
+    <a href='mailto:contact@libre-en-fete-tregor.fr?subject=[Libre en Fête Trégor $data_event_year] Devenir sponsor'>Devenir sponsor</a>",
     "",
     "",
     ""
