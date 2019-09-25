@@ -110,7 +110,7 @@ $data_2018 = array (
      Orange Solidarité, OpenStreetMap France, PATG, Telimed, Titux.org, Tripalium, VivreDansMaVille"
   ),
   array("Le challenge Ada Lovelace et le concours de contributions à OpenStreetMap",
-     "img/2018-2.JPG",
+     "img/2018-8.JPG",
      "",
      "Les neuf lycéennes ayant remporté le challenge Ada Lovelace (organisé par le Lycée le Dantec, et soutenu par le tutorat d'étudiantes de l'ENSSAT) ont
       été primées. Elles ont ensuite efféctué un stage d'une semaine à Orange Labs Lannion, partenaire du challenge.<br>
