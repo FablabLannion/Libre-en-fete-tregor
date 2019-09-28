@@ -127,7 +127,7 @@ $data_2018 = array (
         <th>Présentateur</th>
       </tr>
       <tr>
-        <td>Histoire & perspective du logiciel libre</td>
+        <td><a href=\"http://static.fablab-lannion.org/Com-master/LogicielLibre/#/\">Histoire & perspective du logiciel libre</a></td>
         <td>J.Labidurie (Fablab Lannion)</td>
       </tr>
       <tr>
