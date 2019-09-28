@@ -88,7 +88,7 @@ $data_programme = array (
       </tr>
     </table>
     <div class='center-margin-top italic'>
-      <i class='fa fa-envelope' aria-hidden='true'></i>  
+      <i class='fa fa-envelope' aria-hidden='true'></i>
       <a href='mailto:contact@libre-en-fete-tregor.fr?subject=[Libre en Fête Trégor $data_event_year] Proposition de conférence'>Proposer une conférence</a>
     </div>"
   ),
@@ -193,13 +193,6 @@ $data_partenaires = array (
     Anticipa concentre ses actions autour de <b>6 filières d’excellence </b>: numérique, photonique, cosmétique - biotech, alimentation-nutrition, naval-nautisme  et industrie. Elle <b>accompagne et soutient les projets </b> (individuels ou collaboratifs) issus de ces filières quelle que soit leur nature (création, implantation, développement, internationalisation…) et <b> anime </b> les filières par l’organisation de divers événements dédiés (colloques, rencontres, focus, formations…).<br>
     La technopole Anticipa est à l’écoute de tous et propose un accompagnement sur mesure à tous les projets d’entreprise.</p>"
   ),
-  array("IUT Lannion",
-    "img/logo_iut.png",
-    "http://www.iut-lannion.fr/",
-    "L'IUT Lannion, près de 50 ans d'expérience, est un établissement majeur de l'enseignement supérieur et de la recherche des Côtes d'Armor.
-    <br>Composante à part entière de l'Université de Rennes 1, l'IUT Lannion répond à trois missions fondamentales : la formation initiale des jeunes étudiants, la formation tout au long de la vie, la recherche et le transfert de technologies. Ainsi, les équipes pédagogiques se composent à la fois d'enseignants, d'enseignants-chercheurs et de professionnels.
-    <br>Accueillant des publics multiples, bacheliers de tous types (bacs généraux, technologiques et professionnels), salariés et demandeurs d'emplois, l'IUT s'efforce de proposer des formules adaptées aux aspirations et au potentiel de chacun. Ses formations universitaires et professionnalisantes offrent les meilleurs atouts pour entrer dans la vie active, soit directement après le Diplôme Universitaire de Technologie, soit après une Licence Professionnelle, soit après des études longues (licences, masters, écoles d'ingénieurs, etc...)."
-  ),
   array("Lannion Trégor Communauté",
     "img/LOGO_LTC_GeneriqueFR.jpg",
     "http://www.lannion-tregor.com/",
@@ -215,8 +208,37 @@ $data_partenaires = array (
     "http://www.codedarmor.fr/",
     "Code d'Armor a pour but de construire une communauté de développeurs sur la région de Lannion. Nous organisons des évènements autour du monde du développement informatique (meetups, codelabs, concours, ...).<br> Passionnés, intéressés, motivés, interloqués, vous êtes tous les bienvenus !"
   ),
-
+  array("Coopérative22",
+    "img/coop22.png",
+    "https://twitter.com/cpn22",
+    "La coopérative, c’est :
+    <ul><li>l’ensemble des établissements scolaires du département qui peuvent accueillir ou proposer des animations autour du numérique</li>
+        <li>un point central : les sites pilotes qui fédèrent l’ensemble des initiatives du terrain et proposent de nombreuses animations et temps d’échanges entre pairs</li>
+    </ul><br>
+	  Pour les Côtes d’Armor :
+	  <ul><li>Ecole Morand-Savidan à Lannion</li>
+	  <li>Collège Yves Coppens à Lannion</li>
+      <li>Lycée Félix Le Dantec à Lannion</li></ul><br>
+      La coopérative, ça permet de :
+      <ul><li>participer à des animations autour de la pédagogie et du numérique</li>
+          <li>venir tester des outils ou des pratiques pédagogiques</li>
+          <li>travailler entre pairs sur des pratiques pédagogiques</li>
+          <li>s’informer sur des évènements liés au numérique éducatif autour de chez vous</li>
+          <li>s’engager en partageant vos expériences et vos pratiques pédagogiques</li></ul>"
+  ),
+  array("LanPower",
+    "img/logo-lanpower.jpg",
+    "http://asso.lanpower.free.fr/",
+    "L'association LanPower de Rennes spécialisée sur les jeux video sous licences libres depuis 10 ans, participera au stand jeux libres tous publics et représentera le site <a href='http://jeuxlibres.net'>jeuxlibres.net</a> ainsi que le site <a href='https://libregamesinitiatives.tuxfamily.org/index.php'>LibreGamesInitiatives</a>. Des jeux pour petits et grands ainsi que des jeux en réseau seront présentés, mais aussi de très vieux ordinateurs et des jeux retro."
+  ),
 /*
+  array("IUT Lannion",
+    "img/logo_iut.png",
+    "http://www.iut-lannion.fr/",
+    "L'IUT Lannion, près de 50 ans d'expérience, est un établissement majeur de l'enseignement supérieur et de la recherche des Côtes d'Armor.
+    <br>Composante à part entière de l'Université de Rennes 1, l'IUT Lannion répond à trois missions fondamentales : la formation initiale des jeunes étudiants, la formation tout au long de la vie, la recherche et le transfert de technologies. Ainsi, les équipes pédagogiques se composent à la fois d'enseignants, d'enseignants-chercheurs et de professionnels.
+    <br>Accueillant des publics multiples, bacheliers de tous types (bacs généraux, technologiques et professionnels), salariés et demandeurs d'emplois, l'IUT s'efforce de proposer des formules adaptées aux aspirations et au potentiel de chacun. Ses formations universitaires et professionnalisantes offrent les meilleurs atouts pour entrer dans la vie active, soit directement après le Diplôme Universitaire de Technologie, soit après une Licence Professionnelle, soit après des études longues (licences, masters, écoles d'ingénieurs, etc...)."
+  ),
   array("Aleccor",
     "img/logo_aleccor.jpg",
     "http://www.aleccor.infini.fr",
@@ -248,24 +270,6 @@ $data_partenaires = array (
     <b>L'Open Data, pour qui ?</b>
     Pour tout le monde ! A titre d'exemple, les entreprises peuvent y trouver matière à proposer de nouvelles applications et des services innovants dédiés aux smartphones et aux tablettes ; le grand public peut y trouver des informations propres à enrichir sa culture générale ; les journalistes peuvent y dénicher des informations destinées à leurs articles ; les chercheurs des éléments susceptibles d'alimenter leurs études ou leurs travaux."
   ),
-  array("Coopérative22",
-    "img/coop22.png",
-    "https://twitter.com/cpn22",
-    "La coopérative, c’est :
-    <ul><li>l’ensemble des établissements scolaires du département qui peuvent accueillir ou proposer des animations autour du numérique</li>
-        <li>un point central : les sites pilotes qui fédèrent l’ensemble des initiatives du terrain et proposent de nombreuses animations et temps d’échanges entre pairs</li>
-    </ul><br>
-	  Pour les Côtes d’Armor :
-	  <ul><li>Ecole Morand-Savidan à Lannion</li>
-	  <li>Collège Yves Coppens à Lannion</li>
-      <li>Lycée Félix Le Dantec à Lannion</li></ul><br>
-      La coopérative, ça permet de :
-      <ul><li>participer à des animations autour de la pédagogie et du numérique</li>
-          <li>venir tester des outils ou des pratiques pédagogiques</li>
-          <li>travailler entre pairs sur des pratiques pédagogiques</li>
-          <li>s’informer sur des évènements liés au numérique éducatif autour de chez vous</li>
-          <li>s’engager en partageant vos expériences et vos pratiques pédagogiques</li></ul>"
-  ),
   array("Ecocentre",
     "img/ecocentre.png",
     "http://www.ecocentre-tregor.fr/",
@@ -287,11 +291,6 @@ $data_partenaires = array (
     "img/kristal.png",
     "http://kristal.io/fr/",
     "Lancée en février 2015, Kristal propose, avec son framework Open Source <a href=\"http://cobaltians.org/\">Cobalt</a>, un nouvel outil pour développer des applications mobiles, utilisant le Web afin de réduire les coûts tout en gardant des performances élevées. Cobalt, c'est aussi une association, les \"Cobaltians\", qui a pour objet de faire connaître, promouvoir et améliorer le framework."
-  ),
-  array("LanPower",
-    "img/logo-lanpower.jpg",
-    "http://asso.lanpower.free.fr/",
-    "L'association LanPower de Rennes spécialisée sur les jeux video sous licences libres depuis 10 ans, participera au stand jeux libres tous publics et représentera le site <a href='http://jeuxlibres.net'>jeuxlibres.net</a> ainsi que le site <a href='https://libregamesinitiatives.tuxfamily.org/index.php'>LibreGamesInitiatives</a>. Des jeux pour petits et grands ainsi que des jeux en réseau seront présentés, mais aussi de très vieux ordinateurs et des jeux retro."
   ),
   array("Les petits débrouillards",
     "img/Logo-petitsdebrouillards.jpg",
