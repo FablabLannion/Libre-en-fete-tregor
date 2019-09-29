@@ -118,7 +118,7 @@ $data_programme = array (
      "",
      "<ul>
         <li>Jeux sous licences libres</li>
-        <li>Ordivintage et vieux jeu</li>
+        <li>Ordivintage et vieux jeux</li>
         <li>LinuxConsole</li>
         <li>Rétro-gaming sur RaspberryPi/Mini Consoles d'Arcades</li>
       </ul>
@@ -132,7 +132,7 @@ $data_programme = array (
         <li>...</li>
         <li>...</li>
       </ul>
-      <br><a href=''>Contact : ?</a>"
+      <br><a href=''>Contact : Bénédicte</a>"
   ),
   array("Entreprendre",
      "img/20170510_214516.jpg",
@@ -142,7 +142,7 @@ $data_programme = array (
         <li>...</li>
         <li>...</li>
       </ul>
-      <br><a href=''>Contact : Bénédicte</a>"
+      <br><a href=''>Contact : ?</a>"
   ),
   array("Découvrir",
      "img/4979030420_77b090328d_z.jpg",
