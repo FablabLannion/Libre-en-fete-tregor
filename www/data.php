@@ -117,11 +117,12 @@ $data_programme = array (
      "img/jeux.jpg",
      "",
      "<ul>
-        <li>...</li>
-        <li>...</li>
-        <li>...</li>
+        <li>Jeux sous licences libres</li>
+        <li>Ordivintage et vieux jeu</li>
+        <li>LinuxConsole</li>
+        <li>Rétro-gaming sur RaspberryPi/Mini Consoles d'Arcades</li>
       </ul>
-      <br><a href=''>Contact : ?</a>"
+      <br><a href='mailto:patrice@libre-en-fete-tregor.fr'>Contact : Patrice</a>"
   ),
   array("Apprendre",
      "img/33940617933_259c4a281a_z.jpg",
@@ -141,7 +142,7 @@ $data_programme = array (
         <li>...</li>
         <li>...</li>
       </ul>
-      <br><a href=''>Contact : ?</a>"
+      <br><a href=''>Contact : Bénédicte</a>"
   ),
   array("Découvrir",
      "img/4979030420_77b090328d_z.jpg",
