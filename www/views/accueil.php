@@ -6,7 +6,7 @@
                 <div class="col-lg-12">
                     <div class="intro-message">
                         <h1>Libre en Fête en Trégor</h1>
-                        <h3>Dimanche 25 Mars 2018 - Salle des Ursulines - 10h à 18h</h3>
+                        <h3><?php echo Flight::get('data_event_date');?> - <?php echo Flight::get('data_event_location');?> - <?php echo Flight::get('data_event_schedules');?></h3>
                         <hr class="intro-divider">
                         <ul class="list-inline intro-social-buttons">
                             <li>
@@ -16,10 +16,10 @@
                                 <a href="https://www.facebook.com/Libre-en-F%C3%AAte-Tr%C3%A9gor-970420503044317/" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook</span></a>
                             </li>
                         </ul>
+                        <hr class="intro-divider">
                     </div>
                 </div>
             </div>
-
         </div>
         <!-- /.container -->
 
@@ -35,9 +35,9 @@
                     <div class="clearfix"></div>
                     <h2 class="section-heading">À propos</h2>
                     <p class="lead">
-                    Initiée et coordonnée par l'April, l'initiative Libre en Fête célébrera son 18ème anniversaire en 2018. Des événements de découverte des Logiciels Libres et du Libre en général sont proposés partout en France, dans une dynamique conviviale et festive.</p>
+                    Initiée et coordonnée par l'April, l'initiative Libre en Fête célébrera son <?php echo Flight::get('data_event_year') - 2000;?>ème anniversaire en <?php echo Flight::get('data_event_year');?>. Des événements de découverte des Logiciels Libres et du Libre en général sont proposés partout en France, dans une dynamique conviviale et festive.</p>
                     <p>
-                    Un ensemble d'associations Trégorroises s'associent et proposent une série d'animations autour du logiciel libre le Dimanche 25 Mars 2018 dans la salle des Ursulines de Lannion.
+                    Un ensemble d'associations Trégorroises s'associent et proposent une série d'animations autour du logiciel libre le <?php echo Flight::get('data_event_date'); ?> dans la <?php echo Flight::get('data_event_location');?>.
                     </p>
                 </div>
 
