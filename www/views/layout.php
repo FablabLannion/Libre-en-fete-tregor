@@ -72,9 +72,9 @@
                     <li>
                        <a href="/pratique">Pratique</a>
                    </li>
-                   <li>
+                   <!-- <li>
                       <a href="/concours">Concours</a>
-                   </li>
+                   </li> -->
                     <li>
                         <a href="/sponsors">Sponsors</a>
                     </li>

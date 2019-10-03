@@ -9,7 +9,7 @@ Flight::route('/pratique',       'pratique');
 Flight::route('/programme',      'programme');
 Flight::route('/partenaires',    'partenaires');
 Flight::route('/credits',        'credits');
-Flight::route('/concours',       'concours');
+// Flight::route('/concours',       'concours');
 Flight::route('/sponsors',       'sponsors');
 Flight::route('/@year:[0-9]{4}', 'previous_edition');
 
@@ -44,10 +44,10 @@ function sponsors() {
    Flight::render ('layout', array('title'=>"Sponsors"));
 } // sponsors
 
-function concours() {
-   Flight::render ('concours', null, 'body' );
-   Flight::render ('layout', array('title'=>"Concours"));
-} // sponsors
+// function concours() {
+//    Flight::render ('concours', null, 'body' );
+//    Flight::render ('layout', array('title'=>"Concours"));
+// } // concours
 
 function previous_edition($year) {
    Flight::render ('previous_edition', array('year'=>$year), 'body' );
