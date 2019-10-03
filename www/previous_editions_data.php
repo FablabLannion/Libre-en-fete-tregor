@@ -95,7 +95,7 @@ Flight::set('data_2016', $data_2016);
 
 $data_2018 = array (
   array("Les chiffres :<br> 700 visiteurs, 120 bénévoles, 30 partenaires, 20 exposants et 5 sponsors",
-     "http://www.fablab-lannion.org/images/posts/lefet-3.jpg",
+     "img/2018_lefet-3.jpg",
      "",
      "<iframe width='560' height='315' src='https://www.youtube.com/embed/duFRgBmI8dQ' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
       <center><i>Timelaps réalisé par le <a href='http://www.fablab-lannion.org/2018/04/libre-en-fete-2018.html'>FabLab Lannion</a></i></center>"
