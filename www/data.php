@@ -175,12 +175,6 @@ $data_partenaires = array (
     "http://www.infothema.fr/",
     "L'association Infothema a pour vocation la promotion des Logiciels Libres sur le département des Côtes d'Armor (Bretagne)."
   ),
-  array(
-    "PATG",
-    "img/patg.png",
-    "https://sites.google.com/site/patglannion2010/",
-    "Promouvoir et Agir en Trégor Goëlo (PATG) est une association axée sur l'aide aux particuliers et aux très petites entreprises du Trégor Goëlo. PATG tente de réduire la fracture sociale et la fracture technique en visant la reprise des relations humaines et la réinsertion sociale. L'informatique est utilisée comme support parce que c'est un élément qui permet facilement les rapprochements humains, et apporte un complément de connaissances utile pour l'emploi et la vie courante."
-  ),
   array("Lycée Le Dantec",
     "img/LeDANTEC.png",
     "http://www.lycee-ledantec.ac-rennes.fr/",
@@ -233,6 +227,12 @@ $data_partenaires = array (
     "L'association LanPower de Rennes spécialisée sur les jeux video sous licences libres depuis 10 ans, participera au stand jeux libres tous publics et représentera le site <a href='http://jeuxlibres.net'>jeuxlibres.net</a> ainsi que le site <a href='https://libregamesinitiatives.tuxfamily.org/index.php'>LibreGamesInitiatives</a>. Des jeux pour petits et grands ainsi que des jeux en réseau seront présentés, mais aussi de très vieux ordinateurs et des jeux retro."
   ),
 /*
+  array(
+    "PATG",
+    "img/patg.png",
+    "https://sites.google.com/site/patglannion2010/",
+    "Promouvoir et Agir en Trégor Goëlo (PATG) est une association axée sur l'aide aux particuliers et aux très petites entreprises du Trégor Goëlo. PATG tente de réduire la fracture sociale et la fracture technique en visant la reprise des relations humaines et la réinsertion sociale. L'informatique est utilisée comme support parce que c'est un élément qui permet facilement les rapprochements humains, et apporte un complément de connaissances utile pour l'emploi et la vie courante."
+  ),
   array("IUT Lannion",
     "img/logo_iut.png",
     "http://www.iut-lannion.fr/",
