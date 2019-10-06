@@ -203,7 +203,6 @@ $data_2018 = array (
       <li>Lannion Trégor Communauté</li>
       <li>Ville de Lannion</li>
       <li>Ixia</li>
-      <li>Nokia</li>
     </ul>"
   ),
 );
