@@ -155,7 +155,7 @@ $data_2018 = array (
         <td>Orange</td>
       </tr>
       <tr>
-        <td>Si j'avais un Bitcoin: cryptomonnaie mode d'emploi</td>
+        <td><a href=\"https://speakerdeck.com/pylapp/cryptomonnaies-mode-demploi-en-20\">Si j'avais un Bitcoin: cryptomonnaie mode d'emploi</a></td>
         <td>PY.Lapersonne (Code d'Armor)</td>
       </tr>
       <tr>
