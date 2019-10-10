@@ -94,7 +94,7 @@ $data_2016 = array (
 Flight::set('data_2016', $data_2016);
 
 $data_2018 = array (
-  array("Les chiffres :<br> 700 visiteurs, 120 bénévoles, 30 partenaires, 20 exposants et 5 sponsors",
+  array("Les chiffres :<br> 800 visiteurs, 120 bénévoles, 30 partenaires, 20 exposants et 5 sponsors",
      "img/2018_lefet-3.jpg",
      "",
      "<iframe width='560' height='315' src='https://www.youtube.com/embed/duFRgBmI8dQ' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
