@@ -226,6 +226,11 @@ $data_partenaires = array (
     "http://asso.lanpower.free.fr/",
     "L'association LanPower de Rennes spécialisée sur les jeux video sous licences libres depuis 10 ans, participera au stand jeux libres tous publics et représentera le site <a href='http://jeuxlibres.net'>jeuxlibres.net</a> ainsi que le site <a href='https://libregamesinitiatives.tuxfamily.org/index.php'>LibreGamesInitiatives</a>. Des jeux pour petits et grands ainsi que des jeux en réseau seront présentés, mais aussi de très vieux ordinateurs et des jeux retro."
   ),
+  array("Collectif PrimTux",
+        "img/logo-primtux.png",
+        "http://collectif.primtux.fr/",
+        "L’association Collectif Primtux a pour objet la promotion et le développement de la <a href='https://primtux.fr/'>distribution éducative PrimTux</a> notamment par des actions de formation et de sensibilisation, l’organisation de réunions pour le développement technique et pédagogique de la distribution, l’organisation de manifestations et activités annexes. Elle participe à la revalorisation de matériels informatiques obsolescents en les orientant vers le milieu scolaire ou éducatif."
+  ),
 /*
   array(
     "PATG",
