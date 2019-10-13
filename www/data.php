@@ -89,7 +89,7 @@ $data_programme = array (
     </table>
     <div class='center-margin-top italic'>
       <i class='fa fa-envelope' aria-hidden='true'></i>
-      <a href='mailto:contact@libre-en-fete-tregor.fr?subject=[Libre en Fête Trégor $data_event_year] Proposition de conférence'>Proposer une conférence</a>
+      <a href='mailto:pierre@libre-en-fete-tregor.fr?subject=[Libre en Fête Trégor $data_event_year] Proposition de conférence'>Proposer une conférence</a>
     </div>"
   ),
   array("Explorer : numérique & territoire",
@@ -122,7 +122,7 @@ $data_programme = array (
         <li>LinuxConsole</li>
         <li>Rétro-gaming sur RaspberryPi/Mini Consoles d'Arcades</li>
       </ul>
-      <br><a href='mailto:patrice@libre-en-fete-tregor.fr'>Contact : Patrice</a>"
+      <br><a href='mailto:patrice@libre-en-fete-tregor.fr?subject=[Libre en Fête Trégor $data_event_year] Espace Jouer'>Contact : Patrice</a>"
   ),
   array("Apprendre",
      "img/33940617933_259c4a281a_z.jpg",
@@ -132,7 +132,7 @@ $data_programme = array (
         <li>...</li>
         <li>...</li>
       </ul>
-      <br><a href=''>Contact : Bénédicte</a>"
+      <br><a href='benedicte@libre-en-fete-tregor.fr?subject=[Libre en Fête Trégor $data_event_year] Espace Apprendre'>Contact : Bénédicte</a>"
   ),
   array("Entreprendre",
      "img/20170510_214516.jpg",
@@ -152,7 +152,7 @@ $data_programme = array (
         <li>...</li>
         <li>...</li>
       </ul>
-      <br><a href=''>Contact : ?</a>"
+      <br><a href='eric@libre-en-fete-tregor.fr?subject=[Libre en Fête Trégor $data_event_year] Espace Découvrir'>Contact : Éric</a>"
   ),
 );
 Flight::set('data_programme', $data_programme);
