@@ -100,7 +100,7 @@ $data_programme = array (
         <li>...</li>
         <li>...</li>
       </ul>
-      <br><a href=''>Contact : ?</a>"
+      <br><a href='mailto:'>Contact : ?</a>"
   ),
   array(
      "Comprendre: numérique et enjeux citoyens",
@@ -111,7 +111,7 @@ $data_programme = array (
         <li>...</li>
         <li>...</li>
       </ul>
-      <br><a href=''>Contact : ?</a>"
+      <br><a href='mailto:'>Contact : ?</a>"
   ),
   array("Jouer",
      "img/jeux.jpg",
@@ -132,7 +132,7 @@ $data_programme = array (
         <li>...</li>
         <li>...</li>
       </ul>
-      <br><a href='benedicte@libre-en-fete-tregor.fr?subject=[Libre en Fête Trégor $data_event_year] Espace Apprendre'>Contact : Bénédicte</a>"
+      <br><a href='mailto:benedicte@libre-en-fete-tregor.fr?subject=[Libre en Fête Trégor $data_event_year] Espace Apprendre'>Contact : Bénédicte</a>"
   ),
   array("Entreprendre",
      "img/20170510_214516.jpg",
@@ -142,7 +142,7 @@ $data_programme = array (
         <li>...</li>
         <li>...</li>
       </ul>
-      <br><a href=''>Contact : ?</a>"
+      <br><a href='mailto:agnes@libre-en-fete-tregor.fr?subject=[Libre en Fête Trégor $data_event_year] Espace Entreprendre'>Contact : Agnès</a>"
   ),
   array("Découvrir",
      "img/4979030420_77b090328d_z.jpg",
@@ -152,7 +152,7 @@ $data_programme = array (
         <li>...</li>
         <li>...</li>
       </ul>
-      <br><a href='eric@libre-en-fete-tregor.fr?subject=[Libre en Fête Trégor $data_event_year] Espace Découvrir'>Contact : Éric</a>"
+      <br><a href='mailto:eric@libre-en-fete-tregor.fr?subject=[Libre en Fête Trégor $data_event_year] Espace Découvrir'>Contact : Éric</a>"
   ),
 );
 Flight::set('data_programme', $data_programme);
