@@ -231,6 +231,16 @@ $data_partenaires = array (
         "http://collectif.primtux.fr/",
         "L’association Collectif Primtux a pour objet la promotion et le développement de la <a href='https://primtux.fr/'>distribution éducative PrimTux</a> notamment par des actions de formation et de sensibilisation, l’organisation de réunions pour le développement technique et pédagogique de la distribution, l’organisation de manifestations et activités annexes. Elle participe à la revalorisation de matériels informatiques obsolescents en les orientant vers le milieu scolaire ou éducatif."
   ),
+  array("Nerzh Nevez",
+    "img/logoNNppp.jpg",
+    "http://nerzh-nevez.com/",
+    "<a href=\"http://nerzh-nevez.com/\">Nerzh Nevez</a> et <a href=\"http://www.ecocentre-tregor.fr\">L'ECOCENTRE</a> organisent des stages Tripalium et d'autres en lien avec l'autonomie énergétique.<br>Les objets réalisés s'inspirent de plans libres de droit. Ils sont l'occasion de découvrir ou de perfectionner des techniques qui permettent de devenir plus autonome."
+  ),
+  array("Tripalium",
+    "img/tripalium.jpeg",
+    "http://www.tripalium.org/",
+    "<b>Tripalium est un réseau d'acteurs</b> fondé en 2007. Il propose régulièrement <b>des stages d'auto-construction d'éoliennes</b> ouverts à tous. <b>Plus de 150 éoliennes Piggott</b> ont déjà été fabriquées en France."
+  ),
 /*
   array(
     "PATG",
@@ -309,11 +319,6 @@ $data_partenaires = array (
     "<h2>LE MAGAZINE POUR COMPRENDRE, UTILISER ET ADMINISTRER LINUX ET LES LOGICIELS LIBRES AU QUOTIDIEN SUR PC, MAC & RASPBERRY PI</h2>
     <br>Avec sa ligne rédactionnelle résolument pratique, Linux Pratique a été conçu pour répondre aux besoins des particuliers et des entreprises à la recherche de solutions open source. Ce bimestriel a pour but de démocratiser l'alternative open source via des présentations de logiciels libres, divers didacticiels, mais aussi par des articles de vulgarisation technique. À travers ses rubriques variées (programmation, cahier Raspberry Pi, solutions professionnelles, web, système, etc.), le magazine vous permettra de faire le plein d’informations sur le monde de l’open source et des logiciels libres. Bref, Linux Pratique c’est comprendre, utiliser & administrer Linux au quotidien sur PC, Mac et Raspberry Pi !"
   ),
-  array("Nerzh Nevez",
-    "img/logoNNppp.jpg",
-    "http://nerzh-nevez.com/",
-    "<a href=\"http://nerzh-nevez.com/\">Nerzh Nevez</a> et <a href=\"http://www.ecocentre-tregor.fr\">L'ECOCENTRE</a> organisent des stages Tripalium et d'autres en lien avec l'autonomie énergétique.<br>Les objets réalisés s'inspirent de plans libres de droit. Ils sont l'occasion de découvrir ou de perfectionner des techniques qui permettent de devenir plus autonome."
-  ),
   array("Nos oignons",
     "img/nos-oignons-blanc.png",
     "https://nos-oignons.net/",
@@ -339,11 +344,6 @@ $data_partenaires = array (
     "img/logo-700x700-Titux.org.png",
     "https://www.titux.org/asso/doku.php",
     "L'association a pour but de favoriser et développer l'intérêt, la pratique et la connaissance des usages du numérique, la promotion des logiciels et systèmes d'exploitation libres, ainsi que la mutualisation de moyens informatiques. Nos actions sont sur la région lannionnaise."
-  ),
-  array("Tripalium",
-    "img/tripalium.jpeg",
-    "http://www.tripalium.org/",
-    "<b>Tripalium est un réseau d'acteurs</b> fondé en 2007. Il propose régulièrement <b>des stages d'auto-construction d'éoliennes</b> ouverts à tous. <b>Plus de 150 éoliennes Piggott</b> ont déjà été fabriquées en France."
   ),
   array("VivreDansMaVille",
     "img/Logo-Vivre-sans-baseline.PNG",
