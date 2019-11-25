@@ -241,13 +241,25 @@ $data_partenaires = array (
     "http://www.tripalium.org/",
     "<b>Tripalium est un réseau d'acteurs</b> fondé en 2007. Il propose régulièrement <b>des stages d'auto-construction d'éoliennes</b> ouverts à tous. <b>Plus de 150 éoliennes Piggott</b> ont déjà été fabriquées en France."
   ),
-/*
   array(
     "PATG",
     "img/patg.png",
     "https://sites.google.com/site/patglannion2010/",
     "Promouvoir et Agir en Trégor Goëlo (PATG) est une association axée sur l'aide aux particuliers et aux très petites entreprises du Trégor Goëlo. PATG tente de réduire la fracture sociale et la fracture technique en visant la reprise des relations humaines et la réinsertion sociale. L'informatique est utilisée comme support parce que c'est un élément qui permet facilement les rapprochements humains, et apporte un complément de connaissances utile pour l'emploi et la vie courante."
   ),
+  array(
+    "CCER",
+    "", //"img/ccer.png",
+    "http://www.ccer-treguier.fr/",
+    "Le Centre Culturel Ernest Renan (CCER) de Tréguier est une association laïque d'éducation populaire proposant des activités intellectuelles, artistiques, physiques, sociales et civiques . Participer à ses activités, c'est aussi devenir acteur de l'animation de son territoire. En 2020, c'est 460 adhérents provenant de 56 communes du Trégor. L’offre culturelle du CCER se décline en activités pour lesquelles il est nécessaire d’être adhérent du CCER, et qui se pratiquent tout le long de la saison, et en événementiels imaginés et organisés par le CCER,  accessibles au public le plus large et par lesquels le CCER joue pleinement son rôle dans et pour l’animation de la ville et du territoire. C'est dans ce cadre que sont proposés bénévolement des ateliers d'initiation à l'informatique."
+  ),
+  array(
+    "Trégor Energ'éthiques",
+    "img/Logo_TE_300dpi.jpg",
+    "https://www.tregor-energethiques.org/",
+    "L'association Trégor Energ'éthiques a pour mission d'agir dans tous les domaines relevant de la maîtrise des consommations d’énergie, de la promotion, du développement et de la production des énergies renouvelables. Elle associera les citoyens au développement de ces énergies en agissant comme un incubateur de projets de production d'électricité d'origine renouvelable sur le territoire de Lannion Trégor Communauté."
+  ),
+/*
   array("IUT Lannion",
     "img/logo_iut.png",
     "http://www.iut-lannion.fr/",
