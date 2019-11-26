@@ -249,7 +249,7 @@ $data_partenaires = array (
   ),
   array(
     "CCER",
-    "", //"img/ccer.png",
+    "img/CCER-2.png",
     "http://www.ccer-treguier.fr/",
     "Le Centre Culturel Ernest Renan (CCER) de Tréguier est une association laïque d'éducation populaire proposant des activités intellectuelles, artistiques, physiques, sociales et civiques . Participer à ses activités, c'est aussi devenir acteur de l'animation de son territoire. En 2020, c'est 460 adhérents provenant de 56 communes du Trégor. L’offre culturelle du CCER se décline en activités pour lesquelles il est nécessaire d’être adhérent du CCER, et qui se pratiquent tout le long de la saison, et en événementiels imaginés et organisés par le CCER,  accessibles au public le plus large et par lesquels le CCER joue pleinement son rôle dans et pour l’animation de la ville et du territoire. C'est dans ce cadre que sont proposés bénévolement des ateliers d'initiation à l'informatique."
   ),
