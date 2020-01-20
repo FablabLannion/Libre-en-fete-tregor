@@ -100,7 +100,7 @@ $data_programme = array (
         <li>...</li>
         <li>...</li>
       </ul>
-      <br><a href='mailto:'>Contact : ?</a>"
+      <br><a href='mailto:nico@libre-en-fete-tregor.fr?subject=[Libre en Fête Trégor $data_event_year] Espace Numérique, territoire et enjeux citoyens'>Contact : Nicolas</a>"
   ),
 //   array(
 //      "Comprendre: numérique et enjeux citoyens",
