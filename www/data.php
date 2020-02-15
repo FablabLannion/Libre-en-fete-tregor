@@ -116,13 +116,24 @@ $data_programme = array (
   array("Jouer",
      "img/jeux.jpg",
      "",
-     "<ul>
-        <li>Jeux sous licences libres</li>
-        <li>Ordivintage et vieux jeux</li>
-        <li>LinuxConsole</li>
-        <li>Rétro-gaming sur RaspberryPi/Mini Consoles d'Arcades</li>
-      </ul>
-      <br><a href='mailto:patrice@libre-en-fete-tregor.fr?subject=[Libre en Fête Trégor $data_event_year] Espace Jouer'>Contact : Patrice</a>"
+		"Les jeux vidéo sous licence libre sont des jeux qui donnent plus de droits à l’utilisateur que les jeux
+		classiques :
+		<ul>
+		<li>droit de le télécharger (pas de « téléchargement illégal »),</li>
+		<li>de le copier,                                               </li>
+		<li>de l’installer sur plusieurs ordinateurs,                   </li>
+		<li>de le donner,                                               </li>
+		<li>de le partager                                              </li>
+		<li>et aussi de participer à sa réalisation (traduction en français, réalisation de dessins, par exemple).</li>
+		</ul>
+		<b>Ordivintage</b> stand animé par Nicolas. Découvrez les ordinateurs de vos parents ou grands
+		parents et ce qu'on peut faire avec. Notamment les jeux video de l'époque. Nicolas est notre spécialiste en
+		récupération de vieilles machines sauvegardant ainsi ce patrimoine teechnologique.<br/>
+		<b>Retrogaming</b> découvrez les mini consoles de jeux à base de mini cartes de type Rasberry Pi
+		pour jouer à de multiples jeux d'antan grâce à « Recall box » ou « RetroPi ». De quoi divertir petits et grands.<br/>
+		<b>LinuxConsole</b> stand animé par Yann.découvrez l’une des plus anciennes distributions
+		française, pour jouer, mais pas seulement...<br/>
+		<br><a href='mailto:patrice@libre-en-fete-tregor.fr?subject=[Libre en Fête Trégor $data_event_year] Espace Jouer'>Contact : Patrice</a>"
   ),
   array("Apprendre",
      "img/33940617933_259c4a281a_z.jpg",
@@ -222,7 +233,7 @@ $data_partenaires = array (
           <li>s’engager en partageant vos expériences et vos pratiques pédagogiques</li></ul>"
   ),
   array("LanPower",
-    "img/logo-lanpower.jpg",
+    "img/logo-lanpower.png",
     "http://asso.lanpower.free.fr/",
     "L'association LanPower de Rennes spécialisée sur les jeux video sous licences libres depuis 10 ans, participera au stand jeux libres tous publics et représentera le site <a href='http://jeuxlibres.net'>jeuxlibres.net</a> ainsi que le site <a href='https://libregamesinitiatives.tuxfamily.org/index.php'>LibreGamesInitiatives</a>. Des jeux pour petits et grands ainsi que des jeux en réseau seront présentés, mais aussi de très vieux ordinateurs et des jeux retro."
   ),
