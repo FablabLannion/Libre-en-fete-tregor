@@ -11,8 +11,6 @@
                     <a href="http://www.openstreetmap.org/directions?engine=osrm_car&route=48.72745%2C-3.46037%3B48.73128%2C-3.45346#map=17/48.72960/-3.45676&layers=T">Depuis la gare SNCF</a><br/>
                     <a href="http://www.openstreetmap.org/directions?engine=osrm_car&route=48.7559%2C-3.4719%3B48.7313%2C-3.4535#map=14/48.7434/-3.4557&layers=T">Depuis l'aéroport</a><br>
                     Plus d'information sur le <a href="https://www.lannion.bzh/cadre-de-vie/les-deplacements">site de la ville de Lannion</a><br>
-                    En covoiturage avec mobicoop
-                    <iframe src ="https://www.mobicoop.fr/evenements/widgets/libre-en-fete-en-tregor-2020" width="100%" height="440px" frameborder="0" scrolling="no"></iframe>
                     </p>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
@@ -27,9 +25,30 @@
 
         </div>
         <!-- /.container -->
-
     </div>
     <!-- /.content-section-a -->
+
+      <div class="content-section-a">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5 col-sm-6">
+
+                    <iframe src ="https://www.mobicoop.fr/evenements/widgets/libre-en-fete-en-tregor-2020" width="100%" height="440px" frameborder="0" scrolling="no"></iframe>
+
+                </div>
+                <div class="col-lg-5 col-lg-offset-2 col-sm-6">
+                    <hr class="section-heading-spacer">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading">Covoiturage</h2>
+                    avec mobicoop.fr
+                </div>
+            </div>
+
+        </div>
+        <!-- /.container -->
+    </div>
+    <!-- /.content-section-a -->
+
 
     <!-- <div class="content-section-b">
 
