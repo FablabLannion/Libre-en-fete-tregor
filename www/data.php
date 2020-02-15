@@ -126,12 +126,12 @@ $data_programme = array (
 		<li>de le partager                                              </li>
 		<li>et aussi de participer à sa réalisation (traduction en français, réalisation de dessins, par exemple).</li>
 		</ul>
-		<b>Ordivintage</b> stand animé par Nicolas. Découvrez les ordinateurs de vos parents ou grands
+		<em>Ordivintage</em> stand animé par Nicolas. Découvrez les ordinateurs de vos parents ou grands
 		parents et ce qu'on peut faire avec. Notamment les jeux video de l'époque. Nicolas est notre spécialiste en
 		récupération de vieilles machines sauvegardant ainsi ce patrimoine teechnologique.<br/>
-		<b>Retrogaming</b> découvrez les mini consoles de jeux à base de mini cartes de type Rasberry Pi
+		<em>Retrogaming</em> découvrez les mini consoles de jeux à base de mini cartes de type Rasberry Pi
 		pour jouer à de multiples jeux d'antan grâce à « Recall box » ou « RetroPi ». De quoi divertir petits et grands.<br/>
-		<b>LinuxConsole</b> stand animé par Yann.découvrez l’une des plus anciennes distributions
+		<em>LinuxConsole</em> stand animé par Yann.découvrez l’une des plus anciennes distributions
 		française, pour jouer, mais pas seulement...<br/>
 		<br><a href='mailto:patrice@libre-en-fete-tregor.fr?subject=[Libre en Fête Trégor $data_event_year] Espace Jouer'>Contact : Patrice</a>"
   ),
