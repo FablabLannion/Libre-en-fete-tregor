@@ -264,7 +264,6 @@ $data_partenaires = array (
     "http://www.aleccor.infini.fr",
     "Les exOOOs d'Aleccor sont des exercices éducatifs libres et gratuits, programmés sous OpenOffice-LibreOffice et sous VoxOoFox (synthèse vocale). Ces exercices sont auto-correctifs.<br>Le but est de proposer des ressources éducatives pour les écoles, pour les enfants (en soutien) en leur permettant de travailler en autonomie (pas de note mais une valorisation du travail), mais aussi pour les personnes en difficulté (illettrisme) ou pour qui le français est une langue étrangère.<br>Plus de 1 200 exercices sont actuellement disponibles dans de nombreuses matières (Français, Calcul, Histoire, Géographie, Sciences, Anglais, Éducation civique, ...)"
   ),
-/*
   array("IUT Lannion",
     "img/logo_iut.png",
     "http://www.iut-lannion.fr/",
@@ -272,6 +271,7 @@ $data_partenaires = array (
     <br>Composante à part entière de l'Université de Rennes 1, l'IUT Lannion répond à trois missions fondamentales : la formation initiale des jeunes étudiants, la formation tout au long de la vie, la recherche et le transfert de technologies. Ainsi, les équipes pédagogiques se composent à la fois d'enseignants, d'enseignants-chercheurs et de professionnels.
     <br>Accueillant des publics multiples, bacheliers de tous types (bacs généraux, technologiques et professionnels), salariés et demandeurs d'emplois, l'IUT s'efforce de proposer des formules adaptées aux aspirations et au potentiel de chacun. Ses formations universitaires et professionnalisantes offrent les meilleurs atouts pour entrer dans la vie active, soit directement après le Diplôme Universitaire de Technologie, soit après une Licence Professionnelle, soit après des études longues (licences, masters, écoles d'ingénieurs, etc...)."
   ),
+/*
   array("An Drouizig",
     "img/mw_drouizig.png",
     "http://www.drouizig.org/",
