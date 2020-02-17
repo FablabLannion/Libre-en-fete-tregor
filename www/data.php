@@ -191,13 +191,11 @@ $data_partenaires = array (
     "http://www.lycee-ledantec.ac-rennes.fr/",
     "Lycée public de Lannion, Félix Le Dantec s'implique depuis plusieurs années dans le Logiciel Libre et depuis 3 ans organise chaque année une 'InstallParty & Initiation à GNU/Linux'. Nombre d'élèves (de STI et SSI) et étudiants (BTS/Licences Pro) ont été formés à l'usage et au développement sur le Logiciel Libre et l'Open Hardware."
   ),
-  array("Anticipa",
-    "img/logo-anticipa.jpg",
+  array("Anticipa / FrenchTech Lannion",
+    "img/Anticipa_FTLannion.png",
     "http://technopole-anticipa.com/",
-    "<h3>UN TRIO GAGNANT AU SERVICE DE VOS PROJETS D’ENTREPRISE</h3><p>
-    Depuis 25 ans, Anticipa <b></b>développe l’économie, encourage l’innovation </b> et <b>stimule l’esprit d’entreprendre </b> sur le territoire du Trégor-Goëlo. Anticipa, c’est UNE technopole, UNE agence de développement et UNE plate-forme d’initiative locale (Trégor Initiative) au cœur d’un réseau  composé d’industriels, de porteurs de projets, de chercheurs, d’enseignants, d’étudiants et d’institutionnels.<br>
-    Anticipa concentre ses actions autour de <b>6 filières d’excellence </b>: numérique, photonique, cosmétique - biotech, alimentation-nutrition, naval-nautisme  et industrie. Elle <b>accompagne et soutient les projets </b> (individuels ou collaboratifs) issus de ces filières quelle que soit leur nature (création, implantation, développement, internationalisation…) et <b> anime </b> les filières par l’organisation de divers événements dédiés (colloques, rencontres, focus, formations…).<br>
-    La technopole Anticipa est à l’écoute de tous et propose un accompagnement sur mesure à tous les projets d’entreprise.</p>"
+    "<h3>Berceau des télécoms français, Lannion offre un écosystème tech complet associant DeepTech numérique et photonique.</h3>
+Chaque année, de nombreuses startups se créent, innovent et donnent naissance à de belles success stories (Eco-compteur, Ekinops, Lumibird, Apizee, Actility, DC Brain …). Qualifiée de mini Silicon Valley par « Les Echos », avec 4000 emplois dans la tech, + de 162M€ levés en 3 ans, Lannion affiche le taux de création de startup/habitant le plus élevé en France et se place dans le top 3 des villes bretonnes en nombre de brevets déposés. La Communauté French Tech Lannion, associée à French Tech Brest +, portée par la Technopole Anticipa et son board de 10 entrepreneurs/catalyseurs s’est donnée pour missions de fédérer et animer l’écosystème, de faciliter l’accès aux marchés et de favoriser le recrutement de talents."
   ),
   array("Lannion Trégor Communauté",
     "img/LOGO_LTC_GeneriqueFR.jpg",
