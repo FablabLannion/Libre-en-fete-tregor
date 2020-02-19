@@ -37,7 +37,7 @@
                     <div class="clearfix"></div>
                     <h2 class="section-heading">À propos</h2>
                     <p class="lead">
-                    Initiée et coordonnée par l'April, l'initiative Libre en Fête célébrera son <?php echo Flight::get('data_event_year') - 2000;?>ème anniversaire en <?php echo Flight::get('data_event_year');?>. Des événements de découverte des Logiciels Libres et du Libre en général sont proposés partout en France, dans une dynamique conviviale et festive.</p>
+                    Initiée et coordonnée par l'April, l'initiative Libre en Fête célébrera son <?php echo Flight::get('data_event_year') - 2001;?>ème anniversaire en <?php echo Flight::get('data_event_year');?>. Des événements de découverte des Logiciels Libres et du Libre en général sont proposés partout en France, dans une dynamique conviviale et festive.</p>
                     <p>
                     Un ensemble d'associations Trégorroises s'associent et proposent une série d'animations autour du logiciel libre le <?php echo Flight::get('data_event_date'); ?> dans la <?php echo Flight::get('data_event_location');?>.
                     </p>
