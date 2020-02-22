@@ -280,6 +280,16 @@ Chaque année, de nombreuses startups se créent, innovent et donnent naissance 
     <br>Composante à part entière de l'Université de Rennes 1, l'IUT Lannion répond à trois missions fondamentales : la formation initiale des jeunes étudiants, la formation tout au long de la vie, la recherche et le transfert de technologies. Ainsi, les équipes pédagogiques se composent à la fois d'enseignants, d'enseignants-chercheurs et de professionnels.
     <br>Accueillant des publics multiples, bacheliers de tous types (bacs généraux, technologiques et professionnels), salariés et demandeurs d'emplois, l'IUT s'efforce de proposer des formules adaptées aux aspirations et au potentiel de chacun. Ses formations universitaires et professionnalisantes offrent les meilleurs atouts pour entrer dans la vie active, soit directement après le Diplôme Universitaire de Technologie, soit après une Licence Professionnelle, soit après des études longues (licences, masters, écoles d'ingénieurs, etc...)."
   ),
+    array("Club d'Astronomie du Trégor",
+    "img/logo_CAT2019.jpg",
+    "http://astrosurf.com/astro-tregor/",
+    "Le Club d'Astronomie du Trégor est une association qui regroupe de passionnés d’astronomie sous toutes ses formes.<br/>
+		<p style='font-size:80%'>Observation du ciel avec télescope et lunettes pointés sur les planètes ou le ciel profond  par des montures informatisées (GOTO) et pointage par logiciels (Stellarium). L’astrophotographie permet de découvrir des images des planètes et du ciel profond que l’œil n’est pas capable de voir. Cette discipline fait appel à une prise d’image par APN ou caméra CCD. Un traitement d’mages qui fait appel à des logiciels spécifiques gratuits permet de mettre en valeur les clichés.<br/>
+		Pour  des présentations publiques, on développe au sein du club des maquettes pédagogiques qui font appel largement aux technologies numériques :
+		<ul><li>Utilisation de système ARDUINO affichage numérique, commande de moteurs pas à pas (maquette Soleil-Terre-Lune) </li>
+		<li>Réalisation de maquettes d’engins spatiaux en impression 3D</li>
+		<li>Découpe laser de puzzles astronomiques</li></ul></p>"
+  ),
 /*
   array("An Drouizig",
     "img/mw_drouizig.png",
