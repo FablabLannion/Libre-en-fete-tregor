@@ -171,12 +171,12 @@ p.copyright {
 
 .poster-small {
     display: block;
-    padding-top: 80px;
-    padding-left: 80px;
-    margin-left: auto;
-    margin-right: auto;
-    width: 380px;
-    position: fixed;
+    padding-top: 5%;
+    padding-left: 5%;
+    /* margin-left: auto;
+    margin-right: auto; */
+    width: 15%;
+    position: absolute;
 } 
 
 @keyframes posteranimation {
