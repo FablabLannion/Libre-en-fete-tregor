@@ -296,6 +296,14 @@ Chaque année, de nombreuses startups se créent, innovent et donnent naissance 
   "Un Espace de CoWorking en centre-ville de Lannion<br/>
   Le WigWam est une association loi 1901 dont le but est de permettre à toute personne de pouvoir accéder à un lieu dédié à la réalisation de son travail. Il n’est pas toujours facile de le faire en restant chez soi…. Au WigWam vous pourrez profiter d'une synergie de travail au sein de notre espace, échanger avec des profils très différents : freelances, employés, reconversion, partager d'autres moments et peut-être grandir votre réseau professionnel !"
   ),
+  array ("Parti Pirate",
+  "img/logo_PartiPirate.png",
+  "https://partipirate.org/",
+  "Le Parti Pirate est un mouvement politique international ralliant celles et ceux qui aspirent à une société capable de :<br/>
+Partager fraternellement les savoirs culturels et scientifiques de l’humanité ;<br/>
+Protéger l’égalité des droits des citoyens grâce des institutions humaines et transparentes ;<br/>
+Défendre les libertés fondamentales sur Internet comme dans la vie quotidienne."
+  ),
 /*
   array("An Drouizig",
     "img/mw_drouizig.png",
