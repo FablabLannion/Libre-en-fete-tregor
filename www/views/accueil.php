@@ -1,7 +1,7 @@
 
     <div class="intro-header">
-        <a href="../img/Libre_en_fete_2020_v2.pdf">
-            <img src="../img/Libre_en_fete_2020_v2.png" title="Voir l'affiche en PDF" class="poster-small">
+        <a href="../img/Libre_en_fete_2020_v3.pdf">
+            <img src="../img/Libre_en_fete_2020_v3.png" title="Voir l'affiche en PDF" class="poster-small">
         </a>
         <div class="container">
 
