@@ -406,11 +406,14 @@ $data_sponsors = array (
     "",
     ""
   ),
-
-/*
-  array("Huawei",
-    "img/logo-Huawei.jpeg",
-    "http://www.huawei.com/fr/",
+  array("Ville de Lannion",
+    "img/Logo_mairie_Lannion.jpg",
+    "https://www.lannion.bzh/",
+    ""
+  ),
+  array("Conseil Départemental",
+    "img/Logo_Côtes_Armor.png",
+    "https://cotesdarmor.fr/",
     ""
   ),
   array("Orange",
@@ -418,14 +421,16 @@ $data_sponsors = array (
     "https://www.orange.com/fr/accueil",
     ""
   ),
+
+/*
+  array("Huawei",
+    "img/logo-Huawei.jpeg",
+    "http://www.huawei.com/fr/",
+    ""
+  ),
   array("Lannion Tregor Communauté",
     "img/LOGO_LTC_GeneriqueFR.jpg",
     "http://www.lannion-tregor.com/",
-    ""
-  ),
-  array("Ville de Lannion",
-    "img/Logo_mairie_Lannion.jpg",
-    "https://www.lannion.bzh/",
     ""
   ),
   array("Sponsors \"Granit Rose\"",
