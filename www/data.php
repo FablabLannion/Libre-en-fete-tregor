@@ -309,6 +309,15 @@ Défendre les libertés fondamentales sur Internet comme dans la vie quotidienne
     "https://nos-oignons.net/",
     "<a href=\"https://nos-oignons.net/\">Nos oignons</a> est une association à but non-lucratif créée pour collecter des dons afin de faire tourner des nœuds de sortie Tor."
   ),
+  array ("Debian-Facile",
+  "img/logo-debian-facile.png",
+  "https://debian-facile.org",
+  "Depuis sa fondation, le site Debian-Facile a porté ses efforts vers le
+développement du libre et de Debian auprès des plus débutants.
+Nous voici aujourd'hui, grâce à l'attention de tous les membres DF, avec
+un site menant cette entraide d'une manière toujours plus efficace,
+joyeuse et réactive !"
+  ),
 /*
   array("An Drouizig",
     "img/mw_drouizig.png",
