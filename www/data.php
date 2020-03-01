@@ -304,6 +304,11 @@ Partager fraternellement les savoirs culturels et scientifiques de l’humanité
 Protéger l’égalité des droits des citoyens grâce des institutions humaines et transparentes ;<br/>
 Défendre les libertés fondamentales sur Internet comme dans la vie quotidienne."
   ),
+  array("Nos oignons",
+    "img/nos-oignons-blanc.png",
+    "https://nos-oignons.net/",
+    "<a href=\"https://nos-oignons.net/\">Nos oignons</a> est une association à but non-lucratif créée pour collecter des dons afin de faire tourner des nœuds de sortie Tor."
+  ),
 /*
   array("An Drouizig",
     "img/mw_drouizig.png",
@@ -364,11 +369,7 @@ Défendre les libertés fondamentales sur Internet comme dans la vie quotidienne
     "<h2>LE MAGAZINE POUR COMPRENDRE, UTILISER ET ADMINISTRER LINUX ET LES LOGICIELS LIBRES AU QUOTIDIEN SUR PC, MAC & RASPBERRY PI</h2>
     <br>Avec sa ligne rédactionnelle résolument pratique, Linux Pratique a été conçu pour répondre aux besoins des particuliers et des entreprises à la recherche de solutions open source. Ce bimestriel a pour but de démocratiser l'alternative open source via des présentations de logiciels libres, divers didacticiels, mais aussi par des articles de vulgarisation technique. À travers ses rubriques variées (programmation, cahier Raspberry Pi, solutions professionnelles, web, système, etc.), le magazine vous permettra de faire le plein d’informations sur le monde de l’open source et des logiciels libres. Bref, Linux Pratique c’est comprendre, utiliser & administrer Linux au quotidien sur PC, Mac et Raspberry Pi !"
   ),
-  array("Nos oignons",
-    "img/nos-oignons-blanc.png",
-    "https://nos-oignons.net/",
-    "<a href=\"https://nos-oignons.net/\">Nos Oignons</a> est une association à but non-lucratif créée pour collecter des dons afin de faire tourner des nœuds de sortie Tor."
-  ),
+
   array("Orange Solidarité",
     "img/logo-fondation-orange-2015-fr.png",
     "https://www.fondationorange.com/Orange-Solidarite",
