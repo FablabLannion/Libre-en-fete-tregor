@@ -95,11 +95,17 @@ $data_programme = array (
   array("Numérique, territoire et enjeux citoyens",
      "img/C6y83-TWgAARMU7.jpg",
      "",
-     "<ul>
-        <li>...</li>
-        <li>...</li>
+     "Plusieurs associations et organisations viendront présenter leurs activités et leurs connexions avec le mouvement Libre.
+     <ul>
+        <li>Tripalium avec l'auto construction d'éoliennes,</li>
+        <li>Nerzh Nevez et l'autonomie énergétique,</li>
+        <li>La Direction des Services d'Information de LTC avec ses utilisations et pratiques autour du Libre,</li>
+        <li>Nos oignons avec les nœuds du système TOR pour l'anonymisation des connexions au réseau Internet,</li>
+        <li>Trégor Energ'éthiques avec une installation solaire (panneau photovoltaïque, onduleur, ...),</li>
         <li>...</li>
       </ul>
+      Pour plus d'information sur les participants, retrouvez-les dans la rubrique <a href=\"/partenaires\">Partenaires</a>.
+      <br>
       <br><a href='mailto:nico@libre-en-fete-tregor.fr?subject=[Libre en Fête Trégor $data_event_year] Espace Numérique, territoire et enjeux citoyens'>Contact : Nicolas</a>"
   ),
 //   array(
