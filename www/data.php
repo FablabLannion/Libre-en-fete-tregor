@@ -23,18 +23,18 @@ $data_programme = array (
       </tr>
       <tr>
         <td>10h30</td>
-        <td>Histoire & perspective du logiciel libre</td>
+        <td>Histoire & perspectives du logiciel libre</td>
         <td></td>
       </tr>
       <tr>
         <td>11h00</td>
-        <td>...</td>
-        <td></td>
+        <td>Présentation de Trégor Energ'éthiques</td>
+        <td>Philippe Charlot</td>
       </tr>
-        <tr>
+      <tr>
         <td>11h30</td>
-        <td>...</td>
-        <td></td>
+        <td>PrimTux, la distribution éducative</td>
+        <td>Philippe Ronflette</td>
       </tr>
       <tr>
         <td>12h15</td>
