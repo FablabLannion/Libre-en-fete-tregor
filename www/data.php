@@ -318,6 +318,15 @@ Nous voici aujourd'hui, grâce à l'attention de tous les membres DF, avec
 un site menant cette entraide d'une manière toujours plus efficace,
 joyeuse et réactive !"
   ),
+  array("Conseil Départemental",
+    "img/Bloc_cg22_2013_quadri.jpg",
+    "http://cotesdarmor.fr/",
+    "Le Conseil Départemental et ses partenaires libèrent leurs données ! Accompagnant le grand mouvement Open Data en France et dans le monde entier, le portail DAT'ARMOR est né.<br>
+    <b>L'open data, c'est quoi ?</b>
+    L’open data (\"Données ouvertes\") désigne un mouvement visant à rendre accessibles via Internet les données numériques que les collectivités et les administrations produisent ou reçoivent dans leurs activités quotidiennes. Les données libérées sur le portail DAT'ARMOR touchent des domaines aussi variés que le transport, le social, le tourisme, l'éducation, la culture, le sport ou l'urbanisme. Ces données dites ouvertes sont accessibles librement et gratuitement et peuvent être réutilisées par tout un chacun. Plus précisément, l’open data a pour principe de fournir des données brutes pour en faciliter la réutilisation.<br>
+    <b>L'Open Data, pour qui ?</b>
+    Pour tout le monde ! A titre d'exemple, les entreprises peuvent y trouver matière à proposer de nouvelles applications et des services innovants dédiés aux smartphones et aux tablettes ; le grand public peut y trouver des informations propres à enrichir sa culture générale ; les journalistes peuvent y dénicher des informations destinées à leurs articles ; les chercheurs des éléments susceptibles d'alimenter leurs études ou leurs travaux."
+  ),
 /*
   array("An Drouizig",
     "img/mw_drouizig.png",
@@ -335,15 +344,6 @@ joyeuse et réactive !"
     "Depuis juin 2015 et l’obtention du label French Tech, la French Tech Brest+ a rejoint le cercle des 13 métropoles françaises labellisées, preuve de la vitalité de son écosystème numérique.<br>L’initiative nationale French Tech vise à proposer des moyens et des perspectives aux startups, pour faire naître en local des champions et booster l’attractivité territoriale.
     <br><br>Sur les 4 villes de son territoire (Brest, Lannion, Morlaix, Quimper) et portée par les technopoles de l’ouest breton, la French Tech Brest+ déroule ses actions spécifiques aux startups, autour des 5 axes identifiés : fédération de l’écosystème numérique, sensibilisation à l’entreprenariat, accélération des startups, internationalisation et digitalisation de l’économie.
     En savoir plus : <a href='http://frenchtech-brestplus.bzh/'>http://frenchtech-brestplus.bzh/</a> <a href='https://twitter.com/FTBrestPlus'>@FTBrestPlus</a>"
-  ),
-  array("Conseil Départemental",
-    "img/Bloc_cg22_2013_quadri.jpg",
-    "http://cotesdarmor.fr/",
-    "Le Conseil Départemental et ses partenaires libèrent leurs données ! Accompagnant le grand mouvement Open Data en France et dans le monde entier, le portail DAT'ARMOR est né.<br>
-    <b>L'open data, c'est quoi ?</b>
-    L’open data (\"Données ouvertes\") désigne un mouvement visant à rendre accessibles via Internet les données numériques que les collectivités et les administrations produisent ou reçoivent dans leurs activités quotidiennes. Les données libérées sur le portail DAT'ARMOR touchent des domaines aussi variés que le transport, le social, le tourisme, l'éducation, la culture, le sport ou l'urbanisme. Ces données dites ouvertes sont accessibles librement et gratuitement et peuvent être réutilisées par tout un chacun. Plus précisément, l’open data a pour principe de fournir des données brutes pour en faciliter la réutilisation.<br>
-    <b>L'Open Data, pour qui ?</b>
-    Pour tout le monde ! A titre d'exemple, les entreprises peuvent y trouver matière à proposer de nouvelles applications et des services innovants dédiés aux smartphones et aux tablettes ; le grand public peut y trouver des informations propres à enrichir sa culture générale ; les journalistes peuvent y dénicher des informations destinées à leurs articles ; les chercheurs des éléments susceptibles d'alimenter leurs études ou leurs travaux."
   ),
   array("Ecocentre",
     "img/ecocentre.png",
