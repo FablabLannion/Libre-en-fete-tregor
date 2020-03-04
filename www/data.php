@@ -97,7 +97,12 @@ $data_programme = array (
      "",
      "Plusieurs associations et organisations viendront présenter leurs activités et leurs connexions avec le mouvement Libre.
      <ul>
-        <li>Tripalium avec l'auto construction d'éoliennes,</li>
+        <li>Tripalium avec
+          <ul>
+            <li>Isabelle : presse à BTC (Brique en  Terre Comprimée) réalisée d'après les plans libres de <a href='https://beteze.org'>beteze.org</a> et fabrication de quelques briques. Son fonctionnement et sa réalisation seront détaillés,</li>
+            <li>Une éolienne Piggott fabriquée lors d'un stage Tripalium</li>
+          </ul>
+        </li>
         <li>Nerzh Nevez et l'autonomie énergétique,</li>
         <li>La Direction des Services d'Information de LTC avec ses utilisations et pratiques autour du Libre,</li>
         <li>Nos oignons avec les nœuds du système TOR pour l'anonymisation des connexions au réseau Internet,</li>
