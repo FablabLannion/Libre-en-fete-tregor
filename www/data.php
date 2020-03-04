@@ -355,6 +355,19 @@ joyeuse et réactive !"
     "http://www.enssat.fr/",
     "L’Enssat (École Nationale Supérieure des Sciences Appliquées et de Technologie) est une école publique d’ingénieurs et un pôle de recherche dans le domaine des télécoms et des technologies émergentes.<br>Grâce à ses équipes d’enseignement et de recherche en synergie avec le monde industriel, l’École dote ses élèves ingénieurs de compétences et de savoir-faire à la pointe des technologies pour un avenir assuré dans le développement de projets innovants."
   ),
+  array("Les petits débrouillards",
+    "img/Logo-petitsdebrouillards.jpg",
+    "http://www.lespetitsdebrouillardsbretagne.org/",
+    "Le mouvement des Petits Débrouillards est un réseau associatif
+d’éducation populaire qui agit en dehors ou en complément des systèmes
+éducatifs institutionnels.
+<br/>
+Visant l’émancipation des individus et des communautés humaines et
+aspirant à l’amélioration du système social et au développement des
+solidarités, « Les Petits Débrouillards » contribuent à former des
+citoyens actifs, capables d’opinions réfléchies et critiques, acteurs de
+la construction du monde d’aujourd’hui et de demain."
+  ),
   /*
   array("An Drouizig",
     "img/mw_drouizig.png",
@@ -382,11 +395,6 @@ joyeuse et réactive !"
     "img/kristal.png",
     "http://kristal.io/fr/",
     "Lancée en février 2015, Kristal propose, avec son framework Open Source <a href=\"http://cobaltians.org/\">Cobalt</a>, un nouvel outil pour développer des applications mobiles, utilisant le Web afin de réduire les coûts tout en gardant des performances élevées. Cobalt, c'est aussi une association, les \"Cobaltians\", qui a pour objet de faire connaître, promouvoir et améliorer le framework."
-  ),
-  array("Les petits débrouillards",
-    "img/Logo-petitsdebrouillards.jpg",
-    "http://www.lespetitsdebrouillardsbretagne.org/",
-    "L’association « Les Petits Débrouillards » met en place des activités scientifiques et techniques pour les jeunes, afin de promouvoir la démarche expérimentale et l'esprit critique auprès du plus grand nombre."
   ),
 
   array("Orange Solidarité",
