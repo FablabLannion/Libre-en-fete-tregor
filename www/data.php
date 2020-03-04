@@ -338,7 +338,24 @@ joyeuse et réactive !"
     <b>L'Open Data, pour qui ?</b>
     Pour tout le monde ! A titre d'exemple, les entreprises peuvent y trouver matière à proposer de nouvelles applications et des services innovants dédiés aux smartphones et aux tablettes ; le grand public peut y trouver des informations propres à enrichir sa culture générale ; les journalistes peuvent y dénicher des informations destinées à leurs articles ; les chercheurs des éléments susceptibles d'alimenter leurs études ou leurs travaux."
   ),
-/*
+  array("Linux Pratique",
+    "img/logo-Pro-LP-small.jpg",
+    "https://connect.ed-diamond.com/Linux-Pratique",
+    "<h2>Linux Pratique est le bimestriel des professionnels à la recherche de solutions open source.</h2>
+    <br>Ces derniers y trouvent de quoi combler leurs besoins informationnels sur les dernières actualités technologiques et peuvent également se familiariser avec diverses techniques et tendances à travers la ligne rédactionnelle résolument pratique du magazine."
+  ),
+  array("Hackable magazine",
+    "img/logo-Pro-HK-small.jpg",
+    "https://connect.ed-diamond.com/Hackable",
+    "<h2>Démonter, comprendre, faire, maîtriser et adapter la technologie à ses besoins est le but suivi par Hackable.</h2>
+    <br>L’électronique numérique et les systèmes embarqués sont au cœur de ce trimestriel qui fait la part belle à la pratique et aux retours d’expérience dans le but de toujours mieux cerner et utiliser la technologie."
+  ),
+  array("ENSSAT",
+    "img/ENSSAT.png",
+    "http://www.enssat.fr/",
+    "L’Enssat (École Nationale Supérieure des Sciences Appliquées et de Technologie) est une école publique d’ingénieurs et un pôle de recherche dans le domaine des télécoms et des technologies émergentes.<br>Grâce à ses équipes d’enseignement et de recherche en synergie avec le monde industriel, l’École dote ses élèves ingénieurs de compétences et de savoir-faire à la pointe des technologies pour un avenir assuré dans le développement de projets innovants."
+  ),
+  /*
   array("An Drouizig",
     "img/mw_drouizig.png",
     "http://www.drouizig.org/",
@@ -361,18 +378,6 @@ joyeuse et réactive !"
     "http://www.ecocentre-tregor.fr/",
     "L'ECOCENTRE est un lieu de rencontres, de fêtes, de partage et d'échange autour notamment de l'écologie (mais pas que !).<br>L'association propose tout au long de l'année des stages très divers à des prix accessibles dans le but de transmettre et partager des connaissances au plus grand nombre."
   ),
-  array("ENSSAT",
-    "img/ENSSAT.png",
-    "http://www.enssat.fr/",
-    "L’Enssat (École Nationale Supérieure des Sciences Appliquées et de Technologie) est une école publique d’ingénieurs et un pôle de recherche dans le domaine des télécoms et des technologies émergentes.<br>Grâce à ses équipes d’enseignement et de recherche en synergie avec le monde industriel, l’École dote ses élèves ingénieurs de compétences et de savoir-faire à la pointe des technologies pour un avenir assuré dans le développement de projets innovants."
-  ),
-  array("Hackable magazine",
-    "img/logo-HK-baselineMag.jpg",
-    "https://www.hackable.fr",
-    "<h2>DÉMONTEZ / COMPRENEZ / ADAPTEZ / PARTAGEZ</h2>
-    <br>
-    Hackable met l’électronique plus que jamais à la portée de tous ! Ce bimestriel n’a qu’un but : faire de la technologie un vrai plaisir ! Le plaisir de démonter, d’apprendre, de comprendre, de faire, de maîtriser et d’adapter à ses besoins. En d’autres termes, c’est un magazine pour utiliser la technologie, pas la consommer. Au programme : montages à base Arduino, programmation, bidouillages autour de la Raspberry Pi, découverte de nouvelles cartes et de nouveaux modules, démontage et exploration de matériels, conseils, recommandations et astuces pour s’équiper, mais aussi de quoi apprendre les bases pour s’en sortir seul et pour aller toujours plus loin !"
-  ),
   array("Kristal",
     "img/kristal.png",
     "http://kristal.io/fr/",
@@ -382,12 +387,6 @@ joyeuse et réactive !"
     "img/Logo-petitsdebrouillards.jpg",
     "http://www.lespetitsdebrouillardsbretagne.org/",
     "L’association « Les Petits Débrouillards » met en place des activités scientifiques et techniques pour les jeunes, afin de promouvoir la démarche expérimentale et l'esprit critique auprès du plus grand nombre."
-  ),
-  array("Linux Pratique",
-    "img/logo-LP-baselineMag.jpg",
-    "https://www.linux-pratique.com/",
-    "<h2>LE MAGAZINE POUR COMPRENDRE, UTILISER ET ADMINISTRER LINUX ET LES LOGICIELS LIBRES AU QUOTIDIEN SUR PC, MAC & RASPBERRY PI</h2>
-    <br>Avec sa ligne rédactionnelle résolument pratique, Linux Pratique a été conçu pour répondre aux besoins des particuliers et des entreprises à la recherche de solutions open source. Ce bimestriel a pour but de démocratiser l'alternative open source via des présentations de logiciels libres, divers didacticiels, mais aussi par des articles de vulgarisation technique. À travers ses rubriques variées (programmation, cahier Raspberry Pi, solutions professionnelles, web, système, etc.), le magazine vous permettra de faire le plein d’informations sur le monde de l’open source et des logiciels libres. Bref, Linux Pratique c’est comprendre, utiliser & administrer Linux au quotidien sur PC, Mac et Raspberry Pi !"
   ),
 
   array("Orange Solidarité",
