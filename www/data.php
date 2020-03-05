@@ -24,12 +24,12 @@ $data_programme = array (
       <tr>
         <td>10h30</td>
         <td>Histoire & perspectives du logiciel libre</td>
-        <td></td>
+        <td>Kadwalon</td>
       </tr>
       <tr>
         <td>11h00</td>
         <td>Présentation de Trégor Energ'éthiques</td>
-        <td>Philippe Charlot</td>
+        <td>Jean Rouxel</td>
       </tr>
       <tr>
         <td>11h30</td>
@@ -53,8 +53,8 @@ $data_programme = array (
       </tr>
       <tr>
         <td>14h00</td>
-        <td>...</td>
-        <td></td>
+        <td>On aurait pu sauver les abeilles, on a préféré sortir un nouvel iPhone</td>
+        <td>Sébastien Brault</td>
       </tr>
       <tr>
         <td>14h30</td>
@@ -63,13 +63,13 @@ $data_programme = array (
       </tr>
         <tr>
         <td>15h00</td>
-        <td>...</td>
-        <td></td>
+        <td>Présentation de Trégor Energ'éthiques</td>
+        <td>Jean Rouxel</td>
       </tr>
       <tr>
         <td>15h30</td>
-        <td>...</td>
-        <td></td>
+        <td>Présentation de la version 2.7 de l'outil Your Distro From Scratch</td>
+        <td>Yann Le Doaré</td>
       </tr>
       <tr>
         <td>16h00</td>
