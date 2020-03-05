@@ -18,6 +18,9 @@
                             <li>
                                 <a href="https://www.facebook.com/Libre-en-F%C3%AAte-Tr%C3%A9gor-970420503044317/" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook</span></a>
                             </li>
+                            <li>
+                                <a href="https://www.instagram.com/libreenfete/" class="btn btn-default btn-lg"><i class="fa fa-instagram fa-fw"></i> <span class="network-name">Instagram</span></a>
+                            </li>
                         </ul>
                         <hr class="intro-divider">
                     </div>
