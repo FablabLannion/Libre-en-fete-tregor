@@ -144,7 +144,9 @@ $data_programme = array (
 		pour jouer à de multiples jeux d'antan grâce à « Recall box » ou « RetroPi ». De quoi divertir petits et grands.<br/>
 		<em>LinuxConsole</em> stand animé par Yann.découvrez l’une des plus anciennes distributions
 		française, pour jouer, mais pas seulement...<br/>
-		<br><a href='mailto:patrice@libre-en-fete-tregor.fr?subject=[Libre en Fête Trégor $data_event_year] Espace Jouer'>Contact : Patrice</a>"
+		<br/>
+		<em>LAN Party</em> Venez découvrir et vous affronter sur des jeux libres en réseaux. Vous verrez qu'il n'ont pas grand chose à envier à leur concurrents privateurs.
+		<br/><a href='mailto:patrice@libre-en-fete-tregor.fr?subject=[Libre en Fête Trégor $data_event_year] Espace Jouer'>Contact : Patrice</a>"
   ),
   array("Apprendre",
      "img/33940617933_259c4a281a_z.jpg",
