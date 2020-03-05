@@ -92,7 +92,7 @@ $data_programme = array (
       <a href='mailto:pierre@libre-en-fete-tregor.fr?subject=[Libre en Fête Trégor $data_event_year] Proposition de conférence'>Proposer une conférence</a>
     </div>"
   ),
-  array("Numérique, territoire et enjeux citoyens",
+  array("Enjeux Citoyens, numérique et territoire",
      "img/C6y83-TWgAARMU7.jpg",
      "",
      "Plusieurs associations et organisations viendront présenter leurs activités et leurs connexions avec le mouvement Libre.
