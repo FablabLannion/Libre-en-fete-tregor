@@ -28,8 +28,8 @@ $data_programme = array (
       </tr>
       <tr>
         <td>11h00</td>
-        <td>Présentation de Trégor Energ'éthiques</td>
-        <td>Jean Rouxel</td>
+        <td>open source: enjeux et mise en oeuvre à LTC</td>
+        <td>Yannick Le Kerneau</td>
       </tr>
       <tr>
         <td>11h30</td>
@@ -37,9 +37,9 @@ $data_programme = array (
         <td>Philippe Ronflette</td>
       </tr>
       <tr>
-        <td>12h15</td>
-        <td>...</td>
-        <td></td>
+        <td>12h00</td>
+        <td>Présentation de Trégor Energ'éthiques</td>
+        <td>Jean Rouxel</td>
       </tr>
       <tr>
         <td>13h00</td>
