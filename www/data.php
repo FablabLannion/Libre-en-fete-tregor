@@ -369,16 +369,16 @@ solidarités, « Les Petits Débrouillards » contribuent à former des
 citoyens actifs, capables d’opinions réfléchies et critiques, acteurs de
 la construction du monde d’aujourd’hui et de demain."
   ),
+  array("April",
+    "img/logo-april.png",
+    "http://www.april.org",
+    "Pionnière du logiciel libre en France, l'April est depuis 1996 un acteur majeur de la démocratisation et de la diffusion du Logiciel Libre et des standards ouverts auprès du grand public, des professionnels et des institutions dans l'espace francophone. Elle veille aussi à sensibiliser l'opinion sur les dangers d'une appropriation exclusive de l'information et du savoir par des intérêts privés."
+  ),
   /*
   array("An Drouizig",
     "img/mw_drouizig.png",
     "http://www.drouizig.org/",
     "An Drouizig est une association de promotion de la langue bretonne sur les nouvelles technologies, notamment par la traduction de logiciels et par la réalisation de correcteurs orthographiques.<br>Ur gevredigezh a gas war-raok ar brezhoneg war ar c'halverezhioù nevez eo An Drouizig. He obererezhioù pennañ a zo troidigezh meziantoù ha diorroadur un difazier reizhskrivadur."
-  ),
-  array("April",
-    "img/logo-april.png",
-    "http://www.april.org",
-    "Pionnière du logiciel libre en France, l'April est depuis 1996 un acteur majeur de la démocratisation et de la diffusion du Logiciel Libre et des standards ouverts auprès du grand public, des professionnels et des institutions dans l'espace francophone. Elle veille aussi à sensibiliser l'opinion sur les dangers d'une appropriation exclusive de l'information et du savoir par des intérêts privés."
   ),
   array("BrestTech+",
     "img/BrestTechLannion.png",
