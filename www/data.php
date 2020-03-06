@@ -104,7 +104,6 @@ $data_programme = array (
           </ul>
         </li>
         <li>Nerzh Nevez et l'autonomie énergétique,</li>
-        <li>La Direction des Services d'Information de LTC avec ses utilisations et pratiques autour du Libre,</li>
         <li>Nos oignons avec les nœuds du système TOR pour l'anonymisation des connexions au réseau Internet,</li>
         <li>Trégor Energ'éthiques avec une installation solaire (panneau photovoltaïque, onduleur, ...),</li>
         <li>...</li>
