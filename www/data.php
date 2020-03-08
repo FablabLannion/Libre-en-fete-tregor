@@ -376,7 +376,7 @@ la construction du monde d’aujourd’hui et de demain."
   ),
   array("Fédération Open Space Maker",
     "img/Federation-small.png",
-    "www.federation-openspacemakers.com",
+    "http://www.federation-openspacemakers.com",
     "Initiée par l’agence spatiale française CNES, l’initiative FEDERATION - Open Space Makers vise à créer un cadre et faire vivre un environnement permettant à n’importe qui de se lancer dans des projets de création d'infrastructure spatiale. Ces projets seront open source, pour développer des savoir-faire, des connaissances et du matériel spatial libre de manière collaborative, ouverte et responsable."
   ),
   /*
