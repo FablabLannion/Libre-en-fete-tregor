@@ -106,7 +106,15 @@ $data_programme = array (
         <li>Nerzh Nevez et l'autonomie énergétique,</li>
         <li>Nos oignons avec les nœuds du système TOR pour l'anonymisation des connexions au réseau Internet,</li>
         <li>Trégor Energ'éthiques avec une installation solaire (panneau photovoltaïque, onduleur, ...),</li>
-        <li>...</li>
+        <li>Venez rencontrer le Parti Pirate, un mouvement politique international ralliant celles et ceux qui aspirent à une société capable de :
+          <ul>
+            <li>Partager fraternellement les savoirs culturels et scientifiques de l’humanité ;</li>
+            <li>Protéger l’égalité des droits des citoyens grâce des institutions humaines et transparentes ;</li>
+            <li>Défendre les libertés fondamentales sur Internet comme dans la vie quotidienne.</li>
+          </ul>
+          Le parti pirate présentera également ses outils, notamment Congressus : un outil libre de construction, de débat et de prise de décision...
+        </li>
+        <li>Ro'spered et OpenStreetMap</li>
       </ul>
       Pour plus d'information sur les participants, retrouvez-les dans la rubrique <a href=\"/partenaires\">Partenaires</a>.
       <br>
