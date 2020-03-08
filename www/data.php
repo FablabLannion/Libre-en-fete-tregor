@@ -170,7 +170,11 @@ $data_programme = array (
   array("Découvrir",
      "img/4979030420_77b090328d_z.jpg",
      "",
-     "<ul>
+     "<bInstall Party</b><br/>
+     Votre ordinateur est lent, infesté de virus ? Vous avez toujours voulu essayer Linux ? Votre vieux scanner ne fonctionne plus sous Windows ?<br/>
+     Venez avec votre compagnon numérique et sautez le pas ! Les étudiants du Lycée Le Dantec, et des membres du Fablab sont la pour vous guider dans l'installation de GNU/Linux qui lui donnera peut-être une nouvelle vie.<br/>
+     <i>N'oubliez pas de sauvegarder vos données avant !</i>
+     <ul>
         <li>...</li>
         <li>...</li>
         <li>...</li>
