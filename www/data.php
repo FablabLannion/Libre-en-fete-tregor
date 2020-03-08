@@ -379,6 +379,12 @@ la construction du monde d’aujourd’hui et de demain."
     "http://www.federation-openspacemakers.com",
     "Initiée par l’agence spatiale française CNES, l’initiative FEDERATION - Open Space Makers vise à créer un cadre et faire vivre un environnement permettant à n’importe qui de se lancer dans des projets de création d'infrastructure spatiale. Ces projets seront open source, pour développer des savoir-faire, des connaissances et du matériel spatial libre de manière collaborative, ouverte et responsable."
   ),
+  array("Bon-Repos-sur-Blavet",
+  "img/logo_bonrepos.png",
+  "https://www.bonrepossurblavet.bzh/",
+  "La commune de Bon-Repos-sur-Blavet a entrepris d’équiper à destination du public les 3 mairies (Perret, Laniscat et St-Gelven) avec des ordinateurs portables reconditionnés et équipés du système d’exploitation libre Emmabuntus-3. Les portables sont récupérés auprès de services publics et de particuliers. Les périphériques neufs sont acquis à l’aide une subvention du Conseil Départemental des Côtes d’Armor. Des sessions de formations au reconditionnement, à l’installation d’Emmabuntüs et à l’utilisation de l’ordinateur sont proposées gratuitement à la population de la commune.
+  "
+  ),
   /*
   array("An Drouizig",
     "img/mw_drouizig.png",
