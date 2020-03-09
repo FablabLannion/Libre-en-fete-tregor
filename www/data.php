@@ -42,14 +42,14 @@ $data_programme = array (
         <td>Jean Rouxel</td>
       </tr>
       <tr>
-        <td>13h00</td>
-        <td>...</td>
+        <td>12h30</td>
+        <td>Pause</td>
         <td></td>
       </tr>
       <tr>
         <td>13h30</td>
-        <td>...</td>
-        <td></td>
+        <td>Congressus : Un outil libre de construction, de débat et de prise de décision</td>
+        <td>Parti Pirate</td>
       </tr>
       <tr>
         <td>14h00</td>
@@ -57,11 +57,6 @@ $data_programme = array (
         <td>Sébastien Brault</td>
       </tr>
       <tr>
-        <td>14h30</td>
-        <td>...</td>
-        <td></td>
-      </tr>
-        <tr>
         <td>15h00</td>
         <td>Présentation de Trégor Energ'éthiques</td>
         <td>Jean Rouxel</td>
@@ -73,18 +68,18 @@ $data_programme = array (
       </tr>
       <tr>
         <td>16h00</td>
-        <td>...</td>
-        <td></td>
+        <td>The Things Networks, l'Internet des objets libre et communautaire?</td>
+        <td>Tangi Lavanant</td>
       </tr>
       <tr>
         <td>16h30</td>
-        <td>...</td>
-        <td></td>
+        <td>Help In Journey (HIJ): un bracelet connecté pour la sécurité en mer</td>
+        <td>Alain Le Meur</td>
       </tr>
         <tr>
         <td>17h00</td>
-        <td>...</td>
-        <td></td>
+        <td>Open Space Makers</td>
+        <td>David Blaisonneau</td>
       </tr>
     </table>
     <div class='center-margin-top italic'>
