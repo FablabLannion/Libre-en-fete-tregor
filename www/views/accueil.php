@@ -4,7 +4,8 @@
             <img src="../img/Libre_en_fete_2020_v3.png" title="Voir l'affiche en PDF" class="poster-small">
         </a>
         <div class="container">
-
+            <!-- <span class="stamp is-approved">Événement maintenu</span> -->
+            <!-- <span class="stamp is-nope">Événement annulé</span> -->
             <div class="row">
                 <div class="col-lg-12">
                     <div class="intro-message">
