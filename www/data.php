@@ -163,11 +163,18 @@ $data_programme = array (
   array("Entreprendre",
      "img/20170510_214516.jpg",
      "",
-     "<ul>
-        <li>...</li>
-        <li>...</li>
-        <li>...</li>
-      </ul>
+     "Découverte du monde du DIY avec le Fablab<br/>
+     <ul>
+		<li>Présentation de réalisations du Fablab</li>
+		<li>Démonstration impressions 3D</li>
+		<li>Atelier dessin 2D</li>
+		<li>Atelier soudure </li>
+     </ul>
+		<br/>
+	Berceau des télécoms français, Lannion offre un écosystème tech complet associant DeepTech numérique et photonique.<br/>
+	Chaque année, de nombreuses startups se créent, innovent et donnent naissance à de belles success stories.<br/>
+	La Communauté French Tech Lannion, associée à French Tech Brest +, portée par la Technopole Anticipa et son board de 10 entrepreneurs/catalyseurs s’est donnée pour missions de fédérer et animer l’écosystème, de faciliter l’accès aux marchés et de favoriser le recrutement de talents.
+
       <br><a href='mailto:agnes@libre-en-fete-tregor.fr?subject=[Libre en Fête Trégor $data_event_year] Espace Entreprendre'>Contact : Agnès</a>"
   ),
   array("Découvrir",
