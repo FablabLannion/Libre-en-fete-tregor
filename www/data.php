@@ -177,11 +177,16 @@ $data_programme = array (
      Votre ordinateur est lent, infesté de virus ? Vous avez toujours voulu essayer Linux ? Votre vieux scanner ne fonctionne plus sous Windows ?<br/>
      Venez avec votre compagnon numérique et sautez le pas ! Les étudiants du Lycée Le Dantec, des techniciens de la ville et des membres du Fablab sont la pour vous guider dans l'installation de GNU/Linux qui lui donnera peut-être une nouvelle vie.<br/>
      <i>N'oubliez pas de sauvegarder vos données avant !</i>
-     <ul>
-        <li>...</li>
-        <li>...</li>
-        <li>...</li>
-      </ul>
+     <b>Debian Facile</b><br/>
+     Venez rencontrer et échanger avec les membres de l'association Debian Facile
+     Infothema<br/>
+     Présentation du potentiel des logiciels libres avec la distribution Ubuntu
+     Club Astro<br/>
+     Présentation du logiciel Stellarium accompagné de plusieurs maquettes des sondes en 3D
+     PTAG +CCER<br/>
+     Découvrir le monde du logiciel libre grace au jeu de carte Questions/Réponses de Framasoft
+     Darktable<br/>
+     Présentation des capacités de ce formidable logiciel de traitement des photographies numériques
       <br><a href='mailto:eric@libre-en-fete-tregor.fr?subject=[Libre en Fête Trégor $data_event_year] Espace Découvrir'>Contact : Éric</a>"
   ),
 );
