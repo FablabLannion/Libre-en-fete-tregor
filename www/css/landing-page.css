@@ -274,7 +274,7 @@ p.copyright {
 .is-nope {
     color: #D23;
     border: 0.5rem double #D23;
-    transform: rotate(-2deg);
+    transform: rotate(-3deg);
     mask-position: 2rem 3rem;
 }
 .is-approved {
