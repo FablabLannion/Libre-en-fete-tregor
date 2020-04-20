@@ -78,11 +78,12 @@
                     <li>
                         <a href="/sponsors">Sponsors</a>
                     </li>
-                    <li class="drop-down-menu"><a>Editions précédentes</a>
-                        <div class="drop-down-menu-items">
-                            <div><a href="/2016">2016</a></div>
-                            <div><a href="/2018">2018</a></div>
-                        </div>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Editions Précédentes <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/2016">2016</a></li>
+                            <li><a href="/2018">2018</a></li>
+                        </ul>
                     </li>
                 </ul>
             </div>
