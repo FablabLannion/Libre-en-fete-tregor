@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 
 <head>
 
@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Libre en fête en Trégor : <?php echo $title; ?> </title>
+    <title>Libre en fête en Trégor : <?= $title ?> </title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -55,7 +55,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <div class="navbar-brand topnav" href=""><?php echo Flight::get('data_event_date');?></div>
+                <div class="navbar-brand topnav" href=""><?= Flight::get('data_event_date') ?></div>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -90,13 +90,10 @@
         </div>
         <!-- /.container -->
     </nav>
-
-      <?php
-         // include page body
-
-         echo $body;
-      ?>
-
+    <?=
+        // include page body
+        $body;
+    ?>
     <!-- Footer -->
     <footer>
         <div class="container">
