@@ -199,24 +199,6 @@ p.copyright {
 .italic {
     font-style: italic;
 }
-.drop-down-menu-items {
-    display: none;
-    text-align: center;
-    background-color: #f8f8f8;
-    position: absolute;
-    width: 100%;
-}
-.drop-down-menu:hover > .drop-down-menu-items { 
-    display: block;
-}
-.drop-down-menu-items a {
-    padding: 10px;
-    border-bottom: none;
-    color: #777;
-}
-.drop-down-menu > a::after {
-    content:" ▼";
-}
 
 .table1 {
     width: 100%;
