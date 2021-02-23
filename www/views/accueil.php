@@ -5,7 +5,7 @@
         </a>
         <div class="container">
             <!-- <span class="stamp is-approved">Événement maintenu</span> -->
-            <span class="stamp is-nope">Édition 2020 annulée<br>Rendez-vous en 2021 !</span>
+            <span class="stamp is-nope">Édition 2020 annulée<br>Rendez-vous en 2022</span>
             <div class="row">
                 <div class="col-lg-12">
                     <div class="intro-message">
